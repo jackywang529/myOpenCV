@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C7203A9A1A896FC10000C35A /* libopencv_imgproc.2.4.10.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C7203A991A896FC10000C35A /* libopencv_imgproc.2.4.10.dylib */; };
+		C7203A9D1A896FDF0000C35A /* libopencv_highgui.2.4.10.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C7203A9B1A896FDF0000C35A /* libopencv_highgui.2.4.10.dylib */; };
+		C7203A9E1A896FDF0000C35A /* libopencv_core.2.4.10.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C7203A9C1A896FDF0000C35A /* libopencv_core.2.4.10.dylib */; };
 		C7638E2E1A889F9A00F79D43 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7638E2D1A889F9A00F79D43 /* main.cpp */; };
-		C7638E351A88A1AB00F79D43 /* libopencv_core.2.4.10.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C7638E341A88A1AB00F79D43 /* libopencv_core.2.4.10.dylib */; };
-		C7638E381A88A1FA00F79D43 /* libopencv_imgproc.2.4.10.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C7638E361A88A1FA00F79D43 /* libopencv_imgproc.2.4.10.dylib */; };
-		C7638E391A88A1FA00F79D43 /* libopencv_highgui.2.4.10.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C7638E371A88A1FA00F79D43 /* libopencv_highgui.2.4.10.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,11 +26,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C7203A991A896FC10000C35A /* libopencv_imgproc.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_imgproc.2.4.10.dylib; path = "../opencv-2.4.10/build/lib/libopencv_imgproc.2.4.10.dylib"; sourceTree = "<group>"; };
+		C7203A9B1A896FDF0000C35A /* libopencv_highgui.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_highgui.2.4.10.dylib; path = "../opencv-2.4.10/build/lib/libopencv_highgui.2.4.10.dylib"; sourceTree = "<group>"; };
+		C7203A9C1A896FDF0000C35A /* libopencv_core.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_core.2.4.10.dylib; path = "../opencv-2.4.10/build/lib/libopencv_core.2.4.10.dylib"; sourceTree = "<group>"; };
 		C7638E2A1A889F9A00F79D43 /* OpenCV Tutorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "OpenCV Tutorial"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7638E2D1A889F9A00F79D43 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		C7638E341A88A1AB00F79D43 /* libopencv_core.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_core.2.4.10.dylib; path = "../opencv-2.4.10/build/lib/libopencv_core.2.4.10.dylib"; sourceTree = "<group>"; };
-		C7638E361A88A1FA00F79D43 /* libopencv_imgproc.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_imgproc.2.4.10.dylib; path = "../opencv-2.4.10/build/lib/libopencv_imgproc.2.4.10.dylib"; sourceTree = "<group>"; };
-		C7638E371A88A1FA00F79D43 /* libopencv_highgui.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_highgui.2.4.10.dylib; path = "../opencv-2.4.10/build/lib/libopencv_highgui.2.4.10.dylib"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,9 +38,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C7638E351A88A1AB00F79D43 /* libopencv_core.2.4.10.dylib in Frameworks */,
-				C7638E381A88A1FA00F79D43 /* libopencv_imgproc.2.4.10.dylib in Frameworks */,
-				C7638E391A88A1FA00F79D43 /* libopencv_highgui.2.4.10.dylib in Frameworks */,
+				C7203A9A1A896FC10000C35A /* libopencv_imgproc.2.4.10.dylib in Frameworks */,
+				C7203A9E1A896FDF0000C35A /* libopencv_core.2.4.10.dylib in Frameworks */,
+				C7203A9D1A896FDF0000C35A /* libopencv_highgui.2.4.10.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -50,9 +50,9 @@
 		C7638E211A889F9800F79D43 = {
 			isa = PBXGroup;
 			children = (
-				C7638E361A88A1FA00F79D43 /* libopencv_imgproc.2.4.10.dylib */,
-				C7638E371A88A1FA00F79D43 /* libopencv_highgui.2.4.10.dylib */,
-				C7638E341A88A1AB00F79D43 /* libopencv_core.2.4.10.dylib */,
+				C7203A9B1A896FDF0000C35A /* libopencv_highgui.2.4.10.dylib */,
+				C7203A9C1A896FDF0000C35A /* libopencv_core.2.4.10.dylib */,
+				C7203A991A896FC10000C35A /* libopencv_imgproc.2.4.10.dylib */,
 				C7638E2C1A889F9A00F79D43 /* OpenCV Tutorial */,
 				C7638E2B1A889F9A00F79D43 /* Products */,
 			);
@@ -140,7 +140,7 @@
 		C7638E2F1A889F9A00F79D43 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -156,6 +156,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = /usr/local/lib;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -170,6 +171,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = /usr/local/include;
+				LIBRARY_SEARCH_PATHS = "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib";
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -180,7 +183,7 @@
 		C7638E301A889F9A00F79D43 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -198,6 +201,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = /usr/local/lib;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
@@ -205,6 +209,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = /usr/local/include;
+				LIBRARY_SEARCH_PATHS = "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib";
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
@@ -217,7 +223,10 @@
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				FRAMEWORK_SEARCH_PATHS = /usr/local/lib;
 				HEADER_SEARCH_PATHS = /usr/local/include;
-				LIBRARY_SEARCH_PATHS = "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib";
+				LIBRARY_SEARCH_PATHS = (
+					"/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib",
+					"/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -228,7 +237,10 @@
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				FRAMEWORK_SEARCH_PATHS = /usr/local/lib;
 				HEADER_SEARCH_PATHS = /usr/local/include;
-				LIBRARY_SEARCH_PATHS = "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib";
+				LIBRARY_SEARCH_PATHS = (
+					"/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib",
+					"/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -252,6 +264,7 @@
 				C7638E331A889F9A00F79D43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
