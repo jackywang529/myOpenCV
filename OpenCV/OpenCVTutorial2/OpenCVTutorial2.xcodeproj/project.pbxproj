@@ -11,6 +11,7 @@
 		C7203ABF1A8992630000C35A /* libopencv_imgproc.2.4.10.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C7203ABC1A8992630000C35A /* libopencv_imgproc.2.4.10.dylib */; };
 		C7203AC01A8992630000C35A /* libopencv_highgui.2.4.10.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C7203ABD1A8992630000C35A /* libopencv_highgui.2.4.10.dylib */; };
 		C7203AC11A8992630000C35A /* libopencv_core.2.4.10.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C7203ABE1A8992630000C35A /* libopencv_core.2.4.10.dylib */; };
+		C7203ACC1A89AC8F0000C35A /* FrameDifferenceBGS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7203ACB1A89AC8F0000C35A /* FrameDifferenceBGS.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		C7203ABC1A8992630000C35A /* libopencv_imgproc.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_imgproc.2.4.10.dylib; path = "../opencv-2.4.10/build/lib/libopencv_imgproc.2.4.10.dylib"; sourceTree = "<group>"; };
 		C7203ABD1A8992630000C35A /* libopencv_highgui.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_highgui.2.4.10.dylib; path = "../opencv-2.4.10/build/lib/libopencv_highgui.2.4.10.dylib"; sourceTree = "<group>"; };
 		C7203ABE1A8992630000C35A /* libopencv_core.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_core.2.4.10.dylib; path = "../opencv-2.4.10/build/lib/libopencv_core.2.4.10.dylib"; sourceTree = "<group>"; };
+		C7203ACA1A89AC8F0000C35A /* FrameDifferenceBGS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FrameDifferenceBGS.h; path = package_bgs/FrameDifferenceBGS.h; sourceTree = SOURCE_ROOT; };
+		C7203ACB1A89AC8F0000C35A /* FrameDifferenceBGS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = FrameDifferenceBGS.cpp; path = package_bgs/FrameDifferenceBGS.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +72,8 @@
 		C7203AB41A8992070000C35A /* OpenCVTutorial2 */ = {
 			isa = PBXGroup;
 			children = (
+				C7203ACA1A89AC8F0000C35A /* FrameDifferenceBGS.h */,
+				C7203ACB1A89AC8F0000C35A /* FrameDifferenceBGS.cpp */,
 				C7203AB51A8992070000C35A /* main.cpp */,
 			);
 			path = OpenCVTutorial2;
@@ -131,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7203AB61A8992070000C35A /* main.cpp in Sources */,
+				C7203ACC1A89AC8F0000C35A /* FrameDifferenceBGS.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,7 +223,11 @@
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				FRAMEWORK_SEARCH_PATHS = /usr/local/lib;
 				HEADER_SEARCH_PATHS = /usr/local/include;
-				LIBRARY_SEARCH_PATHS = "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib";
+				LIBRARY_SEARCH_PATHS = (
+					"/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib",
+					/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/externals/bgslibrary,
+					/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/externals/bgslibrary/package_bgs,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -228,7 +238,11 @@
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				FRAMEWORK_SEARCH_PATHS = /usr/local/lib;
 				HEADER_SEARCH_PATHS = /usr/local/include;
-				LIBRARY_SEARCH_PATHS = "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib";
+				LIBRARY_SEARCH_PATHS = (
+					"/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib",
+					/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/externals/bgslibrary,
+					/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/externals/bgslibrary/package_bgs,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

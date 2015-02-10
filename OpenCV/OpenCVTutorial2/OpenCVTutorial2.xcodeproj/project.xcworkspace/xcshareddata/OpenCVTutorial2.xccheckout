@@ -12,6 +12,8 @@
 	<dict>
 		<key>C55CACB1455628CEE939F95BDC9D38A5DBA4EE3A</key>
 		<string>https://github.com/jackywang529/myOpenCV.git</string>
+		<key>E875C2C25AA3F9AC22368E7EB0EE3E894473831C</key>
+		<string>https://github.com/andrewssobral/bgslibrary.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>OpenCV/OpenCVTutorial2/OpenCVTutorial2.xcodeproj</string>
@@ -19,6 +21,8 @@
 	<dict>
 		<key>C55CACB1455628CEE939F95BDC9D38A5DBA4EE3A</key>
 		<string>../../../..</string>
+		<key>E875C2C25AA3F9AC22368E7EB0EE3E894473831C</key>
+		<string>../../../..OpenCV/externals/bgslibrary/</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/jackywang529/myOpenCV.git</string>
@@ -28,6 +32,14 @@
 	<string>C55CACB1455628CEE939F95BDC9D38A5DBA4EE3A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E875C2C25AA3F9AC22368E7EB0EE3E894473831C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bgslibrary</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

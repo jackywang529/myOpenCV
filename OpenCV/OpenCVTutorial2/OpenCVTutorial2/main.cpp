@@ -3,6 +3,7 @@
 #include "opencv2/imgproc/imgproc.hpp"
 #include "opencv2/core/core.hpp"
 //#include "package_bgs/FrameDifferenceBGS.h"
+#include "FrameDifferenceBGS.h"
 
 using namespace cv;
 
@@ -10,7 +11,37 @@ int main (int argc, char *argv[]) {
     
     
     //VideoCapture cap("people.mp4"); // open the default camera
+    //CvCapture *capture = cvCaptureFromCAM(0);
+    CvCapture *capture = cvCaptureFromFile("people2.mp4");
     
+    IBGS *bgs;
+    bgs = new FrameDifferenceBGS;
+    IplImage *frame;
+    while (1)
+    {
+        frame = cvQueryFrame(capture);
+        if(!frame) break;
+        
+        Mat img_input(frame);
+        imshow("Input", img_input);
+        
+        Mat img_mask;
+        Mat img_bkgmodel;
+        
+        bgs->process(img_input, img_mask, img_bkgmodel);
+        
+        if (cvWaitKey(33) >= 0)
+            break;
+    }
+    
+    delete bgs;
+    
+    cvDestroyAllWindows();
+    cvReleaseCapture(&capture);
+    
+    return 0;
+    
+    /*
     VideoCapture cap(0);
     if(!cap.isOpened()) { // check if we succeeded
         printf("input video not opened\n");
@@ -40,6 +71,10 @@ int main (int argc, char *argv[]) {
         Canny(edges, edges, 0, 30, 3);
         imshow("edges", edges);
         //output_cap.write(frame);
+     
+     */
+    
+    
         /*
          // Attempt to fix Mac OS gray scale not able to be written
          Mat imageGrey;
@@ -47,12 +82,15 @@ int main (int argc, char *argv[]) {
          merge(imageArr, 3, imageGrey);
          output_cap.write(imageGrey);
          */
+    
+    /*
         
         if(waitKey(30) >= 0) break;
         //waitKey(0);
     }
     // the camera will be deinitialized automatically in VideoCapture destructor
     return 0;
+    */
     
     /* Webcam
      VideoCapture cap(0);
