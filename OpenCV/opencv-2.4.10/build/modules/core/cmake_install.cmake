@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core
+# Install script for directory: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -29,9 +29,9 @@ ENDIF(NOT CMAKE_INSTALL_COMPONENT)
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "libs")
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_core.2.4.10.dylib"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_core.2.4.dylib"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_core.dylib"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_core.2.4.10.dylib"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_core.2.4.dylib"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_core.dylib"
     )
   FOREACH(file
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libopencv_core.2.4.10.dylib"
@@ -51,62 +51,62 @@ IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "libs")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "libs")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/affine.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/affine.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/core.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/core.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/cuda_devptrs.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/cuda_devptrs.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/devmem2d.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/devmem2d.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/eigen.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/eigen.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/gpumat.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/gpumat.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/internal.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/internal.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/mat.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/mat.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/opengl_interop.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/opengl_interop.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/opengl_interop_deprecated.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/opengl_interop_deprecated.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/operations.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/operations.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/version.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/version.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/wimage.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/wimage.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/core_c.h")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/core_c.h")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/types_c.h")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2/core" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/include/opencv2/core/types_c.h")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 

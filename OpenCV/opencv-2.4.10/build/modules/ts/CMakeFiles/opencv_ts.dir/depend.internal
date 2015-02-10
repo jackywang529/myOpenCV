@@ -21,7 +21,7 @@ modules/ts/CMakeFiles/opencv_ts.dir/src/gpu_perf.cpp.o
  ../modules/ts/include/opencv2/ts/gpu_perf.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ts/src/gpu_perf.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ts/src/gpu_perf.cpp
  cvconfig.h
 modules/ts/CMakeFiles/opencv_ts.dir/src/gpu_test.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -44,7 +44,7 @@ modules/ts/CMakeFiles/opencv_ts.dir/src/gpu_test.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ts/src/gpu_test.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ts/src/gpu_test.cpp
 modules/ts/CMakeFiles/opencv_ts.dir/src/ts.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -63,8 +63,8 @@ modules/ts/CMakeFiles/opencv_ts.dir/src/ts.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ts/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ts/src/ts.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ts/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ts/src/ts.cpp
  cvconfig.h
 modules/ts/CMakeFiles/opencv_ts.dir/src/ts_arrtest.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -84,8 +84,8 @@ modules/ts/CMakeFiles/opencv_ts.dir/src/ts_arrtest.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ts/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ts/src/ts_arrtest.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ts/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ts/src/ts_arrtest.cpp
  cvconfig.h
 modules/ts/CMakeFiles/opencv_ts.dir/src/ts_func.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -105,8 +105,8 @@ modules/ts/CMakeFiles/opencv_ts.dir/src/ts_func.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ts/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ts/src/ts_func.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ts/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ts/src/ts_func.cpp
  cvconfig.h
 modules/ts/CMakeFiles/opencv_ts.dir/src/ts_gtest.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -126,8 +126,8 @@ modules/ts/CMakeFiles/opencv_ts.dir/src/ts_gtest.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ts/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ts/src/ts_gtest.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ts/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ts/src/ts_gtest.cpp
  cvconfig.h
 modules/ts/CMakeFiles/opencv_ts.dir/src/ts_perf.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -149,6 +149,6 @@ modules/ts/CMakeFiles/opencv_ts.dir/src/ts_perf.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ts/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ts/src/ts_perf.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ts/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ts/src/ts_perf.cpp
  cvconfig.h

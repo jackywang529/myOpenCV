@@ -4,17 +4,17 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_basic_props.cpp" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_basic_props.cpp.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_drawing.cpp" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_drawing.cpp.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_ffmpeg.cpp" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_ffmpeg.cpp.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_fourcc.cpp" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_fourcc.cpp.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_framecount.cpp" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_framecount.cpp.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_grfmt.cpp" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_grfmt.cpp.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_gui.cpp" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_gui.cpp.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_main.cpp" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_main.cpp.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_positioning.cpp" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_positioning.cpp.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_video_io.cpp" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_io.cpp.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_video_pos.cpp" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_pos.cpp.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_basic_props.cpp" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_basic_props.cpp.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_drawing.cpp" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_drawing.cpp.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_ffmpeg.cpp" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_ffmpeg.cpp.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_fourcc.cpp" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_fourcc.cpp.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_framecount.cpp" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_framecount.cpp.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_grfmt.cpp" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_grfmt.cpp.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_gui.cpp" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_gui.cpp.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_main.cpp" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_main.cpp.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_positioning.cpp" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_positioning.cpp.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_video_io.cpp" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_io.cpp.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_video_pos.cpp" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_pos.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "Clang")
 
@@ -25,13 +25,13 @@ SET(CMAKE_TARGET_DEFINITIONS
 
 # Targets to which this target links.
 SET(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/core/CMakeFiles/opencv_core.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/imgproc/CMakeFiles/opencv_imgproc.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_highgui.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/ts/CMakeFiles/opencv_ts.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/flann/CMakeFiles/opencv_flann.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/features2d/CMakeFiles/opencv_features2d.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/video/CMakeFiles/opencv_video.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/core/CMakeFiles/opencv_core.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/imgproc/CMakeFiles/opencv_imgproc.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_highgui.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/ts/CMakeFiles/opencv_ts.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/flann/CMakeFiles/opencv_flann.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/features2d/CMakeFiles/opencv_features2d.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/video/CMakeFiles/opencv_video.dir/DependInfo.cmake"
   )
 
 # The include file search paths:

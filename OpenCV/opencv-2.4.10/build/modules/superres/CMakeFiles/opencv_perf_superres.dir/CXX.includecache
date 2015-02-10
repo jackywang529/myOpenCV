@@ -346,35 +346,35 @@ tbb/task_scheduler_init.h
 android/log.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/perf_main.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/perf_main.cpp
 perf_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
 cvconfig.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/cvconfig.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/cvconfig.h
 opencv2/ts/ts.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/ts/ts.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/ts/ts.hpp
 opencv2/ts/gpu_perf.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/ts/gpu_perf.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/ts/gpu_perf.hpp
 opencv2/core/core.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/core/core.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/core/core.hpp
 opencv2/core/gpumat.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/core/gpumat.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/core/gpumat.hpp
 opencv2/superres/superres.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/superres/superres.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/superres/superres.hpp
 opencv2/superres/optical_flow.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/superres/optical_flow.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/superres/optical_flow.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/perf_superres.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/perf_superres.cpp
 perf_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/perf_superres_ocl.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/perf_superres_ocl.cpp
 perf_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
 opencv2/ocl/ocl.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/ocl/ocl.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/opencv2/ocl/ocl.hpp
 
 cvconfig.h
 

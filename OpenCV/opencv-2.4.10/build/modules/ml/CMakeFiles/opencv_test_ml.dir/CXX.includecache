@@ -280,13 +280,13 @@ tbb/task_scheduler_init.h
 android/log.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/test_emknearestkmeans.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/test_emknearestkmeans.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/test_gbttest.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/test_gbttest.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
 string
 -
 fstream
@@ -294,33 +294,33 @@ fstream
 iostream
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/test_main.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/test_main.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/test_mltests.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/test_mltests.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/test_mltests2.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/test_mltests2.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
 opencv2/ts/ts.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/opencv2/ts/ts.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/opencv2/ts/ts.hpp
 opencv2/ml/ml.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/opencv2/ml/ml.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/opencv2/ml/ml.hpp
 opencv2/core/core_c.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/opencv2/core/core_c.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/opencv2/core/core_c.h
 iostream
 -
 map
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/test_save_load.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/test_save_load.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/test/test_precomp.hpp
 iostream
 -
 fstream

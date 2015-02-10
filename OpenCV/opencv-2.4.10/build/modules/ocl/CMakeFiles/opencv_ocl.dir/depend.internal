@@ -26,8 +26,8 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/opencl_kernels.cpp.o
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
  ../modules/ocl/src/precomp.hpp
  ../modules/ocl/src/safe_call.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/ocl/opencl_kernels.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/ocl/opencl_kernels.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/ocl/opencl_kernels.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/ocl/opencl_kernels.hpp
  cvconfig.h
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/arithm.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -52,9 +52,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/arithm.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/arithm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/arithm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/bgfg_mog.cpp.o
@@ -80,9 +80,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/bgfg_mog.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/bgfg_mog.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/bgfg_mog.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/blend.cpp.o
@@ -108,9 +108,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/blend.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/blend.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/blend.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/brute_force_matcher.cpp.o
@@ -136,9 +136,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/brute_force_matcher.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/brute_force_matcher.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/brute_force_matcher.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/build_warps.cpp.o
@@ -164,9 +164,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/build_warps.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/build_warps.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/build_warps.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/canny.cpp.o
@@ -192,9 +192,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/canny.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/canny.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/canny.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/cl_context.cpp.o
@@ -221,10 +221,10 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/cl_context.cpp.o
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/opencl_utils.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/cl_context.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/cl_programcache.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/cl_context.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/cl_programcache.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/cl_operations.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -249,10 +249,10 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/cl_operations.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/cl_operations.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/cl_programcache.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/cl_operations.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/cl_programcache.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/cl_programcache.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -277,10 +277,10 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/cl_programcache.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/cl_programcache.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/cl_programcache.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/cl_programcache.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/cl_programcache.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/cl_runtime/cl_runtime.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -307,8 +307,8 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/cl_runtime/cl_runtime.cpp.o
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
  ../modules/ocl/src/precomp.hpp
  ../modules/ocl/src/safe_call.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/cl_runtime/cl_runtime.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/cl_runtime/cl_runtime_opencl_impl.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/cl_runtime/cl_runtime.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/cl_runtime/cl_runtime_opencl_impl.hpp
  cvconfig.h
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/cl_runtime/clamdblas_runtime.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -336,7 +336,7 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/cl_runtime/clamdblas_runtime.cpp.o
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
  ../modules/ocl/src/precomp.hpp
  ../modules/ocl/src/safe_call.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/cl_runtime/clamdblas_runtime.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/cl_runtime/clamdblas_runtime.cpp
  cvconfig.h
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/cl_runtime/clamdfft_runtime.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -364,7 +364,7 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/cl_runtime/clamdfft_runtime.cpp.o
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
  ../modules/ocl/src/precomp.hpp
  ../modules/ocl/src/safe_call.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/cl_runtime/clamdfft_runtime.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/cl_runtime/clamdfft_runtime.cpp
  cvconfig.h
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/color.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -389,9 +389,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/color.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/color.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/color.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/columnsum.cpp.o
@@ -417,9 +417,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/columnsum.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/columnsum.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/columnsum.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/error.cpp.o
@@ -445,9 +445,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/error.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/error.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/error.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/fft.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -473,9 +473,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/fft.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/fft.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/fft.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/filtering.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -500,9 +500,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/filtering.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/filtering.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/filtering.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/gemm.cpp.o
@@ -529,9 +529,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/gemm.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/gemm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/gemm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/gftt.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -556,9 +556,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/gftt.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/gftt.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/gftt.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/haar.cpp.o
@@ -584,9 +584,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/haar.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/haar.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/haar.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/hog.cpp.o
@@ -612,9 +612,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/hog.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/hog.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/hog.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/imgproc.cpp.o
@@ -640,9 +640,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/imgproc.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/imgproc.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/imgproc.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/interpolate_frames.cpp.o
@@ -668,9 +668,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/interpolate_frames.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/interpolate_frames.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/interpolate_frames.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/kalman.cpp.o
@@ -696,9 +696,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/kalman.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/kalman.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/kalman.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/kmeans.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -723,9 +723,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/kmeans.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/kmeans.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/kmeans.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/knearest.cpp.o
@@ -751,9 +751,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/knearest.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/knearest.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/knearest.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/match_template.cpp.o
@@ -779,9 +779,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/match_template.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/match_template.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/match_template.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/matrix_operations.cpp.o
@@ -807,9 +807,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/matrix_operations.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/matrix_operations.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/matrix_operations.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/mcwutil.cpp.o
@@ -835,9 +835,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/mcwutil.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/mcwutil.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/mcwutil.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/moments.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -862,9 +862,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/moments.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/moments.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/moments.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/mssegmentation.cpp.o
@@ -890,9 +890,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/mssegmentation.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/mssegmentation.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/mssegmentation.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/optical_flow_farneback.cpp.o
@@ -919,9 +919,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/optical_flow_farneback.cpp.o
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/optical_flow_farneback.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/optical_flow_farneback.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/pyrdown.cpp.o
@@ -947,9 +947,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/pyrdown.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/pyrdown.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/pyrdown.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/pyrlk.cpp.o
@@ -975,9 +975,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/pyrlk.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/pyrlk.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/pyrlk.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/pyrup.cpp.o
@@ -1003,9 +1003,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/pyrup.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/pyrup.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/pyrup.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/sort_by_key.cpp.o
@@ -1031,9 +1031,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/sort_by_key.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/sort_by_key.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/sort_by_key.cpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/split_merge.cpp.o
@@ -1059,9 +1059,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/split_merge.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/split_merge.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/split_merge.cpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/stereo_csbp.cpp.o
@@ -1087,9 +1087,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/stereo_csbp.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/stereo_csbp.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/stereo_csbp.cpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/stereobm.cpp.o
@@ -1115,9 +1115,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/stereobm.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/stereobm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/stereobm.cpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/stereobp.cpp.o
@@ -1143,9 +1143,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/stereobp.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/stereobp.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/stereobp.cpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/svm.cpp.o
@@ -1171,9 +1171,9 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/svm.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/svm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/svm.cpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp
 modules/ocl/CMakeFiles/opencv_ocl.dir/src/tvl1flow.cpp.o
@@ -1199,8 +1199,8 @@ modules/ocl/CMakeFiles/opencv_ocl.dir/src/tvl1flow.cpp.o
  ../modules/ocl/include/opencv2/ocl/matrix_operations.hpp
  ../modules/ocl/include/opencv2/ocl/ocl.hpp
  ../modules/ocl/include/opencv2/ocl/private/util.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ocl/src/tvl1flow.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/safe_call.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ocl/src/tvl1flow.cpp
  cvconfig.h
  modules/ocl/opencl_kernels.hpp

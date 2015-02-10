@@ -105,8 +105,8 @@ modules/python/CMakeFiles/opencv_python.dir/src2/cv2.cpp.o
  /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/core/include/numpy/numpyconfig.h
  /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/core/include/numpy/old_defines.h
  /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/core/include/numpy/utils.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/python/src2/cv2.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/python/src2/cv2.cv.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/python/src2/cv2.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/python/src2/cv2.cv.hpp
  modules/python/generated0.i
  modules/python/generated1.i
  modules/python/generated2.i

@@ -288,91 +288,91 @@ tbb/task_scheduler_init.h
 android/log.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_basic_props.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_basic_props.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
 opencv2/highgui/highgui.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
 opencv2/ts/ts.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/ts/ts.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/ts/ts.hpp
 stdio.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_drawing.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_drawing.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
 opencv2/highgui/highgui.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_ffmpeg.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_ffmpeg.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
 opencv2/highgui/highgui.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_fourcc.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_fourcc.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
 opencv2/highgui/highgui.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_framecount.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_framecount.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
 opencv2/highgui/highgui.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
 stdio.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_grfmt.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_grfmt.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
 opencv2/highgui/highgui.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
 tiff.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/tiff.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/tiff.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_gui.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_gui.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
 opencv2/highgui/highgui.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_main.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_main.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_positioning.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_positioning.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
 opencv2/highgui/highgui.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
 stdio.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
 cvconfig.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/cvconfig.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/cvconfig.h
 opencv2/ts/ts.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/ts/ts.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/ts/ts.hpp
 opencv2/imgproc/imgproc.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/imgproc/imgproc.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/imgproc/imgproc.hpp
 opencv2/imgproc/imgproc_c.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/imgproc/imgproc_c.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/imgproc/imgproc_c.h
 iostream
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_video_io.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_video_io.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
 opencv2/highgui/highgui.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_video_pos.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_video_pos.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/test_precomp.hpp
 opencv2/highgui/highgui.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/test/opencv2/highgui/highgui.hpp
 
 3rdparty/libtiff/tif_config.h
 

@@ -17,8 +17,8 @@ modules/core/CMakeFiles/opencv_test_core.dir/test/test_arithm.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_arithm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_arithm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
 modules/core/CMakeFiles/opencv_test_core.dir/test/test_countnonzero.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -35,8 +35,8 @@ modules/core/CMakeFiles/opencv_test_core.dir/test/test_countnonzero.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_countnonzero.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_countnonzero.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
 modules/core/CMakeFiles/opencv_test_core.dir/test/test_ds.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -53,8 +53,8 @@ modules/core/CMakeFiles/opencv_test_core.dir/test/test_ds.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_ds.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_ds.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
 modules/core/CMakeFiles/opencv_test_core.dir/test/test_dxt.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -71,8 +71,8 @@ modules/core/CMakeFiles/opencv_test_core.dir/test/test_dxt.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_dxt.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_dxt.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
 modules/core/CMakeFiles/opencv_test_core.dir/test/test_eigen.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -89,8 +89,8 @@ modules/core/CMakeFiles/opencv_test_core.dir/test/test_eigen.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_eigen.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_eigen.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
 modules/core/CMakeFiles/opencv_test_core.dir/test/test_io.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -107,8 +107,8 @@ modules/core/CMakeFiles/opencv_test_core.dir/test/test_io.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_io.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_io.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
 modules/core/CMakeFiles/opencv_test_core.dir/test/test_main.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -125,8 +125,8 @@ modules/core/CMakeFiles/opencv_test_core.dir/test/test_main.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_main.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_main.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
 modules/core/CMakeFiles/opencv_test_core.dir/test/test_mat.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -143,8 +143,8 @@ modules/core/CMakeFiles/opencv_test_core.dir/test/test_mat.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_mat.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_mat.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
 modules/core/CMakeFiles/opencv_test_core.dir/test/test_math.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -161,8 +161,8 @@ modules/core/CMakeFiles/opencv_test_core.dir/test/test_math.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_math.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_math.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
 modules/core/CMakeFiles/opencv_test_core.dir/test/test_misc.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -179,8 +179,8 @@ modules/core/CMakeFiles/opencv_test_core.dir/test/test_misc.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_misc.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_misc.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
 modules/core/CMakeFiles/opencv_test_core.dir/test/test_operations.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -197,8 +197,8 @@ modules/core/CMakeFiles/opencv_test_core.dir/test/test_operations.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_operations.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_operations.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
 modules/core/CMakeFiles/opencv_test_core.dir/test/test_rand.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -215,5 +215,5 @@ modules/core/CMakeFiles/opencv_test_core.dir/test/test_rand.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/test/test_rand.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/test/test_rand.cpp

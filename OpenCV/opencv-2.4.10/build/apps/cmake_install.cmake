@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps
+# Install script for directory: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -29,8 +29,8 @@ ENDIF(NOT CMAKE_INSTALL_COMPONENT)
 
 IF(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  INCLUDE("/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/apps/haartraining/cmake_install.cmake")
-  INCLUDE("/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/apps/traincascade/cmake_install.cmake")
+  INCLUDE("/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/apps/haartraining/cmake_install.cmake")
+  INCLUDE("/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/apps/traincascade/cmake_install.cmake")
 
 ENDIF(NOT CMAKE_INSTALL_LOCAL_ONLY)
 

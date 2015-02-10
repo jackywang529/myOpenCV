@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is Clang, found in "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/2.8.11.2/CompilerIdCXX/a.out"
+The CXX compiler identification is Clang, found in "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/2.8.11.2/CompilerIdCXX/a.out"
 
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
 Compiler: /usr/bin/cc 
@@ -23,39 +23,39 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is Clang, found in "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/2.8.11.2/CompilerIdC/a.out"
+The C compiler identification is Clang, found in "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/2.8.11.2/CompilerIdC/a.out"
 
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2793023662/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2793023662.dir/build.make CMakeFiles/cmTryCompileExec2793023662.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building CXX object CMakeFiles/cmTryCompileExec2793023662.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTryCompileExec2793023662.dir/testCXXCompiler.cxx.o -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTryCompileExec2793023662
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec2793023662.dir/link.txt --verbose=1
-/usr/bin/c++       -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec2793023662.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec2793023662  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1213679052/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1213679052.dir/build.make CMakeFiles/cmTryCompileExec1213679052.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1213679052.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec1213679052.dir/testCXXCompiler.cxx.o -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec1213679052
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec1213679052.dir/link.txt --verbose=1
+/usr/bin/c++       -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec1213679052.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec1213679052  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1072228264/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1072228264.dir/build.make CMakeFiles/cmTryCompileExec1072228264.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building CXX object CMakeFiles/cmTryCompileExec1072228264.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTryCompileExec1072228264.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp"
-Linking CXX executable cmTryCompileExec1072228264
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec1072228264.dir/link.txt --verbose=1
-/usr/bin/c++       -Wl,-search_paths_first -Wl,-headerpad_max_install_names -v -Wl,-v CMakeFiles/cmTryCompileExec1072228264.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec1072228264   
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec3128295349/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec3128295349.dir/build.make CMakeFiles/cmTryCompileExec3128295349.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3128295349.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec3128295349.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp"
+Linking CXX executable cmTryCompileExec3128295349
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec3128295349.dir/link.txt --verbose=1
+/usr/bin/c++       -Wl,-search_paths_first -Wl,-headerpad_max_install_names -v -Wl,-v CMakeFiles/cmTryCompileExec3128295349.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec3128295349   
 Apple LLVM version 6.0 (clang-600.0.56) (based on LLVM 3.5svn)
 Target: x86_64-apple-darwin13.4.0
 Thread model: posix
- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.9.0 -o cmTryCompileExec1072228264 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec1072228264.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.0/lib/darwin/libclang_rt.osx.a
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.9.0 -o cmTryCompileExec3128295349 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec3128295349.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.0/lib/darwin/libclang_rt.osx.a
 @(#)PROGRAM:ld  PROJECT:ld64-241.9
 configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7m armv7em
 Library search paths:
@@ -64,26 +64,26 @@ Library search paths:
 Framework search paths:
 	/Library/Frameworks/
 	/System/Library/Frameworks/
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1072228264/fast"]
-  ignore line: [/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1072228264.dir/build.make CMakeFiles/cmTryCompileExec1072228264.dir/build]
-  ignore line: [gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp']
-  ignore line: ["/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1]
-  ignore line: [Building CXX object CMakeFiles/cmTryCompileExec1072228264.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTryCompileExec1072228264.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp"]
-  ignore line: [Linking CXX executable cmTryCompileExec1072228264]
-  ignore line: ["/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec1072228264.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++       -Wl,-search_paths_first -Wl,-headerpad_max_install_names -v -Wl,-v CMakeFiles/cmTryCompileExec1072228264.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec1072228264   ]
+  ignore line: [Run Build Command:/opt/local/bin/gmake "cmTryCompileExec3128295349/fast"]
+  ignore line: [/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec3128295349.dir/build.make CMakeFiles/cmTryCompileExec3128295349.dir/build]
+  ignore line: [gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp']
+  ignore line: ["/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building CXX object CMakeFiles/cmTryCompileExec3128295349.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTryCompileExec3128295349.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp"]
+  ignore line: [Linking CXX executable cmTryCompileExec3128295349]
+  ignore line: ["/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec3128295349.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++       -Wl,-search_paths_first -Wl,-headerpad_max_install_names -v -Wl,-v CMakeFiles/cmTryCompileExec3128295349.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec3128295349   ]
   ignore line: [Apple LLVM version 6.0 (clang-600.0.56) (based on LLVM 3.5svn)]
   ignore line: [Target: x86_64-apple-darwin13.4.0]
   ignore line: [Thread model: posix]
-  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.9.0 -o cmTryCompileExec1072228264 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec1072228264.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.0/lib/darwin/libclang_rt.osx.a]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.9.0 -o cmTryCompileExec3128295349 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec3128295349.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.0/lib/darwin/libclang_rt.osx.a]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
     arg [-demangle] ==> ignore
     arg [-dynamic] ==> ignore
@@ -92,11 +92,11 @@ Parsed CXX implicit link information from above output:
     arg [-macosx_version_min] ==> ignore
     arg [10.9.0] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTryCompileExec1072228264] ==> ignore
+    arg [cmTryCompileExec3128295349] ==> ignore
     arg [-search_paths_first] ==> ignore
     arg [-headerpad_max_install_names] ==> ignore
     arg [-v] ==> ignore
-    arg [CMakeFiles/cmTryCompileExec1072228264.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTryCompileExec3128295349.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lc++] ==> lib [c++]
     arg [-lSystem] ==> lib [System]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.0/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.0/lib/darwin/libclang_rt.osx.a]
@@ -114,36 +114,36 @@ Parsed CXX implicit link information from above output:
 
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2767667498/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2767667498.dir/build.make CMakeFiles/cmTryCompileExec2767667498.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec2767667498.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTryCompileExec2767667498.dir/testCCompiler.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTryCompileExec2767667498
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec2767667498.dir/link.txt --verbose=1
-/usr/bin/cc      -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec2767667498.dir/testCCompiler.c.o  -o cmTryCompileExec2767667498  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1319593211/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1319593211.dir/build.make CMakeFiles/cmTryCompileExec1319593211.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1319593211.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec1319593211.dir/testCCompiler.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTryCompileExec1319593211
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec1319593211.dir/link.txt --verbose=1
+/usr/bin/cc      -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec1319593211.dir/testCCompiler.c.o  -o cmTryCompileExec1319593211  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2964344529/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2964344529.dir/build.make CMakeFiles/cmTryCompileExec2964344529.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec2964344529.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTryCompileExec2964344529.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CMakeCCompilerABI.c"
-Linking C executable cmTryCompileExec2964344529
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec2964344529.dir/link.txt --verbose=1
-/usr/bin/cc      -Wl,-search_paths_first -Wl,-headerpad_max_install_names -v -Wl,-v CMakeFiles/cmTryCompileExec2964344529.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec2964344529   
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec3941233931/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec3941233931.dir/build.make CMakeFiles/cmTryCompileExec3941233931.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3941233931.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3941233931.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CMakeCCompilerABI.c"
+Linking C executable cmTryCompileExec3941233931
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec3941233931.dir/link.txt --verbose=1
+/usr/bin/cc      -Wl,-search_paths_first -Wl,-headerpad_max_install_names -v -Wl,-v CMakeFiles/cmTryCompileExec3941233931.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec3941233931   
 Apple LLVM version 6.0 (clang-600.0.56) (based on LLVM 3.5svn)
 Target: x86_64-apple-darwin13.4.0
 Thread model: posix
- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.9.0 -o cmTryCompileExec2964344529 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec2964344529.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.0/lib/darwin/libclang_rt.osx.a
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.9.0 -o cmTryCompileExec3941233931 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec3941233931.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.0/lib/darwin/libclang_rt.osx.a
 @(#)PROGRAM:ld  PROJECT:ld64-241.9
 configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7m armv7em
 Library search paths:
@@ -152,26 +152,26 @@ Library search paths:
 Framework search paths:
 	/Library/Frameworks/
 	/System/Library/Frameworks/
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2964344529/fast"]
-  ignore line: [/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2964344529.dir/build.make CMakeFiles/cmTryCompileExec2964344529.dir/build]
-  ignore line: [gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp']
-  ignore line: ["/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1]
-  ignore line: [Building C object CMakeFiles/cmTryCompileExec2964344529.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTryCompileExec2964344529.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CMakeCCompilerABI.c"]
-  ignore line: [Linking C executable cmTryCompileExec2964344529]
-  ignore line: ["/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec2964344529.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc      -Wl,-search_paths_first -Wl,-headerpad_max_install_names -v -Wl,-v CMakeFiles/cmTryCompileExec2964344529.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec2964344529   ]
+  ignore line: [Run Build Command:/opt/local/bin/gmake "cmTryCompileExec3941233931/fast"]
+  ignore line: [/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec3941233931.dir/build.make CMakeFiles/cmTryCompileExec3941233931.dir/build]
+  ignore line: [gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp']
+  ignore line: ["/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building C object CMakeFiles/cmTryCompileExec3941233931.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3941233931.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CMakeCCompilerABI.c"]
+  ignore line: [Linking C executable cmTryCompileExec3941233931]
+  ignore line: ["/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec3941233931.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc      -Wl,-search_paths_first -Wl,-headerpad_max_install_names -v -Wl,-v CMakeFiles/cmTryCompileExec3941233931.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec3941233931   ]
   ignore line: [Apple LLVM version 6.0 (clang-600.0.56) (based on LLVM 3.5svn)]
   ignore line: [Target: x86_64-apple-darwin13.4.0]
   ignore line: [Thread model: posix]
-  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.9.0 -o cmTryCompileExec2964344529 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec2964344529.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.0/lib/darwin/libclang_rt.osx.a]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.9.0 -o cmTryCompileExec3941233931 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec3941233931.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.0/lib/darwin/libclang_rt.osx.a]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
     arg [-demangle] ==> ignore
     arg [-dynamic] ==> ignore
@@ -180,11 +180,11 @@ Parsed C implicit link information from above output:
     arg [-macosx_version_min] ==> ignore
     arg [10.9.0] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTryCompileExec2964344529] ==> ignore
+    arg [cmTryCompileExec3941233931] ==> ignore
     arg [-search_paths_first] ==> ignore
     arg [-headerpad_max_install_names] ==> ignore
     arg [-v] ==> ignore
-    arg [CMakeFiles/cmTryCompileExec2964344529.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTryCompileExec3941233931.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lSystem] ==> lib [System]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.0/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.0/lib/darwin/libclang_rt.osx.a]
   Library search paths: [;/usr/lib;/usr/local/lib]
@@ -201,197 +201,197 @@ Parsed C implicit link information from above output:
 
 
 Determining if the include file sys/types.h exists passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec632787735/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec632787735.dir/build.make CMakeFiles/cmTryCompileExec632787735.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec632787735.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec632787735.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTryCompileExec632787735
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec632787735.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec632787735.dir/CheckIncludeFile.c.o  -o cmTryCompileExec632787735  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1528282770/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1528282770.dir/build.make CMakeFiles/cmTryCompileExec1528282770.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1528282770.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec1528282770.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec1528282770
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec1528282770.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec1528282770.dir/CheckIncludeFile.c.o  -o cmTryCompileExec1528282770  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the include file stdint.h exists passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec3865585237/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec3865585237.dir/build.make CMakeFiles/cmTryCompileExec3865585237.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec3865585237.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec3865585237.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTryCompileExec3865585237
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec3865585237.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec3865585237.dir/CheckIncludeFile.c.o  -o cmTryCompileExec3865585237  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2541047233/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2541047233.dir/build.make CMakeFiles/cmTryCompileExec2541047233.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2541047233.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec2541047233.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec2541047233
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec2541047233.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec2541047233.dir/CheckIncludeFile.c.o  -o cmTryCompileExec2541047233  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the include file stddef.h exists passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec814668793/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec814668793.dir/build.make CMakeFiles/cmTryCompileExec814668793.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec814668793.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec814668793.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTryCompileExec814668793
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec814668793.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec814668793.dir/CheckIncludeFile.c.o  -o cmTryCompileExec814668793  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1402675480/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1402675480.dir/build.make CMakeFiles/cmTryCompileExec1402675480.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1402675480.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec1402675480.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec1402675480
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec1402675480.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec1402675480.dir/CheckIncludeFile.c.o  -o cmTryCompileExec1402675480  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Determining size of unsigned short passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec664567522/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec664567522.dir/build.make CMakeFiles/cmTryCompileExec664567522.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec664567522.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec664567522.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/CMAKE_SIZEOF_UNSIGNED_SHORT.c
-Linking C executable cmTryCompileExec664567522
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec664567522.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec664567522.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o  -o cmTryCompileExec664567522  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec3077964603/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec3077964603.dir/build.make CMakeFiles/cmTryCompileExec3077964603.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3077964603.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec3077964603.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/CMAKE_SIZEOF_UNSIGNED_SHORT.c
+Linking C executable cmTryCompileExec3077964603
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec3077964603.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec3077964603.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o  -o cmTryCompileExec3077964603  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the function fseeko exists passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec630874580/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec630874580.dir/build.make CMakeFiles/cmTryCompileExec630874580.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec630874580.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3  -DCHECK_FUNCTION_EXISTS=fseeko -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec630874580.dir/CheckFunctionExists.c.o   -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CheckFunctionExists.c"
-Linking C executable cmTryCompileExec630874580
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec630874580.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3  -DCHECK_FUNCTION_EXISTS=fseeko -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec630874580.dir/CheckFunctionExists.c.o  -o cmTryCompileExec630874580  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1895075831/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1895075831.dir/build.make CMakeFiles/cmTryCompileExec1895075831.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1895075831.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3  -DCHECK_FUNCTION_EXISTS=fseeko -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec1895075831.dir/CheckFunctionExists.c.o   -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CheckFunctionExists.c"
+Linking C executable cmTryCompileExec1895075831
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec1895075831.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3  -DCHECK_FUNCTION_EXISTS=fseeko -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec1895075831.dir/CheckFunctionExists.c.o  -o cmTryCompileExec1895075831  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the include file unistd.h exists passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1707502486/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1707502486.dir/build.make CMakeFiles/cmTryCompileExec1707502486.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec1707502486.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec1707502486.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTryCompileExec1707502486
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec1707502486.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec1707502486.dir/CheckIncludeFile.c.o  -o cmTryCompileExec1707502486  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2662902738/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2662902738.dir/build.make CMakeFiles/cmTryCompileExec2662902738.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2662902738.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec2662902738.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec2662902738
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec2662902738.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec2662902738.dir/CheckIncludeFile.c.o  -o cmTryCompileExec2662902738  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the include file assert.h exists passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1134985163/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1134985163.dir/build.make CMakeFiles/cmTryCompileExec1134985163.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec1134985163.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec1134985163.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTryCompileExec1134985163
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec1134985163.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec1134985163.dir/CheckIncludeFile.c.o  -o cmTryCompileExec1134985163  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec404401268/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec404401268.dir/build.make CMakeFiles/cmTryCompileExec404401268.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec404401268.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec404401268.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec404401268
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec404401268.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec404401268.dir/CheckIncludeFile.c.o  -o cmTryCompileExec404401268  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the include file fcntl.h exists passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec4287039048/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec4287039048.dir/build.make CMakeFiles/cmTryCompileExec4287039048.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec4287039048.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec4287039048.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTryCompileExec4287039048
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec4287039048.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec4287039048.dir/CheckIncludeFile.c.o  -o cmTryCompileExec4287039048  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2688635354/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2688635354.dir/build.make CMakeFiles/cmTryCompileExec2688635354.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2688635354.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec2688635354.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec2688635354
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec2688635354.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec2688635354.dir/CheckIncludeFile.c.o  -o cmTryCompileExec2688635354  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the function mmap exists passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec3100268256/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec3100268256.dir/build.make CMakeFiles/cmTryCompileExec3100268256.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec3100268256.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3  -DCHECK_FUNCTION_EXISTS=mmap -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec3100268256.dir/CheckFunctionExists.c.o   -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CheckFunctionExists.c"
-Linking C executable cmTryCompileExec3100268256
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec3100268256.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3  -DCHECK_FUNCTION_EXISTS=mmap -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec3100268256.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3100268256  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2408379830/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2408379830.dir/build.make CMakeFiles/cmTryCompileExec2408379830.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2408379830.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3  -DCHECK_FUNCTION_EXISTS=mmap -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec2408379830.dir/CheckFunctionExists.c.o   -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CheckFunctionExists.c"
+Linking C executable cmTryCompileExec2408379830
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec2408379830.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3  -DCHECK_FUNCTION_EXISTS=mmap -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec2408379830.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2408379830  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the include file search.h exists passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1332142009/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1332142009.dir/build.make CMakeFiles/cmTryCompileExec1332142009.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec1332142009.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec1332142009.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTryCompileExec1332142009
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec1332142009.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec1332142009.dir/CheckIncludeFile.c.o  -o cmTryCompileExec1332142009  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1221173405/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1221173405.dir/build.make CMakeFiles/cmTryCompileExec1221173405.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1221173405.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec1221173405.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec1221173405
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec1221173405.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec1221173405.dir/CheckIncludeFile.c.o  -o cmTryCompileExec1221173405  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the include file string.h exists passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2377906990/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2377906990.dir/build.make CMakeFiles/cmTryCompileExec2377906990.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec2377906990.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec2377906990.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTryCompileExec2377906990
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec2377906990.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec2377906990.dir/CheckIncludeFile.c.o  -o cmTryCompileExec2377906990  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1996424793/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1996424793.dir/build.make CMakeFiles/cmTryCompileExec1996424793.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1996424793.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec1996424793.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec1996424793
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec1996424793.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec1996424793.dir/CheckIncludeFile.c.o  -o cmTryCompileExec1996424793  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the include file unistd.h exists passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1474511887/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1474511887.dir/build.make CMakeFiles/cmTryCompileExec1474511887.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec1474511887.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec1474511887.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTryCompileExec1474511887
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec1474511887.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec1474511887.dir/CheckIncludeFile.c.o  -o cmTryCompileExec1474511887  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2119792437/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2119792437.dir/build.make CMakeFiles/cmTryCompileExec2119792437.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2119792437.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec2119792437.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec2119792437
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec2119792437.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec2119792437.dir/CheckIncludeFile.c.o  -o cmTryCompileExec2119792437  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the include file semaphore.h exists passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2641591137/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2641591137.dir/build.make CMakeFiles/cmTryCompileExec2641591137.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec2641591137.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec2641591137.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTryCompileExec2641591137
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec2641591137.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec2641591137.dir/CheckIncludeFile.c.o  -o cmTryCompileExec2641591137  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec4045132287/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec4045132287.dir/build.make CMakeFiles/cmTryCompileExec4045132287.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4045132287.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec4045132287.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec4045132287
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec4045132287.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec4045132287.dir/CheckIncludeFile.c.o  -o cmTryCompileExec4045132287  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 

@@ -22,8 +22,8 @@ modules/video/CMakeFiles/opencv_test_video.dir/test/test_accum.cpp.o
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_accum.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_accum.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
 modules/video/CMakeFiles/opencv_test_video.dir/test/test_backgroundsubtractor_gbh.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -45,8 +45,8 @@ modules/video/CMakeFiles/opencv_test_video.dir/test/test_backgroundsubtractor_gb
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_backgroundsubtractor_gbh.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_backgroundsubtractor_gbh.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
 modules/video/CMakeFiles/opencv_test_video.dir/test/test_camshift.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -68,8 +68,8 @@ modules/video/CMakeFiles/opencv_test_video.dir/test/test_camshift.cpp.o
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_camshift.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_camshift.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
 modules/video/CMakeFiles/opencv_test_video.dir/test/test_estimaterigid.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -91,8 +91,8 @@ modules/video/CMakeFiles/opencv_test_video.dir/test/test_estimaterigid.cpp.o
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_estimaterigid.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_estimaterigid.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
 modules/video/CMakeFiles/opencv_test_video.dir/test/test_kalman.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -114,8 +114,8 @@ modules/video/CMakeFiles/opencv_test_video.dir/test/test_kalman.cpp.o
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_kalman.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_kalman.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
 modules/video/CMakeFiles/opencv_test_video.dir/test/test_main.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -137,8 +137,8 @@ modules/video/CMakeFiles/opencv_test_video.dir/test/test_main.cpp.o
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_main.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_main.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
 modules/video/CMakeFiles/opencv_test_video.dir/test/test_motiontemplates.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -160,8 +160,8 @@ modules/video/CMakeFiles/opencv_test_video.dir/test/test_motiontemplates.cpp.o
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_motiontemplates.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_motiontemplates.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
 modules/video/CMakeFiles/opencv_test_video.dir/test/test_optflowpyrlk.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -183,8 +183,8 @@ modules/video/CMakeFiles/opencv_test_video.dir/test/test_optflowpyrlk.cpp.o
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_optflowpyrlk.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_optflowpyrlk.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
 modules/video/CMakeFiles/opencv_test_video.dir/test/test_simpleflow.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -206,8 +206,8 @@ modules/video/CMakeFiles/opencv_test_video.dir/test/test_simpleflow.cpp.o
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_simpleflow.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_simpleflow.cpp
 modules/video/CMakeFiles/opencv_test_video.dir/test/test_tvl1optflow.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -229,5 +229,5 @@ modules/video/CMakeFiles/opencv_test_video.dir/test/test_tvl1optflow.cpp.o
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/test/test_tvl1optflow.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/test/test_tvl1optflow.cpp

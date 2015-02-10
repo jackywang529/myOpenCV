@@ -37,8 +37,8 @@ modules/superres/CMakeFiles/opencv_superres.dir/opencl_kernels.cpp.o
  ../modules/superres/src/precomp.hpp
  ../modules/superres/src/ring_buffer.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/superres/opencl_kernels.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/superres/opencl_kernels.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/superres/opencl_kernels.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/superres/opencl_kernels.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/superres/CMakeFiles/opencv_superres.dir/src/btv_l1.cpp.o
@@ -74,10 +74,10 @@ modules/superres/CMakeFiles/opencv_superres.dir/src/btv_l1.cpp.o
  ../modules/superres/include/opencv2/superres/optical_flow.hpp
  ../modules/superres/include/opencv2/superres/superres.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/btv_l1.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/btv_l1.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/superres/CMakeFiles/opencv_superres.dir/src/btv_l1_gpu.cpp.o
@@ -113,10 +113,10 @@ modules/superres/CMakeFiles/opencv_superres.dir/src/btv_l1_gpu.cpp.o
  ../modules/superres/include/opencv2/superres/optical_flow.hpp
  ../modules/superres/include/opencv2/superres/superres.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/btv_l1_gpu.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/btv_l1_gpu.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/superres/CMakeFiles/opencv_superres.dir/src/btv_l1_ocl.cpp.o
@@ -152,10 +152,10 @@ modules/superres/CMakeFiles/opencv_superres.dir/src/btv_l1_ocl.cpp.o
  ../modules/superres/include/opencv2/superres/optical_flow.hpp
  ../modules/superres/include/opencv2/superres/superres.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/btv_l1_ocl.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/btv_l1_ocl.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
  cvconfig.h
  modules/superres/opencl_kernels.hpp
  opencv2/opencv_modules.hpp
@@ -192,10 +192,10 @@ modules/superres/CMakeFiles/opencv_superres.dir/src/frame_source.cpp.o
  ../modules/superres/include/opencv2/superres/optical_flow.hpp
  ../modules/superres/include/opencv2/superres/superres.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/frame_source.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/frame_source.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/superres/CMakeFiles/opencv_superres.dir/src/input_array_utility.cpp.o
@@ -231,10 +231,10 @@ modules/superres/CMakeFiles/opencv_superres.dir/src/input_array_utility.cpp.o
  ../modules/superres/include/opencv2/superres/optical_flow.hpp
  ../modules/superres/include/opencv2/superres/superres.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/superres/CMakeFiles/opencv_superres.dir/src/optical_flow.cpp.o
@@ -270,10 +270,10 @@ modules/superres/CMakeFiles/opencv_superres.dir/src/optical_flow.cpp.o
  ../modules/superres/include/opencv2/superres/optical_flow.hpp
  ../modules/superres/include/opencv2/superres/superres.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/optical_flow.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/optical_flow.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/superres/CMakeFiles/opencv_superres.dir/src/super_resolution.cpp.o
@@ -309,9 +309,9 @@ modules/superres/CMakeFiles/opencv_superres.dir/src/super_resolution.cpp.o
  ../modules/superres/include/opencv2/superres/optical_flow.hpp
  ../modules/superres/include/opencv2/superres/superres.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/super_resolution.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/super_resolution.cpp
  cvconfig.h
  opencv2/opencv_modules.hpp

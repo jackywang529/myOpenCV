@@ -24,8 +24,8 @@ modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_bruteforcematcher.cpp
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_bruteforcematcher.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_bruteforcematcher.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
 modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_em.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
  ../modules/core/include/opencv2/core/affine.hpp
@@ -49,8 +49,8 @@ modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_em.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_em.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_em.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
 modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_main.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
  ../modules/core/include/opencv2/core/affine.hpp
@@ -74,8 +74,8 @@ modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_main.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_main.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_main.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
 modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_nearestneighbors.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
  ../modules/core/include/opencv2/core/affine.hpp
@@ -99,8 +99,8 @@ modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_nearestneighbors.cpp.
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_nearestneighbors.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_nearestneighbors.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
 modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_optflow.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
  ../modules/core/include/opencv2/core/affine.hpp
@@ -125,8 +125,8 @@ modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_optflow.cpp.o
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_optflow.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_optflow.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
 modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_pyrsegmentation.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
  ../modules/core/include/opencv2/core/affine.hpp
@@ -150,8 +150,8 @@ modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_pyrsegmentation.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_pyrsegmentation.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_pyrsegmentation.cpp
 modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_stereomatching.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
  ../modules/core/include/opencv2/core/affine.hpp
@@ -175,8 +175,8 @@ modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_stereomatching.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_stereomatching.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_stereomatching.cpp
 modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_subdivisions.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
  ../modules/core/include/opencv2/core/affine.hpp
@@ -200,5 +200,5 @@ modules/legacy/CMakeFiles/opencv_test_legacy.dir/test/test_subdivisions.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/test/test_subdivisions.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/test/test_subdivisions.cpp

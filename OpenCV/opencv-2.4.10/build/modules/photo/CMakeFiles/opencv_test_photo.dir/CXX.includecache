@@ -290,31 +290,31 @@ tbb/task_scheduler_init.h
 android/log.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_denoising.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_denoising.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp
 opencv2/photo/photo.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/opencv2/photo/photo.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/opencv2/photo/photo.hpp
 string
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_inpaint.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_inpaint.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp
 string
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_main.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_main.cpp
 test_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp
 opencv2/ts/ts.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/opencv2/ts/ts.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/opencv2/ts/ts.hpp
 opencv2/photo/photo.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/opencv2/photo/photo.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/opencv2/photo/photo.hpp
 opencv2/highgui/highgui.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/opencv2/highgui/highgui.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/opencv2/highgui/highgui.hpp
 iostream
 -
 

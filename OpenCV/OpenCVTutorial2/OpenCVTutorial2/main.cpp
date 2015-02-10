@@ -2,6 +2,7 @@
 #include "opencv2/highgui/highgui.hpp"
 #include "opencv2/imgproc/imgproc.hpp"
 #include "opencv2/core/core.hpp"
+//#include "package_bgs/FrameDifferenceBGS.h"
 
 using namespace cv;
 
@@ -26,7 +27,7 @@ int main (int argc, char *argv[]) {
         printf("output video not opened\n");
         return -1;
     }
-
+    
     Mat edges;
     namedWindow("edges",1);
     for(;;)
@@ -40,53 +41,53 @@ int main (int argc, char *argv[]) {
         imshow("edges", edges);
         //output_cap.write(frame);
         /*
-        // Attempt to fix Mac OS gray scale not able to be written
-        Mat imageGrey;
-        Mat imageArr[] {edges, edges, edges};
-        merge(imageArr, 3, imageGrey);
-        output_cap.write(imageGrey);
-        */
+         // Attempt to fix Mac OS gray scale not able to be written
+         Mat imageGrey;
+         Mat imageArr[] {edges, edges, edges};
+         merge(imageArr, 3, imageGrey);
+         output_cap.write(imageGrey);
+         */
         
         if(waitKey(30) >= 0) break;
         //waitKey(0);
     }
     // the camera will be deinitialized automatically in VideoCapture destructor
     return 0;
-
-    /* Webcam
-    VideoCapture cap(0);
     
-    while (true) {
-        
-        Mat Webcam;
-        cap.read(Webcam);
-        imshow("webcam", Webcam);
-        
-    }
+    /* Webcam
+     VideoCapture cap(0);
+     
+     while (true) {
+     
+     Mat Webcam;
+     cap.read(Webcam);
+     imshow("webcam", Webcam);
+     
+     }
      */
     
     /* Image Input
-    if ( argc != 2 )
-    {
-        printf("usage: DisplayImage.out <Image_Path>\n");
-        return -1;
-    }
-    
-    Mat image;
-    image = imread( argv[1], 1 );
-
-    if ( !image.data )
-    {
-        printf("No image data \n");
-        return -1;
-    }
-    
-    namedWindow("Display Image", CV_WINDOW_AUTOSIZE );
-    imshow("Display Image", image);
-    
-    waitKey(0);
-    
-    return 0;
+     if ( argc != 2 )
+     {
+     printf("usage: DisplayImage.out <Image_Path>\n");
+     return -1;
+     }
+     
+     Mat image;
+     image = imread( argv[1], 1 );
+     
+     if ( !image.data )
+     {
+     printf("No image data \n");
+     return -1;
+     }
+     
+     namedWindow("Display Image", CV_WINDOW_AUTOSIZE );
+     imshow("Display Image", image);
+     
+     waitKey(0);
+     
+     return 0;
      */
     
 }

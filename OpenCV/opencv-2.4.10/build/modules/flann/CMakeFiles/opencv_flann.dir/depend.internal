@@ -43,8 +43,8 @@ modules/flann/CMakeFiles/opencv_flann.dir/src/flann.cpp.o
  ../modules/flann/include/opencv2/flann/sampling.h
  ../modules/flann/include/opencv2/flann/saving.h
  ../modules/flann/include/opencv2/flann/timer.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/flann/src/flann.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/flann/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/flann/src/flann.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/flann/src/precomp.hpp
  cvconfig.h
 modules/flann/CMakeFiles/opencv_flann.dir/src/miniflann.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -87,6 +87,6 @@ modules/flann/CMakeFiles/opencv_flann.dir/src/miniflann.cpp.o
  ../modules/flann/include/opencv2/flann/sampling.h
  ../modules/flann/include/opencv2/flann/saving.h
  ../modules/flann/include/opencv2/flann/timer.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/flann/src/miniflann.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/flann/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/flann/src/miniflann.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/flann/src/precomp.hpp
  cvconfig.h

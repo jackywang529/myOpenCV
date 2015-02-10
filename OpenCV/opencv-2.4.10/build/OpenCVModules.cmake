@@ -98,7 +98,7 @@ add_library(opencv_videostab SHARED IMPORTED)
 set_property(TARGET opencv_core APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_core PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE ""
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_core.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_core.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_core.2.4.dylib"
   )
 
@@ -106,7 +106,7 @@ set_target_properties(opencv_core PROPERTIES
 set_property(TARGET opencv_flann APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_flann PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_flann.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_flann.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_flann.2.4.dylib"
   )
 
@@ -114,7 +114,7 @@ set_target_properties(opencv_flann PROPERTIES
 set_property(TARGET opencv_imgproc APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_imgproc PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_imgproc.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_imgproc.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_imgproc.2.4.dylib"
   )
 
@@ -123,7 +123,7 @@ set_property(TARGET opencv_highgui APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEA
 set_target_properties(opencv_highgui PROPERTIES
   IMPORTED_LINK_DEPENDENT_LIBRARIES_RELEASE "opencv_core;opencv_imgproc"
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE ""
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_highgui.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_highgui.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_highgui.2.4.dylib"
   )
 
@@ -131,7 +131,7 @@ set_target_properties(opencv_highgui PROPERTIES
 set_property(TARGET opencv_features2d APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_features2d PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_flann;opencv_imgproc;opencv_highgui"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_features2d.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_features2d.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_features2d.2.4.dylib"
   )
 
@@ -139,7 +139,7 @@ set_target_properties(opencv_features2d PROPERTIES
 set_property(TARGET opencv_calib3d APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_calib3d PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_flann;opencv_imgproc;opencv_highgui;opencv_features2d"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_calib3d.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_calib3d.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_calib3d.2.4.dylib"
   )
 
@@ -147,7 +147,7 @@ set_target_properties(opencv_calib3d PROPERTIES
 set_property(TARGET opencv_ml APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_ml PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_ml.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_ml.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_ml.2.4.dylib"
   )
 
@@ -155,7 +155,7 @@ set_target_properties(opencv_ml PROPERTIES
 set_property(TARGET opencv_video APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_video PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_imgproc"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_video.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_video.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_video.2.4.dylib"
   )
 
@@ -163,7 +163,7 @@ set_target_properties(opencv_video PROPERTIES
 set_property(TARGET opencv_legacy APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_legacy PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_flann;opencv_imgproc;opencv_highgui;opencv_features2d;opencv_calib3d;opencv_ml;opencv_video"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_legacy.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_legacy.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_legacy.2.4.dylib"
   )
 
@@ -171,7 +171,7 @@ set_target_properties(opencv_legacy PROPERTIES
 set_property(TARGET opencv_objdetect APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_objdetect PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_imgproc;opencv_highgui"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_objdetect.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_objdetect.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_objdetect.2.4.dylib"
   )
 
@@ -179,7 +179,7 @@ set_target_properties(opencv_objdetect PROPERTIES
 set_property(TARGET opencv_photo APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_photo PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_imgproc"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_photo.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_photo.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_photo.2.4.dylib"
   )
 
@@ -187,7 +187,7 @@ set_target_properties(opencv_photo PROPERTIES
 set_property(TARGET opencv_gpu APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_gpu PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_flann;opencv_imgproc;opencv_highgui;opencv_features2d;opencv_calib3d;opencv_ml;opencv_video;opencv_legacy;opencv_objdetect;opencv_photo"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_gpu.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_gpu.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_gpu.2.4.dylib"
   )
 
@@ -195,7 +195,7 @@ set_target_properties(opencv_gpu PROPERTIES
 set_property(TARGET opencv_ocl APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_ocl PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_flann;opencv_imgproc;opencv_highgui;opencv_features2d;opencv_calib3d;opencv_ml;opencv_objdetect;opencv_video"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_ocl.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_ocl.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_ocl.2.4.dylib"
   )
 
@@ -203,7 +203,7 @@ set_target_properties(opencv_ocl PROPERTIES
 set_property(TARGET opencv_nonfree APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_nonfree PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_flann;opencv_imgproc;opencv_highgui;opencv_features2d;opencv_calib3d;opencv_ml;opencv_video;opencv_legacy;opencv_objdetect;opencv_photo;opencv_gpu;opencv_ocl"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_nonfree.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_nonfree.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_nonfree.2.4.dylib"
   )
 
@@ -211,7 +211,7 @@ set_target_properties(opencv_nonfree PROPERTIES
 set_property(TARGET opencv_contrib APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_contrib PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_flann;opencv_imgproc;opencv_highgui;opencv_features2d;opencv_calib3d;opencv_ml;opencv_video;opencv_legacy;opencv_objdetect;opencv_photo;opencv_gpu;opencv_ocl;opencv_nonfree"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_contrib.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_contrib.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_contrib.2.4.dylib"
   )
 
@@ -219,7 +219,7 @@ set_target_properties(opencv_contrib PROPERTIES
 set_property(TARGET opencv_stitching APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_stitching PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_flann;opencv_imgproc;opencv_highgui;opencv_features2d;opencv_calib3d;opencv_ml;opencv_video;opencv_legacy;opencv_objdetect;opencv_photo;opencv_gpu;opencv_ocl;opencv_nonfree"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_stitching.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_stitching.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_stitching.2.4.dylib"
   )
 
@@ -227,7 +227,7 @@ set_target_properties(opencv_stitching PROPERTIES
 set_property(TARGET opencv_superres APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_superres PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_flann;opencv_imgproc;opencv_highgui;opencv_features2d;opencv_calib3d;opencv_ml;opencv_video;opencv_legacy;opencv_objdetect;opencv_photo;opencv_gpu;opencv_ocl"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_superres.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_superres.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_superres.2.4.dylib"
   )
 
@@ -236,14 +236,14 @@ set_property(TARGET opencv_ts APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_ts PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_RELEASE "CXX"
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_flann;opencv_imgproc;opencv_highgui;opencv_features2d;opencv_video"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_ts.a"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_ts.a"
   )
 
 # Import target "opencv_videostab" for configuration "Release"
 set_property(TARGET opencv_videostab APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_videostab PROPERTIES
   IMPORTED_LINK_INTERFACE_LIBRARIES_RELEASE "opencv_core;opencv_flann;opencv_imgproc;opencv_highgui;opencv_features2d;opencv_calib3d;opencv_ml;opencv_video;opencv_legacy;opencv_objdetect;opencv_photo;opencv_gpu"
-  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/lib/libopencv_videostab.2.4.10.dylib"
+  IMPORTED_LOCATION_RELEASE "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/lib/libopencv_videostab.2.4.10.dylib"
   IMPORTED_SONAME_RELEASE "libopencv_videostab.2.4.dylib"
   )
 

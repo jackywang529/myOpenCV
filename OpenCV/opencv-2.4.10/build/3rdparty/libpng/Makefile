@@ -42,10 +42,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "/Applications/CMake 2.8-11.app/Contents/bin/ccmake"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10
+CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build
+CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -104,7 +104,7 @@ list_install_components/fast: list_install_components
 # Special rule for the target package
 package: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool..."
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackConfig.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackConfig.cmake
 .PHONY : package
 
 # Special rule for the target package
@@ -114,7 +114,7 @@ package/fast: package
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool for source..."
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackSourceConfig.cmake /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CPackSourceConfig.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackSourceConfig.cmake /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -133,14 +133,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/progress.marks
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libpng/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles 0
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/progress.marks
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libpng/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libpng/clean
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libpng/clean
 .PHONY : clean
 
 # The main clean target
@@ -149,22 +149,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libpng/preinstall
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libpng/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libpng/preinstall
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libpng/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 3rdparty/libpng/CMakeFiles/libpng.dir/rule:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libpng/CMakeFiles/libpng.dir/rule
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libpng/CMakeFiles/libpng.dir/rule
 .PHONY : 3rdparty/libpng/CMakeFiles/libpng.dir/rule
 
 # Convenience name for target.
@@ -173,7 +173,7 @@ libpng: 3rdparty/libpng/CMakeFiles/libpng.dir/rule
 
 # fast build rule for target.
 libpng/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/build
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/build
 .PHONY : libpng/fast
 
 png.o: png.c.o
@@ -181,7 +181,7 @@ png.o: png.c.o
 
 # target to build an object file
 png.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/png.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/png.c.o
 .PHONY : png.c.o
 
 png.i: png.c.i
@@ -189,7 +189,7 @@ png.i: png.c.i
 
 # target to preprocess a source file
 png.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/png.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/png.c.i
 .PHONY : png.c.i
 
 png.s: png.c.s
@@ -197,7 +197,7 @@ png.s: png.c.s
 
 # target to generate assembly for a file
 png.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/png.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/png.c.s
 .PHONY : png.c.s
 
 pngerror.o: pngerror.c.o
@@ -205,7 +205,7 @@ pngerror.o: pngerror.c.o
 
 # target to build an object file
 pngerror.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngerror.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngerror.c.o
 .PHONY : pngerror.c.o
 
 pngerror.i: pngerror.c.i
@@ -213,7 +213,7 @@ pngerror.i: pngerror.c.i
 
 # target to preprocess a source file
 pngerror.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngerror.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngerror.c.i
 .PHONY : pngerror.c.i
 
 pngerror.s: pngerror.c.s
@@ -221,7 +221,7 @@ pngerror.s: pngerror.c.s
 
 # target to generate assembly for a file
 pngerror.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngerror.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngerror.c.s
 .PHONY : pngerror.c.s
 
 pngget.o: pngget.c.o
@@ -229,7 +229,7 @@ pngget.o: pngget.c.o
 
 # target to build an object file
 pngget.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngget.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngget.c.o
 .PHONY : pngget.c.o
 
 pngget.i: pngget.c.i
@@ -237,7 +237,7 @@ pngget.i: pngget.c.i
 
 # target to preprocess a source file
 pngget.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngget.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngget.c.i
 .PHONY : pngget.c.i
 
 pngget.s: pngget.c.s
@@ -245,7 +245,7 @@ pngget.s: pngget.c.s
 
 # target to generate assembly for a file
 pngget.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngget.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngget.c.s
 .PHONY : pngget.c.s
 
 pngmem.o: pngmem.c.o
@@ -253,7 +253,7 @@ pngmem.o: pngmem.c.o
 
 # target to build an object file
 pngmem.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngmem.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngmem.c.o
 .PHONY : pngmem.c.o
 
 pngmem.i: pngmem.c.i
@@ -261,7 +261,7 @@ pngmem.i: pngmem.c.i
 
 # target to preprocess a source file
 pngmem.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngmem.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngmem.c.i
 .PHONY : pngmem.c.i
 
 pngmem.s: pngmem.c.s
@@ -269,7 +269,7 @@ pngmem.s: pngmem.c.s
 
 # target to generate assembly for a file
 pngmem.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngmem.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngmem.c.s
 .PHONY : pngmem.c.s
 
 pngpread.o: pngpread.c.o
@@ -277,7 +277,7 @@ pngpread.o: pngpread.c.o
 
 # target to build an object file
 pngpread.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngpread.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngpread.c.o
 .PHONY : pngpread.c.o
 
 pngpread.i: pngpread.c.i
@@ -285,7 +285,7 @@ pngpread.i: pngpread.c.i
 
 # target to preprocess a source file
 pngpread.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngpread.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngpread.c.i
 .PHONY : pngpread.c.i
 
 pngpread.s: pngpread.c.s
@@ -293,7 +293,7 @@ pngpread.s: pngpread.c.s
 
 # target to generate assembly for a file
 pngpread.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngpread.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngpread.c.s
 .PHONY : pngpread.c.s
 
 pngread.o: pngread.c.o
@@ -301,7 +301,7 @@ pngread.o: pngread.c.o
 
 # target to build an object file
 pngread.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngread.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngread.c.o
 .PHONY : pngread.c.o
 
 pngread.i: pngread.c.i
@@ -309,7 +309,7 @@ pngread.i: pngread.c.i
 
 # target to preprocess a source file
 pngread.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngread.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngread.c.i
 .PHONY : pngread.c.i
 
 pngread.s: pngread.c.s
@@ -317,7 +317,7 @@ pngread.s: pngread.c.s
 
 # target to generate assembly for a file
 pngread.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngread.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngread.c.s
 .PHONY : pngread.c.s
 
 pngrio.o: pngrio.c.o
@@ -325,7 +325,7 @@ pngrio.o: pngrio.c.o
 
 # target to build an object file
 pngrio.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrio.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrio.c.o
 .PHONY : pngrio.c.o
 
 pngrio.i: pngrio.c.i
@@ -333,7 +333,7 @@ pngrio.i: pngrio.c.i
 
 # target to preprocess a source file
 pngrio.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrio.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrio.c.i
 .PHONY : pngrio.c.i
 
 pngrio.s: pngrio.c.s
@@ -341,7 +341,7 @@ pngrio.s: pngrio.c.s
 
 # target to generate assembly for a file
 pngrio.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrio.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrio.c.s
 .PHONY : pngrio.c.s
 
 pngrtran.o: pngrtran.c.o
@@ -349,7 +349,7 @@ pngrtran.o: pngrtran.c.o
 
 # target to build an object file
 pngrtran.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrtran.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrtran.c.o
 .PHONY : pngrtran.c.o
 
 pngrtran.i: pngrtran.c.i
@@ -357,7 +357,7 @@ pngrtran.i: pngrtran.c.i
 
 # target to preprocess a source file
 pngrtran.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrtran.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrtran.c.i
 .PHONY : pngrtran.c.i
 
 pngrtran.s: pngrtran.c.s
@@ -365,7 +365,7 @@ pngrtran.s: pngrtran.c.s
 
 # target to generate assembly for a file
 pngrtran.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrtran.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrtran.c.s
 .PHONY : pngrtran.c.s
 
 pngrutil.o: pngrutil.c.o
@@ -373,7 +373,7 @@ pngrutil.o: pngrutil.c.o
 
 # target to build an object file
 pngrutil.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrutil.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrutil.c.o
 .PHONY : pngrutil.c.o
 
 pngrutil.i: pngrutil.c.i
@@ -381,7 +381,7 @@ pngrutil.i: pngrutil.c.i
 
 # target to preprocess a source file
 pngrutil.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrutil.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrutil.c.i
 .PHONY : pngrutil.c.i
 
 pngrutil.s: pngrutil.c.s
@@ -389,7 +389,7 @@ pngrutil.s: pngrutil.c.s
 
 # target to generate assembly for a file
 pngrutil.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrutil.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngrutil.c.s
 .PHONY : pngrutil.c.s
 
 pngset.o: pngset.c.o
@@ -397,7 +397,7 @@ pngset.o: pngset.c.o
 
 # target to build an object file
 pngset.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngset.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngset.c.o
 .PHONY : pngset.c.o
 
 pngset.i: pngset.c.i
@@ -405,7 +405,7 @@ pngset.i: pngset.c.i
 
 # target to preprocess a source file
 pngset.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngset.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngset.c.i
 .PHONY : pngset.c.i
 
 pngset.s: pngset.c.s
@@ -413,7 +413,7 @@ pngset.s: pngset.c.s
 
 # target to generate assembly for a file
 pngset.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngset.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngset.c.s
 .PHONY : pngset.c.s
 
 pngtrans.o: pngtrans.c.o
@@ -421,7 +421,7 @@ pngtrans.o: pngtrans.c.o
 
 # target to build an object file
 pngtrans.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngtrans.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngtrans.c.o
 .PHONY : pngtrans.c.o
 
 pngtrans.i: pngtrans.c.i
@@ -429,7 +429,7 @@ pngtrans.i: pngtrans.c.i
 
 # target to preprocess a source file
 pngtrans.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngtrans.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngtrans.c.i
 .PHONY : pngtrans.c.i
 
 pngtrans.s: pngtrans.c.s
@@ -437,7 +437,7 @@ pngtrans.s: pngtrans.c.s
 
 # target to generate assembly for a file
 pngtrans.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngtrans.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngtrans.c.s
 .PHONY : pngtrans.c.s
 
 pngwio.o: pngwio.c.o
@@ -445,7 +445,7 @@ pngwio.o: pngwio.c.o
 
 # target to build an object file
 pngwio.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwio.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwio.c.o
 .PHONY : pngwio.c.o
 
 pngwio.i: pngwio.c.i
@@ -453,7 +453,7 @@ pngwio.i: pngwio.c.i
 
 # target to preprocess a source file
 pngwio.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwio.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwio.c.i
 .PHONY : pngwio.c.i
 
 pngwio.s: pngwio.c.s
@@ -461,7 +461,7 @@ pngwio.s: pngwio.c.s
 
 # target to generate assembly for a file
 pngwio.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwio.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwio.c.s
 .PHONY : pngwio.c.s
 
 pngwrite.o: pngwrite.c.o
@@ -469,7 +469,7 @@ pngwrite.o: pngwrite.c.o
 
 # target to build an object file
 pngwrite.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwrite.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwrite.c.o
 .PHONY : pngwrite.c.o
 
 pngwrite.i: pngwrite.c.i
@@ -477,7 +477,7 @@ pngwrite.i: pngwrite.c.i
 
 # target to preprocess a source file
 pngwrite.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwrite.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwrite.c.i
 .PHONY : pngwrite.c.i
 
 pngwrite.s: pngwrite.c.s
@@ -485,7 +485,7 @@ pngwrite.s: pngwrite.c.s
 
 # target to generate assembly for a file
 pngwrite.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwrite.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwrite.c.s
 .PHONY : pngwrite.c.s
 
 pngwtran.o: pngwtran.c.o
@@ -493,7 +493,7 @@ pngwtran.o: pngwtran.c.o
 
 # target to build an object file
 pngwtran.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwtran.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwtran.c.o
 .PHONY : pngwtran.c.o
 
 pngwtran.i: pngwtran.c.i
@@ -501,7 +501,7 @@ pngwtran.i: pngwtran.c.i
 
 # target to preprocess a source file
 pngwtran.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwtran.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwtran.c.i
 .PHONY : pngwtran.c.i
 
 pngwtran.s: pngwtran.c.s
@@ -509,7 +509,7 @@ pngwtran.s: pngwtran.c.s
 
 # target to generate assembly for a file
 pngwtran.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwtran.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwtran.c.s
 .PHONY : pngwtran.c.s
 
 pngwutil.o: pngwutil.c.o
@@ -517,7 +517,7 @@ pngwutil.o: pngwutil.c.o
 
 # target to build an object file
 pngwutil.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwutil.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwutil.c.o
 .PHONY : pngwutil.c.o
 
 pngwutil.i: pngwutil.c.i
@@ -525,7 +525,7 @@ pngwutil.i: pngwutil.c.i
 
 # target to preprocess a source file
 pngwutil.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwutil.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwutil.c.i
 .PHONY : pngwutil.c.i
 
 pngwutil.s: pngwutil.c.s
@@ -533,7 +533,7 @@ pngwutil.s: pngwutil.c.s
 
 # target to generate assembly for a file
 pngwutil.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwutil.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libpng/CMakeFiles/libpng.dir/build.make 3rdparty/libpng/CMakeFiles/libpng.dir/pngwutil.c.s
 .PHONY : pngwutil.c.s
 
 # Help Target
@@ -607,6 +607,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

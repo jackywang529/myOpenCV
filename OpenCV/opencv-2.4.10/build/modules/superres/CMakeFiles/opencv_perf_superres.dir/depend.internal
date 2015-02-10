@@ -24,8 +24,8 @@ modules/superres/CMakeFiles/opencv_perf_superres.dir/perf/perf_main.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/perf_main.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/perf_main.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
  cvconfig.h
 modules/superres/CMakeFiles/opencv_perf_superres.dir/perf/perf_superres.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -50,8 +50,8 @@ modules/superres/CMakeFiles/opencv_perf_superres.dir/perf/perf_superres.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/perf_superres.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/perf_superres.cpp
  cvconfig.h
 modules/superres/CMakeFiles/opencv_perf_superres.dir/perf/perf_superres_ocl.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -80,6 +80,6 @@ modules/superres/CMakeFiles/opencv_perf_superres.dir/perf/perf_superres_ocl.cpp.
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/perf/perf_superres_ocl.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/perf/perf_superres_ocl.cpp
  cvconfig.h

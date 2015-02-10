@@ -296,15 +296,15 @@ opencv2/video/tracking.hpp
 opencv2/video/background_segm.hpp
 ../modules/video/include/opencv2/video/opencv2/video/background_segm.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/perf_main.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/perf_main.cpp
 perf_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/perf_optflowpyrlk.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/perf_optflowpyrlk.cpp
 perf_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
 opencv2/imgproc/imgproc.hpp
 -
 opencv2/video/video.hpp
@@ -312,9 +312,9 @@ opencv2/video/video.hpp
 opencv2/highgui/highgui.hpp
 -
 opencv2/ts/ts.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/opencv2/ts/ts.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/opencv2/ts/ts.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/perf_tvl1optflow.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/perf_tvl1optflow.cpp
 perf_precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
 

@@ -11,8 +11,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/ann_mlp.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/ann_mlp.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/ann_mlp.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/boost.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -24,8 +24,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/boost.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/boost.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/boost.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/cnn.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -37,8 +37,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/cnn.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/cnn.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/cnn.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/data.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -50,8 +50,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/data.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/data.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/data.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/em.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -63,8 +63,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/em.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/em.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/em.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/ertrees.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -76,8 +76,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/ertrees.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/ertrees.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/ertrees.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/estimate.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -89,8 +89,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/estimate.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/estimate.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/estimate.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/gbt.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -102,8 +102,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/gbt.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/gbt.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/gbt.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/inner_functions.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -115,8 +115,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/inner_functions.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/inner_functions.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/inner_functions.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/knearest.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -128,8 +128,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/knearest.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/knearest.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/knearest.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/ml_init.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -141,8 +141,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/ml_init.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/ml_init.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/ml_init.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/nbayes.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -154,8 +154,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/nbayes.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/nbayes.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/nbayes.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/rtrees.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -167,8 +167,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/rtrees.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/rtrees.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/rtrees.cpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/svm.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -180,8 +180,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/svm.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/svm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/svm.cpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/testset.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -193,8 +193,8 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/testset.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/testset.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/testset.cpp
  cvconfig.h
 modules/ml/CMakeFiles/opencv_ml.dir/src/tree.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -206,6 +206,6 @@ modules/ml/CMakeFiles/opencv_ml.dir/src/tree.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/ml/include/opencv2/ml/ml.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/ml/src/tree.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/ml/src/tree.cpp
  cvconfig.h

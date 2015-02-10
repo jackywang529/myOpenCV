@@ -38,10 +38,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "/Applications/CMake 2.8-11.app/Contents/bin/ccmake"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10
+CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build
+CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build
 
 # Utility rule file for uninstall.
 
@@ -49,7 +49,7 @@ CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/bu
 include CMakeFiles/uninstall.dir/progress.make
 
 CMakeFiles/uninstall:
-	"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -P /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/cmake_uninstall.cmake
+	"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -P /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/cmake_uninstall.cmake
 
 uninstall: CMakeFiles/uninstall
 uninstall: CMakeFiles/uninstall.dir/build.make
@@ -64,6 +64,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10 /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10 /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10 /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10 /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uninstall.dir/depend
 

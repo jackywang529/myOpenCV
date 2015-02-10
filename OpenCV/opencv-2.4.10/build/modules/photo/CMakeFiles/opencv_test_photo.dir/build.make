@@ -38,10 +38,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "/Applications/CMake 2.8-11.app/Contents/bin/ccmake"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10
+CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build
+CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build
 
 # Include any dependencies generated for this target.
 include modules/photo/CMakeFiles/opencv_test_photo.dir/depend.make
@@ -54,17 +54,17 @@ include modules/photo/CMakeFiles/opencv_test_photo.dir/flags.make
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.o: modules/photo/CMakeFiles/opencv_test_photo.dir/flags.make
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.o: ../modules/photo/test/test_denoising.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.o"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.o -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_denoising.cpp
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.o -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_denoising.cpp
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.i"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_denoising.cpp > CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_denoising.cpp > CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.i
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.s"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_denoising.cpp -o CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_denoising.cpp -o CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.s
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.o.requires:
 .PHONY : modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.o.requires
@@ -77,17 +77,17 @@ modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.o.provide
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.o: modules/photo/CMakeFiles/opencv_test_photo.dir/flags.make
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.o: ../modules/photo/test/test_inpaint.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles $(CMAKE_PROGRESS_2)
+	$(CMAKE_COMMAND) -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.o"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.o -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_inpaint.cpp
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.o -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_inpaint.cpp
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.i"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_inpaint.cpp > CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_inpaint.cpp > CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.i
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.s"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_inpaint.cpp -o CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_inpaint.cpp -o CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.s
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.o.requires:
 .PHONY : modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.o.requires
@@ -100,17 +100,17 @@ modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.o.provides.
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.o: modules/photo/CMakeFiles/opencv_test_photo.dir/flags.make
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.o: ../modules/photo/test/test_main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles $(CMAKE_PROGRESS_3)
+	$(CMAKE_COMMAND) -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.o"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.o -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_main.cpp
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.o -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_main.cpp
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.i"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_main.cpp > CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_main.cpp > CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.i
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.s"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_main.cpp -o CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_main.cpp -o CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.s
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.o.requires:
 .PHONY : modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.o.requires
@@ -151,7 +151,7 @@ bin/opencv_test_photo: lib/libopencv_imgproc.2.4.10.dylib
 bin/opencv_test_photo: lib/libopencv_core.2.4.10.dylib
 bin/opencv_test_photo: modules/photo/CMakeFiles/opencv_test_photo.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable ../../bin/opencv_test_photo"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/opencv_test_photo.dir/link.txt --verbose=$(VERBOSE)
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/opencv_test_photo.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 modules/photo/CMakeFiles/opencv_test_photo.dir/build: bin/opencv_test_photo
@@ -163,10 +163,10 @@ modules/photo/CMakeFiles/opencv_test_photo.dir/requires: modules/photo/CMakeFile
 .PHONY : modules/photo/CMakeFiles/opencv_test_photo.dir/requires
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/clean:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo && $(CMAKE_COMMAND) -P CMakeFiles/opencv_test_photo.dir/cmake_clean.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo && $(CMAKE_COMMAND) -P CMakeFiles/opencv_test_photo.dir/cmake_clean.cmake
 .PHONY : modules/photo/CMakeFiles/opencv_test_photo.dir/clean
 
 modules/photo/CMakeFiles/opencv_test_photo.dir/depend:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10 /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo/CMakeFiles/opencv_test_photo.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10 /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo/CMakeFiles/opencv_test_photo.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : modules/photo/CMakeFiles/opencv_test_photo.dir/depend
 

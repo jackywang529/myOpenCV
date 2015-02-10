@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree
+# Install script for directory: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)

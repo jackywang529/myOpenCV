@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data
+# Install script for directory: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -29,36 +29,36 @@ ENDIF(NOT CMAKE_INSTALL_COMPONENT)
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "libs")
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/OpenCV/haarcascades" TYPE FILE FILES
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_eye.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_eye_tree_eyeglasses.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_frontalface_alt.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_frontalface_alt2.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_frontalface_alt_tree.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_frontalface_default.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_fullbody.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_lefteye_2splits.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_lowerbody.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_eyepair_big.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_eyepair_small.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_leftear.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_lefteye.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_mouth.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_nose.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_rightear.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_righteye.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_upperbody.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_profileface.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_righteye_2splits.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_smile.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_upperbody.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_eye.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_eye_tree_eyeglasses.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_frontalface_alt.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_frontalface_alt2.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_frontalface_alt_tree.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_frontalface_default.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_fullbody.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_lefteye_2splits.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_lowerbody.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_eyepair_big.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_eyepair_small.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_leftear.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_lefteye.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_mouth.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_nose.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_rightear.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_righteye.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_mcs_upperbody.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_profileface.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_righteye_2splits.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_smile.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/haarcascades/haarcascade_upperbody.xml"
     )
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "libs")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "libs")
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/OpenCV/lbpcascades" TYPE FILE FILES
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/lbpcascades/lbpcascade_frontalface.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/lbpcascades/lbpcascade_profileface.xml"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/data/lbpcascades/lbpcascade_silverware.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/lbpcascades/lbpcascade_frontalface.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/lbpcascades/lbpcascade_profileface.xml"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/data/lbpcascades/lbpcascade_silverware.xml"
     )
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "libs")
 

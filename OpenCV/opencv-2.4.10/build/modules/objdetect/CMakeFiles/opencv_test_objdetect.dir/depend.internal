@@ -20,8 +20,8 @@ modules/objdetect/CMakeFiles/opencv_test_objdetect.dir/test/test_cascadeandhog.c
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/test/test_cascadeandhog.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/test/test_cascadeandhog.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/test/test_precomp.hpp
 modules/objdetect/CMakeFiles/opencv_test_objdetect.dir/test/test_latentsvmdetector.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -41,8 +41,8 @@ modules/objdetect/CMakeFiles/opencv_test_objdetect.dir/test/test_latentsvmdetect
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/test/test_latentsvmdetector.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/test/test_latentsvmdetector.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/test/test_precomp.hpp
  cvconfig.h
 modules/objdetect/CMakeFiles/opencv_test_objdetect.dir/test/test_main.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -63,5 +63,5 @@ modules/objdetect/CMakeFiles/opencv_test_objdetect.dir/test/test_main.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/test/test_main.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/test/test_main.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/test/test_precomp.hpp

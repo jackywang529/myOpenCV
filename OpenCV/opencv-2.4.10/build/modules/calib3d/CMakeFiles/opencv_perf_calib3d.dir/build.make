@@ -38,10 +38,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "/Applications/CMake 2.8-11.app/Contents/bin/ccmake"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10
+CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build
+CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build
 
 # Include any dependencies generated for this target.
 include modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/depend.make
@@ -54,17 +54,17 @@ include modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/flags.make
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.o: modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/flags.make
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.o: ../modules/calib3d/perf/perf_cicrlesGrid.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.o"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.o -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_cicrlesGrid.cpp
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.o -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_cicrlesGrid.cpp
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.i"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_cicrlesGrid.cpp > CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_cicrlesGrid.cpp > CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.i
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.s"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_cicrlesGrid.cpp -o CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_cicrlesGrid.cpp -o CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.s
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.o.requires:
 .PHONY : modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.o.requires
@@ -77,17 +77,17 @@ modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_cicrlesGrid.cpp.o.p
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.o: modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/flags.make
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.o: ../modules/calib3d/perf/perf_main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles $(CMAKE_PROGRESS_2)
+	$(CMAKE_COMMAND) -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.o"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.o -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_main.cpp
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.o -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_main.cpp
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.i"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_main.cpp > CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_main.cpp > CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.i
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.s"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_main.cpp -o CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_main.cpp -o CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.s
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.o.requires:
 .PHONY : modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.o.requires
@@ -100,17 +100,17 @@ modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_main.cpp.o.provides
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.o: modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/flags.make
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.o: ../modules/calib3d/perf/perf_pnp.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles $(CMAKE_PROGRESS_3)
+	$(CMAKE_COMMAND) -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.o"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.o -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_pnp.cpp
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.o -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_pnp.cpp
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.i"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_pnp.cpp > CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_pnp.cpp > CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.i
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.s"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_pnp.cpp -o CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/perf/perf_pnp.cpp -o CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.s
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.o.requires:
 .PHONY : modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/perf/perf_pnp.cpp.o.requires
@@ -154,7 +154,7 @@ bin/opencv_perf_calib3d: lib/libopencv_imgproc.2.4.10.dylib
 bin/opencv_perf_calib3d: lib/libopencv_core.2.4.10.dylib
 bin/opencv_perf_calib3d: modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable ../../bin/opencv_perf_calib3d"
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/opencv_perf_calib3d.dir/link.txt --verbose=$(VERBOSE)
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/opencv_perf_calib3d.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/build: bin/opencv_perf_calib3d
@@ -166,10 +166,10 @@ modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/requires: modules/calib3d/CMa
 .PHONY : modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/requires
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/clean:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d && $(CMAKE_COMMAND) -P CMakeFiles/opencv_perf_calib3d.dir/cmake_clean.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d && $(CMAKE_COMMAND) -P CMakeFiles/opencv_perf_calib3d.dir/cmake_clean.cmake
 .PHONY : modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/clean
 
 modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/depend:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10 /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10 /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : modules/calib3d/CMakeFiles/opencv_perf_calib3d.dir/depend
 

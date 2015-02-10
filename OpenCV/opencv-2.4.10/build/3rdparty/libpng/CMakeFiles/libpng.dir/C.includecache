@@ -10,21 +10,21 @@
 zconf.h
 ../3rdparty/zlib/zconf.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/png.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/png.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/png.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/png.h
 pnglibconf.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pnglibconf.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pnglibconf.h
 setjmp.h
 -
 time.h
 -
 pngconf.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngconf.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngconf.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngconf.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngconf.h
 limits.h
 -
 strings.h
@@ -36,47 +36,47 @@ stdio.h
 dos.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngdebug.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngdebug.h
 crtdbg.h
 -
 stdio.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngerror.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngerror.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngget.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngget.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pnginfo.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pnginfo.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pnglibconf.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pnglibconf.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngmem.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngmem.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpread.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpread.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 stdlib.h
 -
 stddef.h
 -
 pngusr.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngusr.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngusr.h
 png.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/png.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/png.h
 pnginfo.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pnginfo.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pnginfo.h
 pngstruct.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngstruct.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngstruct.h
 config.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/config.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/config.h
 float.h
 -
 fp.h
@@ -92,23 +92,23 @@ alloc.h
 windows.h
 -
 pngdebug.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngdebug.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngdebug.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngread.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngread.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngrio.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngrio.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngrtran.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngrtran.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngrutil.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngrutil.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 stdio.h
 -
 elf.h
@@ -116,33 +116,33 @@ elf.h
 asm/hwcap.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngset.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngset.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngstruct.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngstruct.h
 zlib.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/zlib.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/zlib.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngtrans.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngtrans.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwio.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwio.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwrite.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwrite.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwtran.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwtran.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwutil.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwutil.c
 pngpriv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpriv.h
 
 3rdparty/zlib/zconf.h
 windows.h

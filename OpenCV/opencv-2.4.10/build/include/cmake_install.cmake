@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/include
+# Install script for directory: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/include
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -29,21 +29,21 @@ ENDIF(NOT CMAKE_INSTALL_COMPONENT)
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv" TYPE FILE FILES
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/include/opencv/cv.h"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/include/opencv/cv.hpp"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/include/opencv/cvaux.h"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/include/opencv/cvaux.hpp"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/include/opencv/cvwimage.h"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/include/opencv/cxcore.h"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/include/opencv/cxcore.hpp"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/include/opencv/cxeigen.hpp"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/include/opencv/cxmisc.h"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/include/opencv/highgui.h"
-    "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/include/opencv/ml.h"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/include/opencv/cv.h"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/include/opencv/cv.hpp"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/include/opencv/cvaux.h"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/include/opencv/cvaux.hpp"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/include/opencv/cvwimage.h"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/include/opencv/cxcore.h"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/include/opencv/cxcore.hpp"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/include/opencv/cxeigen.hpp"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/include/opencv/cxmisc.h"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/include/opencv/highgui.h"
+    "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/include/opencv/ml.h"
     )
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/include/opencv2/opencv.hpp")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/opencv2" TYPE FILE FILES "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/include/opencv2/opencv.hpp")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "dev")
 

@@ -42,10 +42,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "/Applications/CMake 2.8-11.app/Contents/bin/ccmake"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10
+CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build
+CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -104,7 +104,7 @@ list_install_components/fast: list_install_components
 # Special rule for the target package
 package: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool..."
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackConfig.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackConfig.cmake
 .PHONY : package
 
 # Special rule for the target package
@@ -114,7 +114,7 @@ package/fast: package
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool for source..."
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackSourceConfig.cmake /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CPackSourceConfig.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackSourceConfig.cmake /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -133,14 +133,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/progress.marks
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles 0
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/progress.marks
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/clean
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/clean
 .PHONY : clean
 
 # The main clean target
@@ -149,22 +149,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/preinstall
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/preinstall
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 modules/highgui/CMakeFiles/opencv_highgui.dir/rule:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/CMakeFiles/opencv_highgui.dir/rule
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/CMakeFiles/opencv_highgui.dir/rule
 .PHONY : modules/highgui/CMakeFiles/opencv_highgui.dir/rule
 
 # Convenience name for target.
@@ -173,12 +173,12 @@ opencv_highgui: modules/highgui/CMakeFiles/opencv_highgui.dir/rule
 
 # fast build rule for target.
 opencv_highgui/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/build
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/build
 .PHONY : opencv_highgui/fast
 
 # Convenience name for target.
 modules/highgui/CMakeFiles/opencv_perf_highgui.dir/rule:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/CMakeFiles/opencv_perf_highgui.dir/rule
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/CMakeFiles/opencv_perf_highgui.dir/rule
 .PHONY : modules/highgui/CMakeFiles/opencv_perf_highgui.dir/rule
 
 # Convenience name for target.
@@ -187,12 +187,12 @@ opencv_perf_highgui: modules/highgui/CMakeFiles/opencv_perf_highgui.dir/rule
 
 # fast build rule for target.
 opencv_perf_highgui/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build
 .PHONY : opencv_perf_highgui/fast
 
 # Convenience name for target.
 modules/highgui/CMakeFiles/opencv_test_highgui.dir/rule:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/CMakeFiles/opencv_test_highgui.dir/rule
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/highgui/CMakeFiles/opencv_test_highgui.dir/rule
 .PHONY : modules/highgui/CMakeFiles/opencv_test_highgui.dir/rule
 
 # Convenience name for target.
@@ -201,7 +201,7 @@ opencv_test_highgui: modules/highgui/CMakeFiles/opencv_test_highgui.dir/rule
 
 # fast build rule for target.
 opencv_test_highgui/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/build
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/build
 .PHONY : opencv_test_highgui/fast
 
 perf/perf_input.o: perf/perf_input.cpp.o
@@ -209,7 +209,7 @@ perf/perf_input.o: perf/perf_input.cpp.o
 
 # target to build an object file
 perf/perf_input.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_input.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_input.cpp.o
 .PHONY : perf/perf_input.cpp.o
 
 perf/perf_input.i: perf/perf_input.cpp.i
@@ -217,7 +217,7 @@ perf/perf_input.i: perf/perf_input.cpp.i
 
 # target to preprocess a source file
 perf/perf_input.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_input.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_input.cpp.i
 .PHONY : perf/perf_input.cpp.i
 
 perf/perf_input.s: perf/perf_input.cpp.s
@@ -225,7 +225,7 @@ perf/perf_input.s: perf/perf_input.cpp.s
 
 # target to generate assembly for a file
 perf/perf_input.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_input.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_input.cpp.s
 .PHONY : perf/perf_input.cpp.s
 
 perf/perf_main.o: perf/perf_main.cpp.o
@@ -233,7 +233,7 @@ perf/perf_main.o: perf/perf_main.cpp.o
 
 # target to build an object file
 perf/perf_main.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_main.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_main.cpp.o
 .PHONY : perf/perf_main.cpp.o
 
 perf/perf_main.i: perf/perf_main.cpp.i
@@ -241,7 +241,7 @@ perf/perf_main.i: perf/perf_main.cpp.i
 
 # target to preprocess a source file
 perf/perf_main.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_main.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_main.cpp.i
 .PHONY : perf/perf_main.cpp.i
 
 perf/perf_main.s: perf/perf_main.cpp.s
@@ -249,7 +249,7 @@ perf/perf_main.s: perf/perf_main.cpp.s
 
 # target to generate assembly for a file
 perf/perf_main.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_main.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_main.cpp.s
 .PHONY : perf/perf_main.cpp.s
 
 perf/perf_output.o: perf/perf_output.cpp.o
@@ -257,7 +257,7 @@ perf/perf_output.o: perf/perf_output.cpp.o
 
 # target to build an object file
 perf/perf_output.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_output.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_output.cpp.o
 .PHONY : perf/perf_output.cpp.o
 
 perf/perf_output.i: perf/perf_output.cpp.i
@@ -265,7 +265,7 @@ perf/perf_output.i: perf/perf_output.cpp.i
 
 # target to preprocess a source file
 perf/perf_output.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_output.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_output.cpp.i
 .PHONY : perf/perf_output.cpp.i
 
 perf/perf_output.s: perf/perf_output.cpp.s
@@ -273,7 +273,7 @@ perf/perf_output.s: perf/perf_output.cpp.s
 
 # target to generate assembly for a file
 perf/perf_output.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_output.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_perf_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_perf_highgui.dir/perf/perf_output.cpp.s
 .PHONY : perf/perf_output.cpp.s
 
 src/bitstrm.o: src/bitstrm.cpp.o
@@ -281,7 +281,7 @@ src/bitstrm.o: src/bitstrm.cpp.o
 
 # target to build an object file
 src/bitstrm.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/bitstrm.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/bitstrm.cpp.o
 .PHONY : src/bitstrm.cpp.o
 
 src/bitstrm.i: src/bitstrm.cpp.i
@@ -289,7 +289,7 @@ src/bitstrm.i: src/bitstrm.cpp.i
 
 # target to preprocess a source file
 src/bitstrm.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/bitstrm.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/bitstrm.cpp.i
 .PHONY : src/bitstrm.cpp.i
 
 src/bitstrm.s: src/bitstrm.cpp.s
@@ -297,7 +297,7 @@ src/bitstrm.s: src/bitstrm.cpp.s
 
 # target to generate assembly for a file
 src/bitstrm.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/bitstrm.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/bitstrm.cpp.s
 .PHONY : src/bitstrm.cpp.s
 
 src/cap.o: src/cap.cpp.o
@@ -305,7 +305,7 @@ src/cap.o: src/cap.cpp.o
 
 # target to build an object file
 src/cap.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap.cpp.o
 .PHONY : src/cap.cpp.o
 
 src/cap.i: src/cap.cpp.i
@@ -313,7 +313,7 @@ src/cap.i: src/cap.cpp.i
 
 # target to preprocess a source file
 src/cap.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap.cpp.i
 .PHONY : src/cap.cpp.i
 
 src/cap.s: src/cap.cpp.s
@@ -321,7 +321,7 @@ src/cap.s: src/cap.cpp.s
 
 # target to generate assembly for a file
 src/cap.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap.cpp.s
 .PHONY : src/cap.cpp.s
 
 src/cap_ffmpeg.o: src/cap_ffmpeg.cpp.o
@@ -329,7 +329,7 @@ src/cap_ffmpeg.o: src/cap_ffmpeg.cpp.o
 
 # target to build an object file
 src/cap_ffmpeg.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_ffmpeg.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_ffmpeg.cpp.o
 .PHONY : src/cap_ffmpeg.cpp.o
 
 src/cap_ffmpeg.i: src/cap_ffmpeg.cpp.i
@@ -337,7 +337,7 @@ src/cap_ffmpeg.i: src/cap_ffmpeg.cpp.i
 
 # target to preprocess a source file
 src/cap_ffmpeg.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_ffmpeg.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_ffmpeg.cpp.i
 .PHONY : src/cap_ffmpeg.cpp.i
 
 src/cap_ffmpeg.s: src/cap_ffmpeg.cpp.s
@@ -345,7 +345,7 @@ src/cap_ffmpeg.s: src/cap_ffmpeg.cpp.s
 
 # target to generate assembly for a file
 src/cap_ffmpeg.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_ffmpeg.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_ffmpeg.cpp.s
 .PHONY : src/cap_ffmpeg.cpp.s
 
 src/cap_images.o: src/cap_images.cpp.o
@@ -353,7 +353,7 @@ src/cap_images.o: src/cap_images.cpp.o
 
 # target to build an object file
 src/cap_images.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_images.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_images.cpp.o
 .PHONY : src/cap_images.cpp.o
 
 src/cap_images.i: src/cap_images.cpp.i
@@ -361,7 +361,7 @@ src/cap_images.i: src/cap_images.cpp.i
 
 # target to preprocess a source file
 src/cap_images.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_images.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_images.cpp.i
 .PHONY : src/cap_images.cpp.i
 
 src/cap_images.s: src/cap_images.cpp.s
@@ -369,7 +369,7 @@ src/cap_images.s: src/cap_images.cpp.s
 
 # target to generate assembly for a file
 src/cap_images.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_images.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_images.cpp.s
 .PHONY : src/cap_images.cpp.s
 
 src/cap_qtkit.o: src/cap_qtkit.mm.o
@@ -377,7 +377,7 @@ src/cap_qtkit.o: src/cap_qtkit.mm.o
 
 # target to build an object file
 src/cap_qtkit.mm.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_qtkit.mm.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_qtkit.mm.o
 .PHONY : src/cap_qtkit.mm.o
 
 src/cap_qtkit.i: src/cap_qtkit.mm.i
@@ -385,7 +385,7 @@ src/cap_qtkit.i: src/cap_qtkit.mm.i
 
 # target to preprocess a source file
 src/cap_qtkit.mm.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_qtkit.mm.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_qtkit.mm.i
 .PHONY : src/cap_qtkit.mm.i
 
 src/cap_qtkit.s: src/cap_qtkit.mm.s
@@ -393,7 +393,7 @@ src/cap_qtkit.s: src/cap_qtkit.mm.s
 
 # target to generate assembly for a file
 src/cap_qtkit.mm.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_qtkit.mm.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_qtkit.mm.s
 .PHONY : src/cap_qtkit.mm.s
 
 src/grfmt_base.o: src/grfmt_base.cpp.o
@@ -401,7 +401,7 @@ src/grfmt_base.o: src/grfmt_base.cpp.o
 
 # target to build an object file
 src/grfmt_base.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_base.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_base.cpp.o
 .PHONY : src/grfmt_base.cpp.o
 
 src/grfmt_base.i: src/grfmt_base.cpp.i
@@ -409,7 +409,7 @@ src/grfmt_base.i: src/grfmt_base.cpp.i
 
 # target to preprocess a source file
 src/grfmt_base.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_base.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_base.cpp.i
 .PHONY : src/grfmt_base.cpp.i
 
 src/grfmt_base.s: src/grfmt_base.cpp.s
@@ -417,7 +417,7 @@ src/grfmt_base.s: src/grfmt_base.cpp.s
 
 # target to generate assembly for a file
 src/grfmt_base.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_base.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_base.cpp.s
 .PHONY : src/grfmt_base.cpp.s
 
 src/grfmt_bmp.o: src/grfmt_bmp.cpp.o
@@ -425,7 +425,7 @@ src/grfmt_bmp.o: src/grfmt_bmp.cpp.o
 
 # target to build an object file
 src/grfmt_bmp.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_bmp.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_bmp.cpp.o
 .PHONY : src/grfmt_bmp.cpp.o
 
 src/grfmt_bmp.i: src/grfmt_bmp.cpp.i
@@ -433,7 +433,7 @@ src/grfmt_bmp.i: src/grfmt_bmp.cpp.i
 
 # target to preprocess a source file
 src/grfmt_bmp.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_bmp.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_bmp.cpp.i
 .PHONY : src/grfmt_bmp.cpp.i
 
 src/grfmt_bmp.s: src/grfmt_bmp.cpp.s
@@ -441,7 +441,7 @@ src/grfmt_bmp.s: src/grfmt_bmp.cpp.s
 
 # target to generate assembly for a file
 src/grfmt_bmp.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_bmp.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_bmp.cpp.s
 .PHONY : src/grfmt_bmp.cpp.s
 
 src/grfmt_exr.o: src/grfmt_exr.cpp.o
@@ -449,7 +449,7 @@ src/grfmt_exr.o: src/grfmt_exr.cpp.o
 
 # target to build an object file
 src/grfmt_exr.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_exr.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_exr.cpp.o
 .PHONY : src/grfmt_exr.cpp.o
 
 src/grfmt_exr.i: src/grfmt_exr.cpp.i
@@ -457,7 +457,7 @@ src/grfmt_exr.i: src/grfmt_exr.cpp.i
 
 # target to preprocess a source file
 src/grfmt_exr.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_exr.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_exr.cpp.i
 .PHONY : src/grfmt_exr.cpp.i
 
 src/grfmt_exr.s: src/grfmt_exr.cpp.s
@@ -465,7 +465,7 @@ src/grfmt_exr.s: src/grfmt_exr.cpp.s
 
 # target to generate assembly for a file
 src/grfmt_exr.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_exr.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_exr.cpp.s
 .PHONY : src/grfmt_exr.cpp.s
 
 src/grfmt_imageio.o: src/grfmt_imageio.cpp.o
@@ -473,7 +473,7 @@ src/grfmt_imageio.o: src/grfmt_imageio.cpp.o
 
 # target to build an object file
 src/grfmt_imageio.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_imageio.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_imageio.cpp.o
 .PHONY : src/grfmt_imageio.cpp.o
 
 src/grfmt_imageio.i: src/grfmt_imageio.cpp.i
@@ -481,7 +481,7 @@ src/grfmt_imageio.i: src/grfmt_imageio.cpp.i
 
 # target to preprocess a source file
 src/grfmt_imageio.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_imageio.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_imageio.cpp.i
 .PHONY : src/grfmt_imageio.cpp.i
 
 src/grfmt_imageio.s: src/grfmt_imageio.cpp.s
@@ -489,7 +489,7 @@ src/grfmt_imageio.s: src/grfmt_imageio.cpp.s
 
 # target to generate assembly for a file
 src/grfmt_imageio.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_imageio.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_imageio.cpp.s
 .PHONY : src/grfmt_imageio.cpp.s
 
 src/grfmt_jpeg.o: src/grfmt_jpeg.cpp.o
@@ -497,7 +497,7 @@ src/grfmt_jpeg.o: src/grfmt_jpeg.cpp.o
 
 # target to build an object file
 src/grfmt_jpeg.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg.cpp.o
 .PHONY : src/grfmt_jpeg.cpp.o
 
 src/grfmt_jpeg.i: src/grfmt_jpeg.cpp.i
@@ -505,7 +505,7 @@ src/grfmt_jpeg.i: src/grfmt_jpeg.cpp.i
 
 # target to preprocess a source file
 src/grfmt_jpeg.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg.cpp.i
 .PHONY : src/grfmt_jpeg.cpp.i
 
 src/grfmt_jpeg.s: src/grfmt_jpeg.cpp.s
@@ -513,7 +513,7 @@ src/grfmt_jpeg.s: src/grfmt_jpeg.cpp.s
 
 # target to generate assembly for a file
 src/grfmt_jpeg.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg.cpp.s
 .PHONY : src/grfmt_jpeg.cpp.s
 
 src/grfmt_jpeg2000.o: src/grfmt_jpeg2000.cpp.o
@@ -521,7 +521,7 @@ src/grfmt_jpeg2000.o: src/grfmt_jpeg2000.cpp.o
 
 # target to build an object file
 src/grfmt_jpeg2000.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg2000.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg2000.cpp.o
 .PHONY : src/grfmt_jpeg2000.cpp.o
 
 src/grfmt_jpeg2000.i: src/grfmt_jpeg2000.cpp.i
@@ -529,7 +529,7 @@ src/grfmt_jpeg2000.i: src/grfmt_jpeg2000.cpp.i
 
 # target to preprocess a source file
 src/grfmt_jpeg2000.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg2000.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg2000.cpp.i
 .PHONY : src/grfmt_jpeg2000.cpp.i
 
 src/grfmt_jpeg2000.s: src/grfmt_jpeg2000.cpp.s
@@ -537,7 +537,7 @@ src/grfmt_jpeg2000.s: src/grfmt_jpeg2000.cpp.s
 
 # target to generate assembly for a file
 src/grfmt_jpeg2000.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg2000.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg2000.cpp.s
 .PHONY : src/grfmt_jpeg2000.cpp.s
 
 src/grfmt_png.o: src/grfmt_png.cpp.o
@@ -545,7 +545,7 @@ src/grfmt_png.o: src/grfmt_png.cpp.o
 
 # target to build an object file
 src/grfmt_png.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_png.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_png.cpp.o
 .PHONY : src/grfmt_png.cpp.o
 
 src/grfmt_png.i: src/grfmt_png.cpp.i
@@ -553,7 +553,7 @@ src/grfmt_png.i: src/grfmt_png.cpp.i
 
 # target to preprocess a source file
 src/grfmt_png.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_png.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_png.cpp.i
 .PHONY : src/grfmt_png.cpp.i
 
 src/grfmt_png.s: src/grfmt_png.cpp.s
@@ -561,7 +561,7 @@ src/grfmt_png.s: src/grfmt_png.cpp.s
 
 # target to generate assembly for a file
 src/grfmt_png.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_png.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_png.cpp.s
 .PHONY : src/grfmt_png.cpp.s
 
 src/grfmt_pxm.o: src/grfmt_pxm.cpp.o
@@ -569,7 +569,7 @@ src/grfmt_pxm.o: src/grfmt_pxm.cpp.o
 
 # target to build an object file
 src/grfmt_pxm.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_pxm.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_pxm.cpp.o
 .PHONY : src/grfmt_pxm.cpp.o
 
 src/grfmt_pxm.i: src/grfmt_pxm.cpp.i
@@ -577,7 +577,7 @@ src/grfmt_pxm.i: src/grfmt_pxm.cpp.i
 
 # target to preprocess a source file
 src/grfmt_pxm.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_pxm.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_pxm.cpp.i
 .PHONY : src/grfmt_pxm.cpp.i
 
 src/grfmt_pxm.s: src/grfmt_pxm.cpp.s
@@ -585,7 +585,7 @@ src/grfmt_pxm.s: src/grfmt_pxm.cpp.s
 
 # target to generate assembly for a file
 src/grfmt_pxm.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_pxm.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_pxm.cpp.s
 .PHONY : src/grfmt_pxm.cpp.s
 
 src/grfmt_sunras.o: src/grfmt_sunras.cpp.o
@@ -593,7 +593,7 @@ src/grfmt_sunras.o: src/grfmt_sunras.cpp.o
 
 # target to build an object file
 src/grfmt_sunras.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_sunras.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_sunras.cpp.o
 .PHONY : src/grfmt_sunras.cpp.o
 
 src/grfmt_sunras.i: src/grfmt_sunras.cpp.i
@@ -601,7 +601,7 @@ src/grfmt_sunras.i: src/grfmt_sunras.cpp.i
 
 # target to preprocess a source file
 src/grfmt_sunras.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_sunras.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_sunras.cpp.i
 .PHONY : src/grfmt_sunras.cpp.i
 
 src/grfmt_sunras.s: src/grfmt_sunras.cpp.s
@@ -609,7 +609,7 @@ src/grfmt_sunras.s: src/grfmt_sunras.cpp.s
 
 # target to generate assembly for a file
 src/grfmt_sunras.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_sunras.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_sunras.cpp.s
 .PHONY : src/grfmt_sunras.cpp.s
 
 src/grfmt_tiff.o: src/grfmt_tiff.cpp.o
@@ -617,7 +617,7 @@ src/grfmt_tiff.o: src/grfmt_tiff.cpp.o
 
 # target to build an object file
 src/grfmt_tiff.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_tiff.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_tiff.cpp.o
 .PHONY : src/grfmt_tiff.cpp.o
 
 src/grfmt_tiff.i: src/grfmt_tiff.cpp.i
@@ -625,7 +625,7 @@ src/grfmt_tiff.i: src/grfmt_tiff.cpp.i
 
 # target to preprocess a source file
 src/grfmt_tiff.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_tiff.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_tiff.cpp.i
 .PHONY : src/grfmt_tiff.cpp.i
 
 src/grfmt_tiff.s: src/grfmt_tiff.cpp.s
@@ -633,7 +633,7 @@ src/grfmt_tiff.s: src/grfmt_tiff.cpp.s
 
 # target to generate assembly for a file
 src/grfmt_tiff.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_tiff.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_tiff.cpp.s
 .PHONY : src/grfmt_tiff.cpp.s
 
 src/loadsave.o: src/loadsave.cpp.o
@@ -641,7 +641,7 @@ src/loadsave.o: src/loadsave.cpp.o
 
 # target to build an object file
 src/loadsave.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/loadsave.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/loadsave.cpp.o
 .PHONY : src/loadsave.cpp.o
 
 src/loadsave.i: src/loadsave.cpp.i
@@ -649,7 +649,7 @@ src/loadsave.i: src/loadsave.cpp.i
 
 # target to preprocess a source file
 src/loadsave.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/loadsave.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/loadsave.cpp.i
 .PHONY : src/loadsave.cpp.i
 
 src/loadsave.s: src/loadsave.cpp.s
@@ -657,7 +657,7 @@ src/loadsave.s: src/loadsave.cpp.s
 
 # target to generate assembly for a file
 src/loadsave.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/loadsave.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/loadsave.cpp.s
 .PHONY : src/loadsave.cpp.s
 
 src/utils.o: src/utils.cpp.o
@@ -665,7 +665,7 @@ src/utils.o: src/utils.cpp.o
 
 # target to build an object file
 src/utils.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/utils.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/utils.cpp.o
 .PHONY : src/utils.cpp.o
 
 src/utils.i: src/utils.cpp.i
@@ -673,7 +673,7 @@ src/utils.i: src/utils.cpp.i
 
 # target to preprocess a source file
 src/utils.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/utils.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/utils.cpp.i
 .PHONY : src/utils.cpp.i
 
 src/utils.s: src/utils.cpp.s
@@ -681,7 +681,7 @@ src/utils.s: src/utils.cpp.s
 
 # target to generate assembly for a file
 src/utils.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/utils.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/utils.cpp.s
 .PHONY : src/utils.cpp.s
 
 src/window.o: src/window.cpp.o
@@ -689,7 +689,7 @@ src/window.o: src/window.cpp.o
 
 # target to build an object file
 src/window.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/window.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/window.cpp.o
 .PHONY : src/window.cpp.o
 
 src/window.i: src/window.cpp.i
@@ -697,7 +697,7 @@ src/window.i: src/window.cpp.i
 
 # target to preprocess a source file
 src/window.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/window.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/window.cpp.i
 .PHONY : src/window.cpp.i
 
 src/window.s: src/window.cpp.s
@@ -705,7 +705,7 @@ src/window.s: src/window.cpp.s
 
 # target to generate assembly for a file
 src/window.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/window.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/window.cpp.s
 .PHONY : src/window.cpp.s
 
 src/window_cocoa.o: src/window_cocoa.mm.o
@@ -713,7 +713,7 @@ src/window_cocoa.o: src/window_cocoa.mm.o
 
 # target to build an object file
 src/window_cocoa.mm.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/window_cocoa.mm.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/window_cocoa.mm.o
 .PHONY : src/window_cocoa.mm.o
 
 src/window_cocoa.i: src/window_cocoa.mm.i
@@ -721,7 +721,7 @@ src/window_cocoa.i: src/window_cocoa.mm.i
 
 # target to preprocess a source file
 src/window_cocoa.mm.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/window_cocoa.mm.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/window_cocoa.mm.i
 .PHONY : src/window_cocoa.mm.i
 
 src/window_cocoa.s: src/window_cocoa.mm.s
@@ -729,7 +729,7 @@ src/window_cocoa.s: src/window_cocoa.mm.s
 
 # target to generate assembly for a file
 src/window_cocoa.mm.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/window_cocoa.mm.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_highgui.dir/src/window_cocoa.mm.s
 .PHONY : src/window_cocoa.mm.s
 
 test/test_basic_props.o: test/test_basic_props.cpp.o
@@ -737,7 +737,7 @@ test/test_basic_props.o: test/test_basic_props.cpp.o
 
 # target to build an object file
 test/test_basic_props.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_basic_props.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_basic_props.cpp.o
 .PHONY : test/test_basic_props.cpp.o
 
 test/test_basic_props.i: test/test_basic_props.cpp.i
@@ -745,7 +745,7 @@ test/test_basic_props.i: test/test_basic_props.cpp.i
 
 # target to preprocess a source file
 test/test_basic_props.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_basic_props.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_basic_props.cpp.i
 .PHONY : test/test_basic_props.cpp.i
 
 test/test_basic_props.s: test/test_basic_props.cpp.s
@@ -753,7 +753,7 @@ test/test_basic_props.s: test/test_basic_props.cpp.s
 
 # target to generate assembly for a file
 test/test_basic_props.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_basic_props.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_basic_props.cpp.s
 .PHONY : test/test_basic_props.cpp.s
 
 test/test_drawing.o: test/test_drawing.cpp.o
@@ -761,7 +761,7 @@ test/test_drawing.o: test/test_drawing.cpp.o
 
 # target to build an object file
 test/test_drawing.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_drawing.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_drawing.cpp.o
 .PHONY : test/test_drawing.cpp.o
 
 test/test_drawing.i: test/test_drawing.cpp.i
@@ -769,7 +769,7 @@ test/test_drawing.i: test/test_drawing.cpp.i
 
 # target to preprocess a source file
 test/test_drawing.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_drawing.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_drawing.cpp.i
 .PHONY : test/test_drawing.cpp.i
 
 test/test_drawing.s: test/test_drawing.cpp.s
@@ -777,7 +777,7 @@ test/test_drawing.s: test/test_drawing.cpp.s
 
 # target to generate assembly for a file
 test/test_drawing.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_drawing.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_drawing.cpp.s
 .PHONY : test/test_drawing.cpp.s
 
 test/test_ffmpeg.o: test/test_ffmpeg.cpp.o
@@ -785,7 +785,7 @@ test/test_ffmpeg.o: test/test_ffmpeg.cpp.o
 
 # target to build an object file
 test/test_ffmpeg.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_ffmpeg.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_ffmpeg.cpp.o
 .PHONY : test/test_ffmpeg.cpp.o
 
 test/test_ffmpeg.i: test/test_ffmpeg.cpp.i
@@ -793,7 +793,7 @@ test/test_ffmpeg.i: test/test_ffmpeg.cpp.i
 
 # target to preprocess a source file
 test/test_ffmpeg.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_ffmpeg.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_ffmpeg.cpp.i
 .PHONY : test/test_ffmpeg.cpp.i
 
 test/test_ffmpeg.s: test/test_ffmpeg.cpp.s
@@ -801,7 +801,7 @@ test/test_ffmpeg.s: test/test_ffmpeg.cpp.s
 
 # target to generate assembly for a file
 test/test_ffmpeg.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_ffmpeg.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_ffmpeg.cpp.s
 .PHONY : test/test_ffmpeg.cpp.s
 
 test/test_fourcc.o: test/test_fourcc.cpp.o
@@ -809,7 +809,7 @@ test/test_fourcc.o: test/test_fourcc.cpp.o
 
 # target to build an object file
 test/test_fourcc.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_fourcc.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_fourcc.cpp.o
 .PHONY : test/test_fourcc.cpp.o
 
 test/test_fourcc.i: test/test_fourcc.cpp.i
@@ -817,7 +817,7 @@ test/test_fourcc.i: test/test_fourcc.cpp.i
 
 # target to preprocess a source file
 test/test_fourcc.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_fourcc.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_fourcc.cpp.i
 .PHONY : test/test_fourcc.cpp.i
 
 test/test_fourcc.s: test/test_fourcc.cpp.s
@@ -825,7 +825,7 @@ test/test_fourcc.s: test/test_fourcc.cpp.s
 
 # target to generate assembly for a file
 test/test_fourcc.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_fourcc.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_fourcc.cpp.s
 .PHONY : test/test_fourcc.cpp.s
 
 test/test_framecount.o: test/test_framecount.cpp.o
@@ -833,7 +833,7 @@ test/test_framecount.o: test/test_framecount.cpp.o
 
 # target to build an object file
 test/test_framecount.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_framecount.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_framecount.cpp.o
 .PHONY : test/test_framecount.cpp.o
 
 test/test_framecount.i: test/test_framecount.cpp.i
@@ -841,7 +841,7 @@ test/test_framecount.i: test/test_framecount.cpp.i
 
 # target to preprocess a source file
 test/test_framecount.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_framecount.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_framecount.cpp.i
 .PHONY : test/test_framecount.cpp.i
 
 test/test_framecount.s: test/test_framecount.cpp.s
@@ -849,7 +849,7 @@ test/test_framecount.s: test/test_framecount.cpp.s
 
 # target to generate assembly for a file
 test/test_framecount.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_framecount.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_framecount.cpp.s
 .PHONY : test/test_framecount.cpp.s
 
 test/test_grfmt.o: test/test_grfmt.cpp.o
@@ -857,7 +857,7 @@ test/test_grfmt.o: test/test_grfmt.cpp.o
 
 # target to build an object file
 test/test_grfmt.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_grfmt.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_grfmt.cpp.o
 .PHONY : test/test_grfmt.cpp.o
 
 test/test_grfmt.i: test/test_grfmt.cpp.i
@@ -865,7 +865,7 @@ test/test_grfmt.i: test/test_grfmt.cpp.i
 
 # target to preprocess a source file
 test/test_grfmt.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_grfmt.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_grfmt.cpp.i
 .PHONY : test/test_grfmt.cpp.i
 
 test/test_grfmt.s: test/test_grfmt.cpp.s
@@ -873,7 +873,7 @@ test/test_grfmt.s: test/test_grfmt.cpp.s
 
 # target to generate assembly for a file
 test/test_grfmt.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_grfmt.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_grfmt.cpp.s
 .PHONY : test/test_grfmt.cpp.s
 
 test/test_gui.o: test/test_gui.cpp.o
@@ -881,7 +881,7 @@ test/test_gui.o: test/test_gui.cpp.o
 
 # target to build an object file
 test/test_gui.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_gui.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_gui.cpp.o
 .PHONY : test/test_gui.cpp.o
 
 test/test_gui.i: test/test_gui.cpp.i
@@ -889,7 +889,7 @@ test/test_gui.i: test/test_gui.cpp.i
 
 # target to preprocess a source file
 test/test_gui.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_gui.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_gui.cpp.i
 .PHONY : test/test_gui.cpp.i
 
 test/test_gui.s: test/test_gui.cpp.s
@@ -897,7 +897,7 @@ test/test_gui.s: test/test_gui.cpp.s
 
 # target to generate assembly for a file
 test/test_gui.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_gui.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_gui.cpp.s
 .PHONY : test/test_gui.cpp.s
 
 test/test_main.o: test/test_main.cpp.o
@@ -905,7 +905,7 @@ test/test_main.o: test/test_main.cpp.o
 
 # target to build an object file
 test/test_main.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_main.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_main.cpp.o
 .PHONY : test/test_main.cpp.o
 
 test/test_main.i: test/test_main.cpp.i
@@ -913,7 +913,7 @@ test/test_main.i: test/test_main.cpp.i
 
 # target to preprocess a source file
 test/test_main.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_main.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_main.cpp.i
 .PHONY : test/test_main.cpp.i
 
 test/test_main.s: test/test_main.cpp.s
@@ -921,7 +921,7 @@ test/test_main.s: test/test_main.cpp.s
 
 # target to generate assembly for a file
 test/test_main.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_main.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_main.cpp.s
 .PHONY : test/test_main.cpp.s
 
 test/test_positioning.o: test/test_positioning.cpp.o
@@ -929,7 +929,7 @@ test/test_positioning.o: test/test_positioning.cpp.o
 
 # target to build an object file
 test/test_positioning.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_positioning.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_positioning.cpp.o
 .PHONY : test/test_positioning.cpp.o
 
 test/test_positioning.i: test/test_positioning.cpp.i
@@ -937,7 +937,7 @@ test/test_positioning.i: test/test_positioning.cpp.i
 
 # target to preprocess a source file
 test/test_positioning.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_positioning.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_positioning.cpp.i
 .PHONY : test/test_positioning.cpp.i
 
 test/test_positioning.s: test/test_positioning.cpp.s
@@ -945,7 +945,7 @@ test/test_positioning.s: test/test_positioning.cpp.s
 
 # target to generate assembly for a file
 test/test_positioning.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_positioning.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_positioning.cpp.s
 .PHONY : test/test_positioning.cpp.s
 
 test/test_video_io.o: test/test_video_io.cpp.o
@@ -953,7 +953,7 @@ test/test_video_io.o: test/test_video_io.cpp.o
 
 # target to build an object file
 test/test_video_io.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_io.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_io.cpp.o
 .PHONY : test/test_video_io.cpp.o
 
 test/test_video_io.i: test/test_video_io.cpp.i
@@ -961,7 +961,7 @@ test/test_video_io.i: test/test_video_io.cpp.i
 
 # target to preprocess a source file
 test/test_video_io.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_io.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_io.cpp.i
 .PHONY : test/test_video_io.cpp.i
 
 test/test_video_io.s: test/test_video_io.cpp.s
@@ -969,7 +969,7 @@ test/test_video_io.s: test/test_video_io.cpp.s
 
 # target to generate assembly for a file
 test/test_video_io.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_io.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_io.cpp.s
 .PHONY : test/test_video_io.cpp.s
 
 test/test_video_pos.o: test/test_video_pos.cpp.o
@@ -977,7 +977,7 @@ test/test_video_pos.o: test/test_video_pos.cpp.o
 
 # target to build an object file
 test/test_video_pos.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_pos.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_pos.cpp.o
 .PHONY : test/test_video_pos.cpp.o
 
 test/test_video_pos.i: test/test_video_pos.cpp.i
@@ -985,7 +985,7 @@ test/test_video_pos.i: test/test_video_pos.cpp.i
 
 # target to preprocess a source file
 test/test_video_pos.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_pos.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_pos.cpp.i
 .PHONY : test/test_video_pos.cpp.i
 
 test/test_video_pos.s: test/test_video_pos.cpp.s
@@ -993,7 +993,7 @@ test/test_video_pos.s: test/test_video_pos.cpp.s
 
 # target to generate assembly for a file
 test/test_video_pos.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_pos.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/highgui/CMakeFiles/opencv_test_highgui.dir/build.make modules/highgui/CMakeFiles/opencv_test_highgui.dir/test/test_video_pos.cpp.s
 .PHONY : test/test_video_pos.cpp.s
 
 # Help Target
@@ -1123,6 +1123,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

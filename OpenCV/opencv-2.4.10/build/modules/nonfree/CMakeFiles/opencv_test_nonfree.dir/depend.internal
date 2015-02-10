@@ -30,8 +30,8 @@ modules/nonfree/CMakeFiles/opencv_test_nonfree.dir/test/test_detectors.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_detectors.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_detectors.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
  opencv2/opencv_modules.hpp
 modules/nonfree/CMakeFiles/opencv_test_nonfree.dir/test/test_features2d.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -64,8 +64,8 @@ modules/nonfree/CMakeFiles/opencv_test_nonfree.dir/test/test_features2d.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_features2d.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_features2d.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
  opencv2/opencv_modules.hpp
 modules/nonfree/CMakeFiles/opencv_test_nonfree.dir/test/test_gpu.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -96,8 +96,8 @@ modules/nonfree/CMakeFiles/opencv_test_nonfree.dir/test/test_gpu.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_gpu.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_gpu.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/nonfree/CMakeFiles/opencv_test_nonfree.dir/test/test_keypoints.cpp.o
@@ -129,8 +129,8 @@ modules/nonfree/CMakeFiles/opencv_test_nonfree.dir/test/test_keypoints.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_keypoints.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_keypoints.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
  opencv2/opencv_modules.hpp
 modules/nonfree/CMakeFiles/opencv_test_nonfree.dir/test/test_main.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -161,8 +161,8 @@ modules/nonfree/CMakeFiles/opencv_test_nonfree.dir/test/test_main.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_main.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_main.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
  opencv2/opencv_modules.hpp
 modules/nonfree/CMakeFiles/opencv_test_nonfree.dir/test/test_rotation_and_scale_invariance.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -193,8 +193,8 @@ modules/nonfree/CMakeFiles/opencv_test_nonfree.dir/test/test_rotation_and_scale_
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_rotation_and_scale_invariance.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_rotation_and_scale_invariance.cpp
  opencv2/opencv_modules.hpp
 modules/nonfree/CMakeFiles/opencv_test_nonfree.dir/test/test_surf_ocl.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -225,6 +225,6 @@ modules/nonfree/CMakeFiles/opencv_test_nonfree.dir/test/test_surf_ocl.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/test/test_surf_ocl.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/test/test_surf_ocl.cpp
  opencv2/opencv_modules.hpp

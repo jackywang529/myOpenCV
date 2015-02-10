@@ -42,10 +42,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "/Applications/CMake 2.8-11.app/Contents/bin/ccmake"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10
+CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build
+CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -104,7 +104,7 @@ list_install_components/fast: list_install_components
 # Special rule for the target package
 package: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool..."
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackConfig.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackConfig.cmake
 .PHONY : package
 
 # Special rule for the target package
@@ -114,7 +114,7 @@ package/fast: package
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool for source..."
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackSourceConfig.cmake /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CPackSourceConfig.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackSourceConfig.cmake /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -133,14 +133,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/apps/traincascade/CMakeFiles/progress.marks
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 apps/traincascade/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles 0
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/apps/traincascade/CMakeFiles/progress.marks
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 apps/traincascade/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 apps/traincascade/clean
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 apps/traincascade/clean
 .PHONY : clean
 
 # The main clean target
@@ -149,22 +149,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 apps/traincascade/preinstall
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 apps/traincascade/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 apps/traincascade/preinstall
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 apps/traincascade/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 apps/traincascade/CMakeFiles/opencv_traincascade.dir/rule:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 apps/traincascade/CMakeFiles/opencv_traincascade.dir/rule
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 apps/traincascade/CMakeFiles/opencv_traincascade.dir/rule
 .PHONY : apps/traincascade/CMakeFiles/opencv_traincascade.dir/rule
 
 # Convenience name for target.
@@ -173,7 +173,7 @@ opencv_traincascade: apps/traincascade/CMakeFiles/opencv_traincascade.dir/rule
 
 # fast build rule for target.
 opencv_traincascade/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/build
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/build
 .PHONY : opencv_traincascade/fast
 
 HOGfeatures.o: HOGfeatures.cpp.o
@@ -181,7 +181,7 @@ HOGfeatures.o: HOGfeatures.cpp.o
 
 # target to build an object file
 HOGfeatures.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/HOGfeatures.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/HOGfeatures.cpp.o
 .PHONY : HOGfeatures.cpp.o
 
 HOGfeatures.i: HOGfeatures.cpp.i
@@ -189,7 +189,7 @@ HOGfeatures.i: HOGfeatures.cpp.i
 
 # target to preprocess a source file
 HOGfeatures.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/HOGfeatures.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/HOGfeatures.cpp.i
 .PHONY : HOGfeatures.cpp.i
 
 HOGfeatures.s: HOGfeatures.cpp.s
@@ -197,7 +197,7 @@ HOGfeatures.s: HOGfeatures.cpp.s
 
 # target to generate assembly for a file
 HOGfeatures.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/HOGfeatures.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/HOGfeatures.cpp.s
 .PHONY : HOGfeatures.cpp.s
 
 boost.o: boost.cpp.o
@@ -205,7 +205,7 @@ boost.o: boost.cpp.o
 
 # target to build an object file
 boost.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/boost.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/boost.cpp.o
 .PHONY : boost.cpp.o
 
 boost.i: boost.cpp.i
@@ -213,7 +213,7 @@ boost.i: boost.cpp.i
 
 # target to preprocess a source file
 boost.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/boost.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/boost.cpp.i
 .PHONY : boost.cpp.i
 
 boost.s: boost.cpp.s
@@ -221,7 +221,7 @@ boost.s: boost.cpp.s
 
 # target to generate assembly for a file
 boost.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/boost.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/boost.cpp.s
 .PHONY : boost.cpp.s
 
 cascadeclassifier.o: cascadeclassifier.cpp.o
@@ -229,7 +229,7 @@ cascadeclassifier.o: cascadeclassifier.cpp.o
 
 # target to build an object file
 cascadeclassifier.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/cascadeclassifier.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/cascadeclassifier.cpp.o
 .PHONY : cascadeclassifier.cpp.o
 
 cascadeclassifier.i: cascadeclassifier.cpp.i
@@ -237,7 +237,7 @@ cascadeclassifier.i: cascadeclassifier.cpp.i
 
 # target to preprocess a source file
 cascadeclassifier.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/cascadeclassifier.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/cascadeclassifier.cpp.i
 .PHONY : cascadeclassifier.cpp.i
 
 cascadeclassifier.s: cascadeclassifier.cpp.s
@@ -245,7 +245,7 @@ cascadeclassifier.s: cascadeclassifier.cpp.s
 
 # target to generate assembly for a file
 cascadeclassifier.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/cascadeclassifier.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/cascadeclassifier.cpp.s
 .PHONY : cascadeclassifier.cpp.s
 
 features.o: features.cpp.o
@@ -253,7 +253,7 @@ features.o: features.cpp.o
 
 # target to build an object file
 features.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/features.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/features.cpp.o
 .PHONY : features.cpp.o
 
 features.i: features.cpp.i
@@ -261,7 +261,7 @@ features.i: features.cpp.i
 
 # target to preprocess a source file
 features.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/features.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/features.cpp.i
 .PHONY : features.cpp.i
 
 features.s: features.cpp.s
@@ -269,7 +269,7 @@ features.s: features.cpp.s
 
 # target to generate assembly for a file
 features.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/features.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/features.cpp.s
 .PHONY : features.cpp.s
 
 haarfeatures.o: haarfeatures.cpp.o
@@ -277,7 +277,7 @@ haarfeatures.o: haarfeatures.cpp.o
 
 # target to build an object file
 haarfeatures.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/haarfeatures.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/haarfeatures.cpp.o
 .PHONY : haarfeatures.cpp.o
 
 haarfeatures.i: haarfeatures.cpp.i
@@ -285,7 +285,7 @@ haarfeatures.i: haarfeatures.cpp.i
 
 # target to preprocess a source file
 haarfeatures.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/haarfeatures.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/haarfeatures.cpp.i
 .PHONY : haarfeatures.cpp.i
 
 haarfeatures.s: haarfeatures.cpp.s
@@ -293,7 +293,7 @@ haarfeatures.s: haarfeatures.cpp.s
 
 # target to generate assembly for a file
 haarfeatures.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/haarfeatures.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/haarfeatures.cpp.s
 .PHONY : haarfeatures.cpp.s
 
 imagestorage.o: imagestorage.cpp.o
@@ -301,7 +301,7 @@ imagestorage.o: imagestorage.cpp.o
 
 # target to build an object file
 imagestorage.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/imagestorage.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/imagestorage.cpp.o
 .PHONY : imagestorage.cpp.o
 
 imagestorage.i: imagestorage.cpp.i
@@ -309,7 +309,7 @@ imagestorage.i: imagestorage.cpp.i
 
 # target to preprocess a source file
 imagestorage.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/imagestorage.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/imagestorage.cpp.i
 .PHONY : imagestorage.cpp.i
 
 imagestorage.s: imagestorage.cpp.s
@@ -317,7 +317,7 @@ imagestorage.s: imagestorage.cpp.s
 
 # target to generate assembly for a file
 imagestorage.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/imagestorage.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/imagestorage.cpp.s
 .PHONY : imagestorage.cpp.s
 
 lbpfeatures.o: lbpfeatures.cpp.o
@@ -325,7 +325,7 @@ lbpfeatures.o: lbpfeatures.cpp.o
 
 # target to build an object file
 lbpfeatures.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/lbpfeatures.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/lbpfeatures.cpp.o
 .PHONY : lbpfeatures.cpp.o
 
 lbpfeatures.i: lbpfeatures.cpp.i
@@ -333,7 +333,7 @@ lbpfeatures.i: lbpfeatures.cpp.i
 
 # target to preprocess a source file
 lbpfeatures.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/lbpfeatures.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/lbpfeatures.cpp.i
 .PHONY : lbpfeatures.cpp.i
 
 lbpfeatures.s: lbpfeatures.cpp.s
@@ -341,7 +341,7 @@ lbpfeatures.s: lbpfeatures.cpp.s
 
 # target to generate assembly for a file
 lbpfeatures.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/lbpfeatures.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/lbpfeatures.cpp.s
 .PHONY : lbpfeatures.cpp.s
 
 traincascade.o: traincascade.cpp.o
@@ -349,7 +349,7 @@ traincascade.o: traincascade.cpp.o
 
 # target to build an object file
 traincascade.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/traincascade.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/traincascade.cpp.o
 .PHONY : traincascade.cpp.o
 
 traincascade.i: traincascade.cpp.i
@@ -357,7 +357,7 @@ traincascade.i: traincascade.cpp.i
 
 # target to preprocess a source file
 traincascade.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/traincascade.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/traincascade.cpp.i
 .PHONY : traincascade.cpp.i
 
 traincascade.s: traincascade.cpp.s
@@ -365,7 +365,7 @@ traincascade.s: traincascade.cpp.s
 
 # target to generate assembly for a file
 traincascade.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/traincascade.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f apps/traincascade/CMakeFiles/opencv_traincascade.dir/build.make apps/traincascade/CMakeFiles/opencv_traincascade.dir/traincascade.cpp.s
 .PHONY : traincascade.cpp.s
 
 # Help Target
@@ -418,6 +418,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

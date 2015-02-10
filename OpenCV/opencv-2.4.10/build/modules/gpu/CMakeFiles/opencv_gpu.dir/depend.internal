@@ -31,12 +31,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/arithm.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/arithm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/arithm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/bgfg_gmg.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -68,12 +68,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/bgfg_gmg.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/bgfg_gmg.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/bgfg_gmg.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/bgfg_mog.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -105,12 +105,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/bgfg_mog.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/bgfg_mog.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/bgfg_mog.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/bilateral_filter.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -142,12 +142,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/bilateral_filter.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/bilateral_filter.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/bilateral_filter.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/blend.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -179,12 +179,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/blend.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/blend.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/blend.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/brute_force_matcher.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -216,12 +216,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/brute_force_matcher.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/brute_force_matcher.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/brute_force_matcher.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/calib3d.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -253,12 +253,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/calib3d.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/calib3d.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/calib3d.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/cascadeclassifier.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -290,12 +290,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/cascadeclassifier.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cascadeclassifier.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cascadeclassifier.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/color.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -327,13 +327,13 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/color.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/color.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cvt_color_internal.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/color.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cvt_color_internal.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/cu_safe_call.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -365,13 +365,13 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/cu_safe_call.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/cudastream.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -403,12 +403,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/cudastream.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cudastream.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cudastream.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/cuvid_video_source.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -440,14 +440,14 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/cuvid_video_source.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/denoising.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -479,12 +479,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/denoising.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/denoising.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/denoising.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/element_operations.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -516,12 +516,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/element_operations.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/element_operations.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/element_operations.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/error.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -553,12 +553,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/error.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/error.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/error.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/fast.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -590,12 +590,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/fast.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/fast.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/fast.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/ffmpeg_video_source.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -629,14 +629,14 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/ffmpeg_video_source.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
  /opt/local/include/libavcodec/avcodec.h
  /opt/local/include/libavcodec/old_codec_ids.h
  /opt/local/include/libavcodec/version.h
@@ -696,12 +696,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/fgd_bgfg.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/fgd_bgfg.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/fgd_bgfg.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/filtering.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -733,12 +733,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/filtering.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/filtering.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/filtering.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/frame_queue.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -770,14 +770,14 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/frame_queue.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/generalized_hough.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -809,12 +809,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/generalized_hough.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/generalized_hough.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/generalized_hough.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/gftt.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -846,12 +846,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/gftt.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/gftt.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/gftt.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/global_motion.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -883,12 +883,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/global_motion.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/global_motion.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/global_motion.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/graphcuts.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -920,12 +920,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/graphcuts.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/graphcuts.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/graphcuts.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/hog.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -957,12 +957,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/hog.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/hog.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/hog.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/hough_circles.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -994,12 +994,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/hough_circles.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/hough_circles.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/hough_circles.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/hough_lines.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1031,12 +1031,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/hough_lines.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/hough_lines.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/hough_lines.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/hough_segments.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1068,12 +1068,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/hough_segments.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/hough_segments.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/hough_segments.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/imgproc.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1105,12 +1105,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/imgproc.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/imgproc.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/imgproc.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/match_template.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1142,12 +1142,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/match_template.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/match_template.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/match_template.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/matrix_operations.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1179,12 +1179,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/matrix_operations.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/matrix_operations.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/matrix_operations.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/matrix_reductions.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1216,12 +1216,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/matrix_reductions.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/matrix_reductions.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/matrix_reductions.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/mssegmentation.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1253,12 +1253,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/mssegmentation.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/mssegmentation.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/mssegmentation.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/optflowbm.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1290,12 +1290,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/optflowbm.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/optflowbm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/optflowbm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/optical_flow.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1327,12 +1327,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/optical_flow.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/optical_flow.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/optical_flow.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/optical_flow_farneback.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1364,12 +1364,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/optical_flow_farneback.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/optical_flow_farneback.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/optical_flow_farneback.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/orb.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1401,12 +1401,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/orb.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/orb.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/orb.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/precomp.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1438,12 +1438,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/precomp.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/pyramids.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1475,12 +1475,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/pyramids.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/pyramids.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/pyramids.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/pyrlk.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1512,12 +1512,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/pyrlk.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/pyrlk.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/pyrlk.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/remap.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1549,12 +1549,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/remap.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/remap.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/remap.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/resize.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1586,12 +1586,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/resize.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/resize.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/resize.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/speckle_filtering.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1623,12 +1623,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/speckle_filtering.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/speckle_filtering.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/speckle_filtering.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/split_merge.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1660,12 +1660,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/split_merge.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/split_merge.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/split_merge.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/stereobm.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1697,12 +1697,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/stereobm.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/stereobm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/stereobm.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/stereobp.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1734,12 +1734,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/stereobp.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/stereobp.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/stereobp.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/stereocsbp.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1771,12 +1771,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/stereocsbp.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/stereocsbp.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/stereocsbp.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/thread_wrappers.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1808,13 +1808,13 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/thread_wrappers.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/tvl1flow.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1846,12 +1846,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/tvl1flow.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/tvl1flow.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/tvl1flow.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/video_decoder.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1883,16 +1883,16 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/video_decoder.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/video_parser.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1924,17 +1924,17 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/video_parser.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.h
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/video_reader.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1966,19 +1966,19 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/video_reader.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_reader.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_reader.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/video_writer.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2011,12 +2011,12 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/video_writer.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_writer.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_writer.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_gpu.dir/src/warp.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2048,10 +2048,10 @@ modules/gpu/CMakeFiles/opencv_gpu.dir/src/warp.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/warp.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/warp.cpp
  cvconfig.h

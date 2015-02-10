@@ -42,10 +42,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "/Applications/CMake 2.8-11.app/Contents/bin/ccmake"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10
+CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build
+CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -104,7 +104,7 @@ list_install_components/fast: list_install_components
 # Special rule for the target package
 package: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool..."
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackConfig.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackConfig.cmake
 .PHONY : package
 
 # Special rule for the target package
@@ -114,7 +114,7 @@ package/fast: package
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool for source..."
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackSourceConfig.cmake /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CPackSourceConfig.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackSourceConfig.cmake /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -133,14 +133,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/ml/CMakeFiles/progress.marks
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/ml/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles 0
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/ml/CMakeFiles/progress.marks
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/ml/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/ml/clean
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/ml/clean
 .PHONY : clean
 
 # The main clean target
@@ -149,22 +149,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/ml/preinstall
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/ml/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/ml/preinstall
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/ml/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 modules/ml/CMakeFiles/opencv_ml.dir/rule:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/ml/CMakeFiles/opencv_ml.dir/rule
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/ml/CMakeFiles/opencv_ml.dir/rule
 .PHONY : modules/ml/CMakeFiles/opencv_ml.dir/rule
 
 # Convenience name for target.
@@ -173,12 +173,12 @@ opencv_ml: modules/ml/CMakeFiles/opencv_ml.dir/rule
 
 # fast build rule for target.
 opencv_ml/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/build
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/build
 .PHONY : opencv_ml/fast
 
 # Convenience name for target.
 modules/ml/CMakeFiles/opencv_test_ml.dir/rule:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/ml/CMakeFiles/opencv_test_ml.dir/rule
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 modules/ml/CMakeFiles/opencv_test_ml.dir/rule
 .PHONY : modules/ml/CMakeFiles/opencv_test_ml.dir/rule
 
 # Convenience name for target.
@@ -187,7 +187,7 @@ opencv_test_ml: modules/ml/CMakeFiles/opencv_test_ml.dir/rule
 
 # fast build rule for target.
 opencv_test_ml/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/build
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/build
 .PHONY : opencv_test_ml/fast
 
 src/ann_mlp.o: src/ann_mlp.cpp.o
@@ -195,7 +195,7 @@ src/ann_mlp.o: src/ann_mlp.cpp.o
 
 # target to build an object file
 src/ann_mlp.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ann_mlp.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ann_mlp.cpp.o
 .PHONY : src/ann_mlp.cpp.o
 
 src/ann_mlp.i: src/ann_mlp.cpp.i
@@ -203,7 +203,7 @@ src/ann_mlp.i: src/ann_mlp.cpp.i
 
 # target to preprocess a source file
 src/ann_mlp.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ann_mlp.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ann_mlp.cpp.i
 .PHONY : src/ann_mlp.cpp.i
 
 src/ann_mlp.s: src/ann_mlp.cpp.s
@@ -211,7 +211,7 @@ src/ann_mlp.s: src/ann_mlp.cpp.s
 
 # target to generate assembly for a file
 src/ann_mlp.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ann_mlp.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ann_mlp.cpp.s
 .PHONY : src/ann_mlp.cpp.s
 
 src/boost.o: src/boost.cpp.o
@@ -219,7 +219,7 @@ src/boost.o: src/boost.cpp.o
 
 # target to build an object file
 src/boost.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/boost.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/boost.cpp.o
 .PHONY : src/boost.cpp.o
 
 src/boost.i: src/boost.cpp.i
@@ -227,7 +227,7 @@ src/boost.i: src/boost.cpp.i
 
 # target to preprocess a source file
 src/boost.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/boost.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/boost.cpp.i
 .PHONY : src/boost.cpp.i
 
 src/boost.s: src/boost.cpp.s
@@ -235,7 +235,7 @@ src/boost.s: src/boost.cpp.s
 
 # target to generate assembly for a file
 src/boost.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/boost.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/boost.cpp.s
 .PHONY : src/boost.cpp.s
 
 src/cnn.o: src/cnn.cpp.o
@@ -243,7 +243,7 @@ src/cnn.o: src/cnn.cpp.o
 
 # target to build an object file
 src/cnn.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/cnn.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/cnn.cpp.o
 .PHONY : src/cnn.cpp.o
 
 src/cnn.i: src/cnn.cpp.i
@@ -251,7 +251,7 @@ src/cnn.i: src/cnn.cpp.i
 
 # target to preprocess a source file
 src/cnn.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/cnn.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/cnn.cpp.i
 .PHONY : src/cnn.cpp.i
 
 src/cnn.s: src/cnn.cpp.s
@@ -259,7 +259,7 @@ src/cnn.s: src/cnn.cpp.s
 
 # target to generate assembly for a file
 src/cnn.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/cnn.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/cnn.cpp.s
 .PHONY : src/cnn.cpp.s
 
 src/data.o: src/data.cpp.o
@@ -267,7 +267,7 @@ src/data.o: src/data.cpp.o
 
 # target to build an object file
 src/data.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/data.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/data.cpp.o
 .PHONY : src/data.cpp.o
 
 src/data.i: src/data.cpp.i
@@ -275,7 +275,7 @@ src/data.i: src/data.cpp.i
 
 # target to preprocess a source file
 src/data.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/data.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/data.cpp.i
 .PHONY : src/data.cpp.i
 
 src/data.s: src/data.cpp.s
@@ -283,7 +283,7 @@ src/data.s: src/data.cpp.s
 
 # target to generate assembly for a file
 src/data.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/data.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/data.cpp.s
 .PHONY : src/data.cpp.s
 
 src/em.o: src/em.cpp.o
@@ -291,7 +291,7 @@ src/em.o: src/em.cpp.o
 
 # target to build an object file
 src/em.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/em.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/em.cpp.o
 .PHONY : src/em.cpp.o
 
 src/em.i: src/em.cpp.i
@@ -299,7 +299,7 @@ src/em.i: src/em.cpp.i
 
 # target to preprocess a source file
 src/em.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/em.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/em.cpp.i
 .PHONY : src/em.cpp.i
 
 src/em.s: src/em.cpp.s
@@ -307,7 +307,7 @@ src/em.s: src/em.cpp.s
 
 # target to generate assembly for a file
 src/em.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/em.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/em.cpp.s
 .PHONY : src/em.cpp.s
 
 src/ertrees.o: src/ertrees.cpp.o
@@ -315,7 +315,7 @@ src/ertrees.o: src/ertrees.cpp.o
 
 # target to build an object file
 src/ertrees.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ertrees.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ertrees.cpp.o
 .PHONY : src/ertrees.cpp.o
 
 src/ertrees.i: src/ertrees.cpp.i
@@ -323,7 +323,7 @@ src/ertrees.i: src/ertrees.cpp.i
 
 # target to preprocess a source file
 src/ertrees.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ertrees.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ertrees.cpp.i
 .PHONY : src/ertrees.cpp.i
 
 src/ertrees.s: src/ertrees.cpp.s
@@ -331,7 +331,7 @@ src/ertrees.s: src/ertrees.cpp.s
 
 # target to generate assembly for a file
 src/ertrees.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ertrees.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ertrees.cpp.s
 .PHONY : src/ertrees.cpp.s
 
 src/estimate.o: src/estimate.cpp.o
@@ -339,7 +339,7 @@ src/estimate.o: src/estimate.cpp.o
 
 # target to build an object file
 src/estimate.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/estimate.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/estimate.cpp.o
 .PHONY : src/estimate.cpp.o
 
 src/estimate.i: src/estimate.cpp.i
@@ -347,7 +347,7 @@ src/estimate.i: src/estimate.cpp.i
 
 # target to preprocess a source file
 src/estimate.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/estimate.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/estimate.cpp.i
 .PHONY : src/estimate.cpp.i
 
 src/estimate.s: src/estimate.cpp.s
@@ -355,7 +355,7 @@ src/estimate.s: src/estimate.cpp.s
 
 # target to generate assembly for a file
 src/estimate.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/estimate.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/estimate.cpp.s
 .PHONY : src/estimate.cpp.s
 
 src/gbt.o: src/gbt.cpp.o
@@ -363,7 +363,7 @@ src/gbt.o: src/gbt.cpp.o
 
 # target to build an object file
 src/gbt.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/gbt.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/gbt.cpp.o
 .PHONY : src/gbt.cpp.o
 
 src/gbt.i: src/gbt.cpp.i
@@ -371,7 +371,7 @@ src/gbt.i: src/gbt.cpp.i
 
 # target to preprocess a source file
 src/gbt.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/gbt.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/gbt.cpp.i
 .PHONY : src/gbt.cpp.i
 
 src/gbt.s: src/gbt.cpp.s
@@ -379,7 +379,7 @@ src/gbt.s: src/gbt.cpp.s
 
 # target to generate assembly for a file
 src/gbt.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/gbt.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/gbt.cpp.s
 .PHONY : src/gbt.cpp.s
 
 src/inner_functions.o: src/inner_functions.cpp.o
@@ -387,7 +387,7 @@ src/inner_functions.o: src/inner_functions.cpp.o
 
 # target to build an object file
 src/inner_functions.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/inner_functions.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/inner_functions.cpp.o
 .PHONY : src/inner_functions.cpp.o
 
 src/inner_functions.i: src/inner_functions.cpp.i
@@ -395,7 +395,7 @@ src/inner_functions.i: src/inner_functions.cpp.i
 
 # target to preprocess a source file
 src/inner_functions.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/inner_functions.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/inner_functions.cpp.i
 .PHONY : src/inner_functions.cpp.i
 
 src/inner_functions.s: src/inner_functions.cpp.s
@@ -403,7 +403,7 @@ src/inner_functions.s: src/inner_functions.cpp.s
 
 # target to generate assembly for a file
 src/inner_functions.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/inner_functions.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/inner_functions.cpp.s
 .PHONY : src/inner_functions.cpp.s
 
 src/knearest.o: src/knearest.cpp.o
@@ -411,7 +411,7 @@ src/knearest.o: src/knearest.cpp.o
 
 # target to build an object file
 src/knearest.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/knearest.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/knearest.cpp.o
 .PHONY : src/knearest.cpp.o
 
 src/knearest.i: src/knearest.cpp.i
@@ -419,7 +419,7 @@ src/knearest.i: src/knearest.cpp.i
 
 # target to preprocess a source file
 src/knearest.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/knearest.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/knearest.cpp.i
 .PHONY : src/knearest.cpp.i
 
 src/knearest.s: src/knearest.cpp.s
@@ -427,7 +427,7 @@ src/knearest.s: src/knearest.cpp.s
 
 # target to generate assembly for a file
 src/knearest.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/knearest.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/knearest.cpp.s
 .PHONY : src/knearest.cpp.s
 
 src/ml_init.o: src/ml_init.cpp.o
@@ -435,7 +435,7 @@ src/ml_init.o: src/ml_init.cpp.o
 
 # target to build an object file
 src/ml_init.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ml_init.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ml_init.cpp.o
 .PHONY : src/ml_init.cpp.o
 
 src/ml_init.i: src/ml_init.cpp.i
@@ -443,7 +443,7 @@ src/ml_init.i: src/ml_init.cpp.i
 
 # target to preprocess a source file
 src/ml_init.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ml_init.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ml_init.cpp.i
 .PHONY : src/ml_init.cpp.i
 
 src/ml_init.s: src/ml_init.cpp.s
@@ -451,7 +451,7 @@ src/ml_init.s: src/ml_init.cpp.s
 
 # target to generate assembly for a file
 src/ml_init.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ml_init.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/ml_init.cpp.s
 .PHONY : src/ml_init.cpp.s
 
 src/nbayes.o: src/nbayes.cpp.o
@@ -459,7 +459,7 @@ src/nbayes.o: src/nbayes.cpp.o
 
 # target to build an object file
 src/nbayes.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/nbayes.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/nbayes.cpp.o
 .PHONY : src/nbayes.cpp.o
 
 src/nbayes.i: src/nbayes.cpp.i
@@ -467,7 +467,7 @@ src/nbayes.i: src/nbayes.cpp.i
 
 # target to preprocess a source file
 src/nbayes.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/nbayes.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/nbayes.cpp.i
 .PHONY : src/nbayes.cpp.i
 
 src/nbayes.s: src/nbayes.cpp.s
@@ -475,7 +475,7 @@ src/nbayes.s: src/nbayes.cpp.s
 
 # target to generate assembly for a file
 src/nbayes.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/nbayes.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/nbayes.cpp.s
 .PHONY : src/nbayes.cpp.s
 
 src/rtrees.o: src/rtrees.cpp.o
@@ -483,7 +483,7 @@ src/rtrees.o: src/rtrees.cpp.o
 
 # target to build an object file
 src/rtrees.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/rtrees.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/rtrees.cpp.o
 .PHONY : src/rtrees.cpp.o
 
 src/rtrees.i: src/rtrees.cpp.i
@@ -491,7 +491,7 @@ src/rtrees.i: src/rtrees.cpp.i
 
 # target to preprocess a source file
 src/rtrees.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/rtrees.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/rtrees.cpp.i
 .PHONY : src/rtrees.cpp.i
 
 src/rtrees.s: src/rtrees.cpp.s
@@ -499,7 +499,7 @@ src/rtrees.s: src/rtrees.cpp.s
 
 # target to generate assembly for a file
 src/rtrees.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/rtrees.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/rtrees.cpp.s
 .PHONY : src/rtrees.cpp.s
 
 src/svm.o: src/svm.cpp.o
@@ -507,7 +507,7 @@ src/svm.o: src/svm.cpp.o
 
 # target to build an object file
 src/svm.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/svm.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/svm.cpp.o
 .PHONY : src/svm.cpp.o
 
 src/svm.i: src/svm.cpp.i
@@ -515,7 +515,7 @@ src/svm.i: src/svm.cpp.i
 
 # target to preprocess a source file
 src/svm.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/svm.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/svm.cpp.i
 .PHONY : src/svm.cpp.i
 
 src/svm.s: src/svm.cpp.s
@@ -523,7 +523,7 @@ src/svm.s: src/svm.cpp.s
 
 # target to generate assembly for a file
 src/svm.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/svm.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/svm.cpp.s
 .PHONY : src/svm.cpp.s
 
 src/testset.o: src/testset.cpp.o
@@ -531,7 +531,7 @@ src/testset.o: src/testset.cpp.o
 
 # target to build an object file
 src/testset.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/testset.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/testset.cpp.o
 .PHONY : src/testset.cpp.o
 
 src/testset.i: src/testset.cpp.i
@@ -539,7 +539,7 @@ src/testset.i: src/testset.cpp.i
 
 # target to preprocess a source file
 src/testset.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/testset.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/testset.cpp.i
 .PHONY : src/testset.cpp.i
 
 src/testset.s: src/testset.cpp.s
@@ -547,7 +547,7 @@ src/testset.s: src/testset.cpp.s
 
 # target to generate assembly for a file
 src/testset.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/testset.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/testset.cpp.s
 .PHONY : src/testset.cpp.s
 
 src/tree.o: src/tree.cpp.o
@@ -555,7 +555,7 @@ src/tree.o: src/tree.cpp.o
 
 # target to build an object file
 src/tree.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/tree.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/tree.cpp.o
 .PHONY : src/tree.cpp.o
 
 src/tree.i: src/tree.cpp.i
@@ -563,7 +563,7 @@ src/tree.i: src/tree.cpp.i
 
 # target to preprocess a source file
 src/tree.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/tree.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/tree.cpp.i
 .PHONY : src/tree.cpp.i
 
 src/tree.s: src/tree.cpp.s
@@ -571,7 +571,7 @@ src/tree.s: src/tree.cpp.s
 
 # target to generate assembly for a file
 src/tree.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/tree.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_ml.dir/build.make modules/ml/CMakeFiles/opencv_ml.dir/src/tree.cpp.s
 .PHONY : src/tree.cpp.s
 
 test/test_emknearestkmeans.o: test/test_emknearestkmeans.cpp.o
@@ -579,7 +579,7 @@ test/test_emknearestkmeans.o: test/test_emknearestkmeans.cpp.o
 
 # target to build an object file
 test/test_emknearestkmeans.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_emknearestkmeans.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_emknearestkmeans.cpp.o
 .PHONY : test/test_emknearestkmeans.cpp.o
 
 test/test_emknearestkmeans.i: test/test_emknearestkmeans.cpp.i
@@ -587,7 +587,7 @@ test/test_emknearestkmeans.i: test/test_emknearestkmeans.cpp.i
 
 # target to preprocess a source file
 test/test_emknearestkmeans.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_emknearestkmeans.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_emknearestkmeans.cpp.i
 .PHONY : test/test_emknearestkmeans.cpp.i
 
 test/test_emknearestkmeans.s: test/test_emknearestkmeans.cpp.s
@@ -595,7 +595,7 @@ test/test_emknearestkmeans.s: test/test_emknearestkmeans.cpp.s
 
 # target to generate assembly for a file
 test/test_emknearestkmeans.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_emknearestkmeans.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_emknearestkmeans.cpp.s
 .PHONY : test/test_emknearestkmeans.cpp.s
 
 test/test_gbttest.o: test/test_gbttest.cpp.o
@@ -603,7 +603,7 @@ test/test_gbttest.o: test/test_gbttest.cpp.o
 
 # target to build an object file
 test/test_gbttest.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_gbttest.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_gbttest.cpp.o
 .PHONY : test/test_gbttest.cpp.o
 
 test/test_gbttest.i: test/test_gbttest.cpp.i
@@ -611,7 +611,7 @@ test/test_gbttest.i: test/test_gbttest.cpp.i
 
 # target to preprocess a source file
 test/test_gbttest.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_gbttest.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_gbttest.cpp.i
 .PHONY : test/test_gbttest.cpp.i
 
 test/test_gbttest.s: test/test_gbttest.cpp.s
@@ -619,7 +619,7 @@ test/test_gbttest.s: test/test_gbttest.cpp.s
 
 # target to generate assembly for a file
 test/test_gbttest.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_gbttest.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_gbttest.cpp.s
 .PHONY : test/test_gbttest.cpp.s
 
 test/test_main.o: test/test_main.cpp.o
@@ -627,7 +627,7 @@ test/test_main.o: test/test_main.cpp.o
 
 # target to build an object file
 test/test_main.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_main.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_main.cpp.o
 .PHONY : test/test_main.cpp.o
 
 test/test_main.i: test/test_main.cpp.i
@@ -635,7 +635,7 @@ test/test_main.i: test/test_main.cpp.i
 
 # target to preprocess a source file
 test/test_main.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_main.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_main.cpp.i
 .PHONY : test/test_main.cpp.i
 
 test/test_main.s: test/test_main.cpp.s
@@ -643,7 +643,7 @@ test/test_main.s: test/test_main.cpp.s
 
 # target to generate assembly for a file
 test/test_main.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_main.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_main.cpp.s
 .PHONY : test/test_main.cpp.s
 
 test/test_mltests.o: test/test_mltests.cpp.o
@@ -651,7 +651,7 @@ test/test_mltests.o: test/test_mltests.cpp.o
 
 # target to build an object file
 test/test_mltests.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_mltests.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_mltests.cpp.o
 .PHONY : test/test_mltests.cpp.o
 
 test/test_mltests.i: test/test_mltests.cpp.i
@@ -659,7 +659,7 @@ test/test_mltests.i: test/test_mltests.cpp.i
 
 # target to preprocess a source file
 test/test_mltests.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_mltests.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_mltests.cpp.i
 .PHONY : test/test_mltests.cpp.i
 
 test/test_mltests.s: test/test_mltests.cpp.s
@@ -667,7 +667,7 @@ test/test_mltests.s: test/test_mltests.cpp.s
 
 # target to generate assembly for a file
 test/test_mltests.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_mltests.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_mltests.cpp.s
 .PHONY : test/test_mltests.cpp.s
 
 test/test_mltests2.o: test/test_mltests2.cpp.o
@@ -675,7 +675,7 @@ test/test_mltests2.o: test/test_mltests2.cpp.o
 
 # target to build an object file
 test/test_mltests2.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_mltests2.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_mltests2.cpp.o
 .PHONY : test/test_mltests2.cpp.o
 
 test/test_mltests2.i: test/test_mltests2.cpp.i
@@ -683,7 +683,7 @@ test/test_mltests2.i: test/test_mltests2.cpp.i
 
 # target to preprocess a source file
 test/test_mltests2.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_mltests2.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_mltests2.cpp.i
 .PHONY : test/test_mltests2.cpp.i
 
 test/test_mltests2.s: test/test_mltests2.cpp.s
@@ -691,7 +691,7 @@ test/test_mltests2.s: test/test_mltests2.cpp.s
 
 # target to generate assembly for a file
 test/test_mltests2.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_mltests2.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_mltests2.cpp.s
 .PHONY : test/test_mltests2.cpp.s
 
 test/test_save_load.o: test/test_save_load.cpp.o
@@ -699,7 +699,7 @@ test/test_save_load.o: test/test_save_load.cpp.o
 
 # target to build an object file
 test/test_save_load.cpp.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_save_load.cpp.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_save_load.cpp.o
 .PHONY : test/test_save_load.cpp.o
 
 test/test_save_load.i: test/test_save_load.cpp.i
@@ -707,7 +707,7 @@ test/test_save_load.i: test/test_save_load.cpp.i
 
 # target to preprocess a source file
 test/test_save_load.cpp.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_save_load.cpp.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_save_load.cpp.i
 .PHONY : test/test_save_load.cpp.i
 
 test/test_save_load.s: test/test_save_load.cpp.s
@@ -715,7 +715,7 @@ test/test_save_load.s: test/test_save_load.cpp.s
 
 # target to generate assembly for a file
 test/test_save_load.cpp.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_save_load.cpp.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f modules/ml/CMakeFiles/opencv_test_ml.dir/build.make modules/ml/CMakeFiles/opencv_test_ml.dir/test/test_save_load.cpp.s
 .PHONY : test/test_save_load.cpp.s
 
 # Help Target
@@ -811,6 +811,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

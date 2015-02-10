@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C7638E291A889F9800F79D43"
-               BuildableName = "OpenCV Tutorial"
-               BlueprintName = "OpenCV Tutorial"
-               ReferencedContainer = "container:OpenCV Tutorial.xcodeproj">
+               BlueprintIdentifier = "C7203AB11A8992070000C35A"
+               BuildableName = "OpenCVTutorial2"
+               BlueprintName = "OpenCVTutorial2"
+               ReferencedContainer = "container:OpenCVTutorial2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C7638E291A889F9800F79D43"
-            BuildableName = "OpenCV Tutorial"
-            BlueprintName = "OpenCV Tutorial"
-            ReferencedContainer = "container:OpenCV Tutorial.xcodeproj">
+            BlueprintIdentifier = "C7203AB11A8992070000C35A"
+            BuildableName = "OpenCVTutorial2"
+            BlueprintName = "OpenCVTutorial2"
+            ReferencedContainer = "container:OpenCVTutorial2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,18 +51,12 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C7638E291A889F9800F79D43"
-            BuildableName = "OpenCV Tutorial"
-            BlueprintName = "OpenCV Tutorial"
-            ReferencedContainer = "container:OpenCV Tutorial.xcodeproj">
+            BlueprintIdentifier = "C7203AB11A8992070000C35A"
+            BuildableName = "OpenCVTutorial2"
+            BlueprintName = "OpenCVTutorial2"
+            ReferencedContainer = "container:OpenCVTutorial2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <CommandLineArguments>
-         <CommandLineArgument
-            argument = "test.JPG"
-            isEnabled = "YES">
-         </CommandLineArgument>
-      </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -75,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C7638E291A889F9800F79D43"
-            BuildableName = "OpenCV Tutorial"
-            BlueprintName = "OpenCV Tutorial"
-            ReferencedContainer = "container:OpenCV Tutorial.xcodeproj">
+            BlueprintIdentifier = "C7203AB11A8992070000C35A"
+            BuildableName = "OpenCVTutorial2"
+            BlueprintName = "OpenCVTutorial2"
+            ReferencedContainer = "container:OpenCVTutorial2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>OpenCV Tutorial.xcscheme</key>
+		<key>OpenCVTutorial2.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>C7638E291A889F9800F79D43</key>
+		<key>C7203AB11A8992070000C35A</key>
 		<dict>
 			<key>primary</key>
 			<true/>

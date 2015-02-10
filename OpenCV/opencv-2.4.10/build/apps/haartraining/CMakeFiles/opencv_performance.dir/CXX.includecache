@@ -674,15 +674,15 @@ opencv2/core/core.hpp
 opencv2/imgproc/imgproc.hpp
 ../modules/video/include/opencv2/video/opencv2/imgproc/imgproc.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/performance.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/performance.cpp
 opencv2/core/core.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/opencv2/core/core.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/opencv2/core/core.hpp
 opencv2/core/internal.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/opencv2/core/internal.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/opencv2/core/internal.hpp
 cv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cv.h
 highgui.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/highgui.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/highgui.h
 cstdio
 -
 cmath

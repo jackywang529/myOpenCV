@@ -34,8 +34,8 @@ modules/stitching/CMakeFiles/opencv_test_stitching.dir/test/test_blenders.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/test/test_blenders.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/test/test_blenders.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/test/test_precomp.hpp
  opencv2/opencv_modules.hpp
 modules/stitching/CMakeFiles/opencv_test_stitching.dir/test/test_main.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -70,8 +70,8 @@ modules/stitching/CMakeFiles/opencv_test_stitching.dir/test/test_main.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/test/test_main.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/test/test_main.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/test/test_precomp.hpp
  opencv2/opencv_modules.hpp
 modules/stitching/CMakeFiles/opencv_test_stitching.dir/test/test_matchers.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -106,6 +106,6 @@ modules/stitching/CMakeFiles/opencv_test_stitching.dir/test/test_matchers.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/test/test_matchers.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/test/test_matchers.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/test/test_precomp.hpp
  opencv2/opencv_modules.hpp

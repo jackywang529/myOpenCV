@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>B8F1B9A9-DCB4-40EB-8BE4-BA782A388B7B</string>
+	<string>7F818E5E-12BB-45D7-857B-AA8895A5639F</string>
 	<key>IDESourceControlProjectName</key>
-	<string>OpenCV Tutorial</string>
+	<string>OpenCVTutorial2</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>C55CACB1455628CEE939F95BDC9D38A5DBA4EE3A</key>
 		<string>https://github.com/jackywang529/myOpenCV.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>OpenCV/OpenCV Tutorial/OpenCV Tutorial.xcodeproj</string>
+	<string>OpenCV/OpenCVTutorial2/OpenCVTutorial2.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>C55CACB1455628CEE939F95BDC9D38A5DBA4EE3A</key>

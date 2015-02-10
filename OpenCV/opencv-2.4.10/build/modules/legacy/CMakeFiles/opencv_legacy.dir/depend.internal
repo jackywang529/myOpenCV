@@ -25,9 +25,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/3dtracker.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/3dtracker.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/3dtracker.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/auxutils.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -53,9 +53,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/auxutils.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/auxutils.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/auxutils.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_acmmm2003.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -81,9 +81,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_acmmm2003.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/bgfg_acmmm2003.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/bgfg_acmmm2003.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_codebook.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -109,9 +109,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_codebook.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/bgfg_codebook.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/bgfg_codebook.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_common.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -137,9 +137,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_common.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/bgfg_common.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/bgfg_common.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_estimation.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -165,9 +165,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_estimation.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/bgfg_estimation.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/bgfg_estimation.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_gaussmix.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -193,9 +193,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_gaussmix.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/bgfg_gaussmix.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/bgfg_gaussmix.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrack.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -221,9 +221,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrack.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrack.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrack.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackanalysis.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -249,9 +249,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackanalysis.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackanalysis.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackanalysis.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackanalysishist.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -277,9 +277,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackanalysishist.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackanalysishist.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackanalysishist.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackanalysisior.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -305,9 +305,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackanalysisior.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackanalysisior.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackanalysisior.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackanalysistrackdist.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -333,9 +333,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackanalysistrackdist.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackanalysistrackdist.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackanalysistrackdist.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackgen1.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -361,9 +361,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackgen1.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackgen1.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackgen1.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackgenyml.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -389,9 +389,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackgenyml.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackgenyml.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackgenyml.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingauto.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -417,9 +417,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingauto.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackingauto.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackingauto.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingcc.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -445,9 +445,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingcc.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackingcc.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackingcc.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingccwithcr.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -473,9 +473,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingccwithcr.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackingccwithcr.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackingccwithcr.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackinglist.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -501,9 +501,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackinglist.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackinglist.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackinglist.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingmsfg.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -529,9 +529,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingmsfg.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackingmsfg.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackingmsfg.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingmsfgs.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -557,9 +557,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingmsfgs.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackingmsfgs.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackingmsfgs.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackpostprockalman.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -585,9 +585,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackpostprockalman.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackpostprockalman.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackpostprockalman.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackpostproclinear.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -613,9 +613,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackpostproclinear.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackpostproclinear.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackpostproclinear.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackpostproclist.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -641,9 +641,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackpostproclist.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackpostproclist.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/blobtrackpostproclist.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/calcimagehomography.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -669,9 +669,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/calcimagehomography.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/calcimagehomography.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/calcimagehomography.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/calibfilter.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -697,9 +697,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/calibfilter.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/calibfilter.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/calibfilter.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/calonder.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -725,9 +725,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/calonder.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/calonder.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/calonder.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/camshift.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -753,9 +753,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/camshift.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/camshift.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/camshift.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/clique.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -781,9 +781,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/clique.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/clique.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/clique.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/compat.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -809,9 +809,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/compat.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/compat.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/compat.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/condens.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -837,9 +837,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/condens.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/condens.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/condens.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/contourtree.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -865,9 +865,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/contourtree.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/contourtree.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/contourtree.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/correspond.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -893,10 +893,10 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/correspond.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_vm.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/correspond.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_vm.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/correspond.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/corrimages.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -922,9 +922,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/corrimages.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/corrimages.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/corrimages.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/createhandmask.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -950,9 +950,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/createhandmask.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/createhandmask.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/createhandmask.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/decomppoly.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -978,9 +978,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/decomppoly.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/decomppoly.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/decomppoly.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/dominants.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1006,9 +1006,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/dominants.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/dominants.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/dominants.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/dpstereo.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1034,9 +1034,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/dpstereo.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/dpstereo.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/dpstereo.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/eigenobjects.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1062,9 +1062,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/eigenobjects.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/eigenobjects.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/eigenobjects.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/em.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1090,9 +1090,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/em.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/em.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/em.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/enmin.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1118,9 +1118,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/enmin.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/enmin.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/enmin.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/enteringblobdetection.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1146,9 +1146,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/enteringblobdetection.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/enteringblobdetection.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/enteringblobdetection.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/enteringblobdetectionreal.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1174,9 +1174,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/enteringblobdetectionreal.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/enteringblobdetectionreal.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/enteringblobdetectionreal.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/epilines.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1202,9 +1202,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/epilines.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/epilines.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/epilines.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/extendededges.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1230,9 +1230,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/extendededges.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/extendededges.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/extendededges.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/face.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1258,10 +1258,10 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/face.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_facedetection.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/face.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_facedetection.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/face.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/facedetection.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1287,10 +1287,10 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/facedetection.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_facedetection.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/facedetection.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_facedetection.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/facedetection.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/facetemplate.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1316,10 +1316,10 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/facetemplate.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_facedetection.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/facetemplate.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_facedetection.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/facetemplate.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/features2d.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1345,9 +1345,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/features2d.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/features2d.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/features2d.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/featuretree.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1373,10 +1373,10 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/featuretree.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_featuretree.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/featuretree.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_featuretree.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/featuretree.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/findface.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1402,10 +1402,10 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/findface.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_facedetection.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/findface.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_facedetection.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/findface.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/findhandregion.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1431,9 +1431,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/findhandregion.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/findhandregion.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/findhandregion.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/hmm.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1459,9 +1459,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/hmm.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/hmm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/hmm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/hmm1d.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1487,9 +1487,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/hmm1d.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/hmm1d.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/hmm1d.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/hmmobs.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1515,9 +1515,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/hmmobs.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/hmmobs.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/hmmobs.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/image.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1544,9 +1544,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/image.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/image.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/image.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/kdtree.cpp.o
@@ -1573,11 +1573,11 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/kdtree.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_featuretree.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_kdtree.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/kdtree.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_featuretree.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_kdtree.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/kdtree.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/lcm.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1603,9 +1603,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/lcm.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/lcm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/lcm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/lee.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1631,9 +1631,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/lee.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/lee.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/lee.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/levmar.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1659,9 +1659,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/levmar.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/levmar.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/levmar.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/levmarprojbandle.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1687,9 +1687,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/levmarprojbandle.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/levmarprojbandle.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/levmarprojbandle.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/levmartrif.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1715,9 +1715,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/levmartrif.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/levmartrif.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/levmartrif.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/lines.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1743,9 +1743,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/lines.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/lines.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/lines.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/lmeds.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1771,10 +1771,10 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/lmeds.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_vm.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/lmeds.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_vm.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/lmeds.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/lsh.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1800,9 +1800,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/lsh.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/lsh.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/lsh.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/morphcontours.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1828,9 +1828,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/morphcontours.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/morphcontours.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/morphcontours.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/morphing.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1856,9 +1856,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/morphing.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/morphing.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/morphing.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/oneway.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1886,9 +1886,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/oneway.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/oneway.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/oneway.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/optflowbm.cpp.o
@@ -1915,9 +1915,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/optflowbm.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/optflowbm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/optflowbm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/optflowhs.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1943,9 +1943,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/optflowhs.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/optflowhs.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/optflowhs.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/optflowlk.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1971,9 +1971,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/optflowlk.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/optflowlk.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/optflowlk.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/pgh.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -1999,9 +1999,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/pgh.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/pgh.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/pgh.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/planardetect.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2027,9 +2027,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/planardetect.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/planardetect.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/planardetect.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/prewarp.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2055,10 +2055,10 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/prewarp.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_vm.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/prewarp.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_vm.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/prewarp.cpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/pyrsegmentation.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2084,9 +2084,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/pyrsegmentation.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/pyrsegmentation.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/pyrsegmentation.cpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/scanlines.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2112,10 +2112,10 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/scanlines.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_vm.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/scanlines.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_vm.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/scanlines.cpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/segment.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2141,9 +2141,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/segment.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/segment.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/segment.cpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/snakes.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2169,9 +2169,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/snakes.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/snakes.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/snakes.cpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/spilltree.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2197,10 +2197,10 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/spilltree.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_featuretree.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/spilltree.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_featuretree.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/spilltree.cpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/stereogc.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2226,9 +2226,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/stereogc.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/stereogc.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/stereogc.cpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/subdiv2.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2254,9 +2254,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/subdiv2.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/subdiv2.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/subdiv2.cpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/testseq.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2282,9 +2282,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/testseq.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/testseq.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/testseq.cpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/texture.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2310,9 +2310,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/texture.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/texture.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/texture.cpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/trifocal.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2338,9 +2338,9 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/trifocal.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/trifocal.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/trifocal.cpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/vecfacetracking.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2366,10 +2366,10 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/vecfacetracking.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_vectrack.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/vecfacetracking.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_vectrack.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/vecfacetracking.cpp
  cvconfig.h
 modules/legacy/CMakeFiles/opencv_legacy.dir/src/video.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -2395,7 +2395,7 @@ modules/legacy/CMakeFiles/opencv_legacy.dir/src/video.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/legacy/src/video.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/_matrix.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/legacy/src/video.cpp
  cvconfig.h

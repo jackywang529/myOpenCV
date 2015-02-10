@@ -34,10 +34,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/main.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_bgfg.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -72,10 +72,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_bgfg.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_bgfg.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_bgfg.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_calib3d.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -110,10 +110,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_calib3d.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_calib3d.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_calib3d.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_color.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -148,10 +148,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_color.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_color.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_color.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_copy_make_border.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -186,10 +186,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_copy_make_border.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_copy_make_border.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_copy_make_border.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_core.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -224,10 +224,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_core.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_core.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_core.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_denoising.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -262,10 +262,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_denoising.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_denoising.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_denoising.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_features2d.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -300,10 +300,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_features2d.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_features2d.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_features2d.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_filters.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -338,10 +338,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_filters.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_filters.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_filters.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_global_motion.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -376,10 +376,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_global_motion.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_global_motion.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_global_motion.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_gpumat.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -414,10 +414,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_gpumat.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_gpumat.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_gpumat.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_hough.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -452,10 +452,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_hough.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_hough.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_hough.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_imgproc.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -490,10 +490,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_imgproc.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_imgproc.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_imgproc.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_labeling.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -528,10 +528,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_labeling.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_labeling.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_labeling.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_nvidia.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -566,10 +566,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_nvidia.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_nvidia.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_nvidia.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_objdetect.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -604,10 +604,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_objdetect.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_objdetect.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_objdetect.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_opengl.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -642,10 +642,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_opengl.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_opengl.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_opengl.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_optflow.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -680,10 +680,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_optflow.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_optflow.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_optflow.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_pyramids.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -718,10 +718,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_pyramids.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_pyramids.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_pyramids.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_remap.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -756,10 +756,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_remap.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_remap.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_remap.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_resize.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -794,10 +794,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_resize.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_resize.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_resize.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_stream.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -832,10 +832,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_stream.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_stream.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_stream.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_threshold.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -870,10 +870,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_threshold.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_threshold.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_threshold.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_video.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -908,10 +908,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_video.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_video.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_video.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_warp_affine.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -946,10 +946,10 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_warp_affine.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_warp_affine.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_warp_affine.cpp
  cvconfig.h
 modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_warp_perspective.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -984,8 +984,8 @@ modules/gpu/CMakeFiles/opencv_test_gpu.dir/test/test_warp_perspective.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/test/test_warp_perspective.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/interpolation.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/main_test_nvidia.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/test/test_warp_perspective.cpp
  cvconfig.h

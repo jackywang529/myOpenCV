@@ -42,10 +42,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "/Applications/CMake 2.8-11.app/Contents/bin/ccmake"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10
+CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build
+CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -104,7 +104,7 @@ list_install_components/fast: list_install_components
 # Special rule for the target package
 package: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool..."
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackConfig.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackConfig.cmake
 .PHONY : package
 
 # Special rule for the target package
@@ -114,7 +114,7 @@ package/fast: package
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool for source..."
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackSourceConfig.cmake /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CPackSourceConfig.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackSourceConfig.cmake /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -133,14 +133,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libjasper/CMakeFiles/progress.marks
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libjasper/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles 0
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libjasper/CMakeFiles/progress.marks
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libjasper/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libjasper/clean
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libjasper/clean
 .PHONY : clean
 
 # The main clean target
@@ -149,22 +149,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libjasper/preinstall
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libjasper/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libjasper/preinstall
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libjasper/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 3rdparty/libjasper/CMakeFiles/libjasper.dir/rule:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libjasper/CMakeFiles/libjasper.dir/rule
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libjasper/CMakeFiles/libjasper.dir/rule
 .PHONY : 3rdparty/libjasper/CMakeFiles/libjasper.dir/rule
 
 # Convenience name for target.
@@ -173,7 +173,7 @@ libjasper: 3rdparty/libjasper/CMakeFiles/libjasper.dir/rule
 
 # fast build rule for target.
 libjasper/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/build
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/build
 .PHONY : libjasper/fast
 
 jas_cm.o: jas_cm.c.o
@@ -181,7 +181,7 @@ jas_cm.o: jas_cm.c.o
 
 # target to build an object file
 jas_cm.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_cm.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_cm.c.o
 .PHONY : jas_cm.c.o
 
 jas_cm.i: jas_cm.c.i
@@ -189,7 +189,7 @@ jas_cm.i: jas_cm.c.i
 
 # target to preprocess a source file
 jas_cm.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_cm.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_cm.c.i
 .PHONY : jas_cm.c.i
 
 jas_cm.s: jas_cm.c.s
@@ -197,7 +197,7 @@ jas_cm.s: jas_cm.c.s
 
 # target to generate assembly for a file
 jas_cm.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_cm.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_cm.c.s
 .PHONY : jas_cm.c.s
 
 jas_debug.o: jas_debug.c.o
@@ -205,7 +205,7 @@ jas_debug.o: jas_debug.c.o
 
 # target to build an object file
 jas_debug.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_debug.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_debug.c.o
 .PHONY : jas_debug.c.o
 
 jas_debug.i: jas_debug.c.i
@@ -213,7 +213,7 @@ jas_debug.i: jas_debug.c.i
 
 # target to preprocess a source file
 jas_debug.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_debug.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_debug.c.i
 .PHONY : jas_debug.c.i
 
 jas_debug.s: jas_debug.c.s
@@ -221,7 +221,7 @@ jas_debug.s: jas_debug.c.s
 
 # target to generate assembly for a file
 jas_debug.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_debug.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_debug.c.s
 .PHONY : jas_debug.c.s
 
 jas_getopt.o: jas_getopt.c.o
@@ -229,7 +229,7 @@ jas_getopt.o: jas_getopt.c.o
 
 # target to build an object file
 jas_getopt.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_getopt.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_getopt.c.o
 .PHONY : jas_getopt.c.o
 
 jas_getopt.i: jas_getopt.c.i
@@ -237,7 +237,7 @@ jas_getopt.i: jas_getopt.c.i
 
 # target to preprocess a source file
 jas_getopt.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_getopt.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_getopt.c.i
 .PHONY : jas_getopt.c.i
 
 jas_getopt.s: jas_getopt.c.s
@@ -245,7 +245,7 @@ jas_getopt.s: jas_getopt.c.s
 
 # target to generate assembly for a file
 jas_getopt.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_getopt.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_getopt.c.s
 .PHONY : jas_getopt.c.s
 
 jas_icc.o: jas_icc.c.o
@@ -253,7 +253,7 @@ jas_icc.o: jas_icc.c.o
 
 # target to build an object file
 jas_icc.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_icc.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_icc.c.o
 .PHONY : jas_icc.c.o
 
 jas_icc.i: jas_icc.c.i
@@ -261,7 +261,7 @@ jas_icc.i: jas_icc.c.i
 
 # target to preprocess a source file
 jas_icc.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_icc.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_icc.c.i
 .PHONY : jas_icc.c.i
 
 jas_icc.s: jas_icc.c.s
@@ -269,7 +269,7 @@ jas_icc.s: jas_icc.c.s
 
 # target to generate assembly for a file
 jas_icc.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_icc.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_icc.c.s
 .PHONY : jas_icc.c.s
 
 jas_iccdata.o: jas_iccdata.c.o
@@ -277,7 +277,7 @@ jas_iccdata.o: jas_iccdata.c.o
 
 # target to build an object file
 jas_iccdata.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_iccdata.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_iccdata.c.o
 .PHONY : jas_iccdata.c.o
 
 jas_iccdata.i: jas_iccdata.c.i
@@ -285,7 +285,7 @@ jas_iccdata.i: jas_iccdata.c.i
 
 # target to preprocess a source file
 jas_iccdata.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_iccdata.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_iccdata.c.i
 .PHONY : jas_iccdata.c.i
 
 jas_iccdata.s: jas_iccdata.c.s
@@ -293,7 +293,7 @@ jas_iccdata.s: jas_iccdata.c.s
 
 # target to generate assembly for a file
 jas_iccdata.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_iccdata.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_iccdata.c.s
 .PHONY : jas_iccdata.c.s
 
 jas_image.o: jas_image.c.o
@@ -301,7 +301,7 @@ jas_image.o: jas_image.c.o
 
 # target to build an object file
 jas_image.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_image.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_image.c.o
 .PHONY : jas_image.c.o
 
 jas_image.i: jas_image.c.i
@@ -309,7 +309,7 @@ jas_image.i: jas_image.c.i
 
 # target to preprocess a source file
 jas_image.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_image.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_image.c.i
 .PHONY : jas_image.c.i
 
 jas_image.s: jas_image.c.s
@@ -317,7 +317,7 @@ jas_image.s: jas_image.c.s
 
 # target to generate assembly for a file
 jas_image.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_image.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_image.c.s
 .PHONY : jas_image.c.s
 
 jas_init.o: jas_init.c.o
@@ -325,7 +325,7 @@ jas_init.o: jas_init.c.o
 
 # target to build an object file
 jas_init.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_init.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_init.c.o
 .PHONY : jas_init.c.o
 
 jas_init.i: jas_init.c.i
@@ -333,7 +333,7 @@ jas_init.i: jas_init.c.i
 
 # target to preprocess a source file
 jas_init.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_init.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_init.c.i
 .PHONY : jas_init.c.i
 
 jas_init.s: jas_init.c.s
@@ -341,7 +341,7 @@ jas_init.s: jas_init.c.s
 
 # target to generate assembly for a file
 jas_init.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_init.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_init.c.s
 .PHONY : jas_init.c.s
 
 jas_malloc.o: jas_malloc.c.o
@@ -349,7 +349,7 @@ jas_malloc.o: jas_malloc.c.o
 
 # target to build an object file
 jas_malloc.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_malloc.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_malloc.c.o
 .PHONY : jas_malloc.c.o
 
 jas_malloc.i: jas_malloc.c.i
@@ -357,7 +357,7 @@ jas_malloc.i: jas_malloc.c.i
 
 # target to preprocess a source file
 jas_malloc.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_malloc.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_malloc.c.i
 .PHONY : jas_malloc.c.i
 
 jas_malloc.s: jas_malloc.c.s
@@ -365,7 +365,7 @@ jas_malloc.s: jas_malloc.c.s
 
 # target to generate assembly for a file
 jas_malloc.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_malloc.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_malloc.c.s
 .PHONY : jas_malloc.c.s
 
 jas_seq.o: jas_seq.c.o
@@ -373,7 +373,7 @@ jas_seq.o: jas_seq.c.o
 
 # target to build an object file
 jas_seq.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_seq.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_seq.c.o
 .PHONY : jas_seq.c.o
 
 jas_seq.i: jas_seq.c.i
@@ -381,7 +381,7 @@ jas_seq.i: jas_seq.c.i
 
 # target to preprocess a source file
 jas_seq.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_seq.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_seq.c.i
 .PHONY : jas_seq.c.i
 
 jas_seq.s: jas_seq.c.s
@@ -389,7 +389,7 @@ jas_seq.s: jas_seq.c.s
 
 # target to generate assembly for a file
 jas_seq.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_seq.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_seq.c.s
 .PHONY : jas_seq.c.s
 
 jas_stream.o: jas_stream.c.o
@@ -397,7 +397,7 @@ jas_stream.o: jas_stream.c.o
 
 # target to build an object file
 jas_stream.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_stream.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_stream.c.o
 .PHONY : jas_stream.c.o
 
 jas_stream.i: jas_stream.c.i
@@ -405,7 +405,7 @@ jas_stream.i: jas_stream.c.i
 
 # target to preprocess a source file
 jas_stream.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_stream.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_stream.c.i
 .PHONY : jas_stream.c.i
 
 jas_stream.s: jas_stream.c.s
@@ -413,7 +413,7 @@ jas_stream.s: jas_stream.c.s
 
 # target to generate assembly for a file
 jas_stream.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_stream.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_stream.c.s
 .PHONY : jas_stream.c.s
 
 jas_string.o: jas_string.c.o
@@ -421,7 +421,7 @@ jas_string.o: jas_string.c.o
 
 # target to build an object file
 jas_string.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_string.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_string.c.o
 .PHONY : jas_string.c.o
 
 jas_string.i: jas_string.c.i
@@ -429,7 +429,7 @@ jas_string.i: jas_string.c.i
 
 # target to preprocess a source file
 jas_string.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_string.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_string.c.i
 .PHONY : jas_string.c.i
 
 jas_string.s: jas_string.c.s
@@ -437,7 +437,7 @@ jas_string.s: jas_string.c.s
 
 # target to generate assembly for a file
 jas_string.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_string.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_string.c.s
 .PHONY : jas_string.c.s
 
 jas_tmr.o: jas_tmr.c.o
@@ -445,7 +445,7 @@ jas_tmr.o: jas_tmr.c.o
 
 # target to build an object file
 jas_tmr.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tmr.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tmr.c.o
 .PHONY : jas_tmr.c.o
 
 jas_tmr.i: jas_tmr.c.i
@@ -453,7 +453,7 @@ jas_tmr.i: jas_tmr.c.i
 
 # target to preprocess a source file
 jas_tmr.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tmr.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tmr.c.i
 .PHONY : jas_tmr.c.i
 
 jas_tmr.s: jas_tmr.c.s
@@ -461,7 +461,7 @@ jas_tmr.s: jas_tmr.c.s
 
 # target to generate assembly for a file
 jas_tmr.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tmr.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tmr.c.s
 .PHONY : jas_tmr.c.s
 
 jas_tvp.o: jas_tvp.c.o
@@ -469,7 +469,7 @@ jas_tvp.o: jas_tvp.c.o
 
 # target to build an object file
 jas_tvp.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tvp.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tvp.c.o
 .PHONY : jas_tvp.c.o
 
 jas_tvp.i: jas_tvp.c.i
@@ -477,7 +477,7 @@ jas_tvp.i: jas_tvp.c.i
 
 # target to preprocess a source file
 jas_tvp.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tvp.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tvp.c.i
 .PHONY : jas_tvp.c.i
 
 jas_tvp.s: jas_tvp.c.s
@@ -485,7 +485,7 @@ jas_tvp.s: jas_tvp.c.s
 
 # target to generate assembly for a file
 jas_tvp.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tvp.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tvp.c.s
 .PHONY : jas_tvp.c.s
 
 jas_version.o: jas_version.c.o
@@ -493,7 +493,7 @@ jas_version.o: jas_version.c.o
 
 # target to build an object file
 jas_version.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_version.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_version.c.o
 .PHONY : jas_version.c.o
 
 jas_version.i: jas_version.c.i
@@ -501,7 +501,7 @@ jas_version.i: jas_version.c.i
 
 # target to preprocess a source file
 jas_version.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_version.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_version.c.i
 .PHONY : jas_version.c.i
 
 jas_version.s: jas_version.c.s
@@ -509,7 +509,7 @@ jas_version.s: jas_version.c.s
 
 # target to generate assembly for a file
 jas_version.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_version.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_version.c.s
 .PHONY : jas_version.c.s
 
 jp2_cod.o: jp2_cod.c.o
@@ -517,7 +517,7 @@ jp2_cod.o: jp2_cod.c.o
 
 # target to build an object file
 jp2_cod.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_cod.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_cod.c.o
 .PHONY : jp2_cod.c.o
 
 jp2_cod.i: jp2_cod.c.i
@@ -525,7 +525,7 @@ jp2_cod.i: jp2_cod.c.i
 
 # target to preprocess a source file
 jp2_cod.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_cod.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_cod.c.i
 .PHONY : jp2_cod.c.i
 
 jp2_cod.s: jp2_cod.c.s
@@ -533,7 +533,7 @@ jp2_cod.s: jp2_cod.c.s
 
 # target to generate assembly for a file
 jp2_cod.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_cod.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_cod.c.s
 .PHONY : jp2_cod.c.s
 
 jp2_dec.o: jp2_dec.c.o
@@ -541,7 +541,7 @@ jp2_dec.o: jp2_dec.c.o
 
 # target to build an object file
 jp2_dec.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_dec.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_dec.c.o
 .PHONY : jp2_dec.c.o
 
 jp2_dec.i: jp2_dec.c.i
@@ -549,7 +549,7 @@ jp2_dec.i: jp2_dec.c.i
 
 # target to preprocess a source file
 jp2_dec.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_dec.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_dec.c.i
 .PHONY : jp2_dec.c.i
 
 jp2_dec.s: jp2_dec.c.s
@@ -557,7 +557,7 @@ jp2_dec.s: jp2_dec.c.s
 
 # target to generate assembly for a file
 jp2_dec.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_dec.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_dec.c.s
 .PHONY : jp2_dec.c.s
 
 jp2_enc.o: jp2_enc.c.o
@@ -565,7 +565,7 @@ jp2_enc.o: jp2_enc.c.o
 
 # target to build an object file
 jp2_enc.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_enc.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_enc.c.o
 .PHONY : jp2_enc.c.o
 
 jp2_enc.i: jp2_enc.c.i
@@ -573,7 +573,7 @@ jp2_enc.i: jp2_enc.c.i
 
 # target to preprocess a source file
 jp2_enc.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_enc.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_enc.c.i
 .PHONY : jp2_enc.c.i
 
 jp2_enc.s: jp2_enc.c.s
@@ -581,7 +581,7 @@ jp2_enc.s: jp2_enc.c.s
 
 # target to generate assembly for a file
 jp2_enc.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_enc.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_enc.c.s
 .PHONY : jp2_enc.c.s
 
 jpc_bs.o: jpc_bs.c.o
@@ -589,7 +589,7 @@ jpc_bs.o: jpc_bs.c.o
 
 # target to build an object file
 jpc_bs.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_bs.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_bs.c.o
 .PHONY : jpc_bs.c.o
 
 jpc_bs.i: jpc_bs.c.i
@@ -597,7 +597,7 @@ jpc_bs.i: jpc_bs.c.i
 
 # target to preprocess a source file
 jpc_bs.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_bs.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_bs.c.i
 .PHONY : jpc_bs.c.i
 
 jpc_bs.s: jpc_bs.c.s
@@ -605,7 +605,7 @@ jpc_bs.s: jpc_bs.c.s
 
 # target to generate assembly for a file
 jpc_bs.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_bs.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_bs.c.s
 .PHONY : jpc_bs.c.s
 
 jpc_cs.o: jpc_cs.c.o
@@ -613,7 +613,7 @@ jpc_cs.o: jpc_cs.c.o
 
 # target to build an object file
 jpc_cs.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_cs.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_cs.c.o
 .PHONY : jpc_cs.c.o
 
 jpc_cs.i: jpc_cs.c.i
@@ -621,7 +621,7 @@ jpc_cs.i: jpc_cs.c.i
 
 # target to preprocess a source file
 jpc_cs.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_cs.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_cs.c.i
 .PHONY : jpc_cs.c.i
 
 jpc_cs.s: jpc_cs.c.s
@@ -629,7 +629,7 @@ jpc_cs.s: jpc_cs.c.s
 
 # target to generate assembly for a file
 jpc_cs.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_cs.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_cs.c.s
 .PHONY : jpc_cs.c.s
 
 jpc_dec.o: jpc_dec.c.o
@@ -637,7 +637,7 @@ jpc_dec.o: jpc_dec.c.o
 
 # target to build an object file
 jpc_dec.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_dec.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_dec.c.o
 .PHONY : jpc_dec.c.o
 
 jpc_dec.i: jpc_dec.c.i
@@ -645,7 +645,7 @@ jpc_dec.i: jpc_dec.c.i
 
 # target to preprocess a source file
 jpc_dec.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_dec.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_dec.c.i
 .PHONY : jpc_dec.c.i
 
 jpc_dec.s: jpc_dec.c.s
@@ -653,7 +653,7 @@ jpc_dec.s: jpc_dec.c.s
 
 # target to generate assembly for a file
 jpc_dec.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_dec.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_dec.c.s
 .PHONY : jpc_dec.c.s
 
 jpc_enc.o: jpc_enc.c.o
@@ -661,7 +661,7 @@ jpc_enc.o: jpc_enc.c.o
 
 # target to build an object file
 jpc_enc.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_enc.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_enc.c.o
 .PHONY : jpc_enc.c.o
 
 jpc_enc.i: jpc_enc.c.i
@@ -669,7 +669,7 @@ jpc_enc.i: jpc_enc.c.i
 
 # target to preprocess a source file
 jpc_enc.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_enc.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_enc.c.i
 .PHONY : jpc_enc.c.i
 
 jpc_enc.s: jpc_enc.c.s
@@ -677,7 +677,7 @@ jpc_enc.s: jpc_enc.c.s
 
 # target to generate assembly for a file
 jpc_enc.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_enc.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_enc.c.s
 .PHONY : jpc_enc.c.s
 
 jpc_math.o: jpc_math.c.o
@@ -685,7 +685,7 @@ jpc_math.o: jpc_math.c.o
 
 # target to build an object file
 jpc_math.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_math.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_math.c.o
 .PHONY : jpc_math.c.o
 
 jpc_math.i: jpc_math.c.i
@@ -693,7 +693,7 @@ jpc_math.i: jpc_math.c.i
 
 # target to preprocess a source file
 jpc_math.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_math.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_math.c.i
 .PHONY : jpc_math.c.i
 
 jpc_math.s: jpc_math.c.s
@@ -701,7 +701,7 @@ jpc_math.s: jpc_math.c.s
 
 # target to generate assembly for a file
 jpc_math.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_math.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_math.c.s
 .PHONY : jpc_math.c.s
 
 jpc_mct.o: jpc_mct.c.o
@@ -709,7 +709,7 @@ jpc_mct.o: jpc_mct.c.o
 
 # target to build an object file
 jpc_mct.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mct.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mct.c.o
 .PHONY : jpc_mct.c.o
 
 jpc_mct.i: jpc_mct.c.i
@@ -717,7 +717,7 @@ jpc_mct.i: jpc_mct.c.i
 
 # target to preprocess a source file
 jpc_mct.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mct.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mct.c.i
 .PHONY : jpc_mct.c.i
 
 jpc_mct.s: jpc_mct.c.s
@@ -725,7 +725,7 @@ jpc_mct.s: jpc_mct.c.s
 
 # target to generate assembly for a file
 jpc_mct.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mct.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mct.c.s
 .PHONY : jpc_mct.c.s
 
 jpc_mqcod.o: jpc_mqcod.c.o
@@ -733,7 +733,7 @@ jpc_mqcod.o: jpc_mqcod.c.o
 
 # target to build an object file
 jpc_mqcod.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqcod.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqcod.c.o
 .PHONY : jpc_mqcod.c.o
 
 jpc_mqcod.i: jpc_mqcod.c.i
@@ -741,7 +741,7 @@ jpc_mqcod.i: jpc_mqcod.c.i
 
 # target to preprocess a source file
 jpc_mqcod.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqcod.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqcod.c.i
 .PHONY : jpc_mqcod.c.i
 
 jpc_mqcod.s: jpc_mqcod.c.s
@@ -749,7 +749,7 @@ jpc_mqcod.s: jpc_mqcod.c.s
 
 # target to generate assembly for a file
 jpc_mqcod.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqcod.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqcod.c.s
 .PHONY : jpc_mqcod.c.s
 
 jpc_mqdec.o: jpc_mqdec.c.o
@@ -757,7 +757,7 @@ jpc_mqdec.o: jpc_mqdec.c.o
 
 # target to build an object file
 jpc_mqdec.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqdec.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqdec.c.o
 .PHONY : jpc_mqdec.c.o
 
 jpc_mqdec.i: jpc_mqdec.c.i
@@ -765,7 +765,7 @@ jpc_mqdec.i: jpc_mqdec.c.i
 
 # target to preprocess a source file
 jpc_mqdec.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqdec.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqdec.c.i
 .PHONY : jpc_mqdec.c.i
 
 jpc_mqdec.s: jpc_mqdec.c.s
@@ -773,7 +773,7 @@ jpc_mqdec.s: jpc_mqdec.c.s
 
 # target to generate assembly for a file
 jpc_mqdec.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqdec.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqdec.c.s
 .PHONY : jpc_mqdec.c.s
 
 jpc_mqenc.o: jpc_mqenc.c.o
@@ -781,7 +781,7 @@ jpc_mqenc.o: jpc_mqenc.c.o
 
 # target to build an object file
 jpc_mqenc.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqenc.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqenc.c.o
 .PHONY : jpc_mqenc.c.o
 
 jpc_mqenc.i: jpc_mqenc.c.i
@@ -789,7 +789,7 @@ jpc_mqenc.i: jpc_mqenc.c.i
 
 # target to preprocess a source file
 jpc_mqenc.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqenc.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqenc.c.i
 .PHONY : jpc_mqenc.c.i
 
 jpc_mqenc.s: jpc_mqenc.c.s
@@ -797,7 +797,7 @@ jpc_mqenc.s: jpc_mqenc.c.s
 
 # target to generate assembly for a file
 jpc_mqenc.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqenc.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqenc.c.s
 .PHONY : jpc_mqenc.c.s
 
 jpc_qmfb.o: jpc_qmfb.c.o
@@ -805,7 +805,7 @@ jpc_qmfb.o: jpc_qmfb.c.o
 
 # target to build an object file
 jpc_qmfb.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_qmfb.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_qmfb.c.o
 .PHONY : jpc_qmfb.c.o
 
 jpc_qmfb.i: jpc_qmfb.c.i
@@ -813,7 +813,7 @@ jpc_qmfb.i: jpc_qmfb.c.i
 
 # target to preprocess a source file
 jpc_qmfb.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_qmfb.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_qmfb.c.i
 .PHONY : jpc_qmfb.c.i
 
 jpc_qmfb.s: jpc_qmfb.c.s
@@ -821,7 +821,7 @@ jpc_qmfb.s: jpc_qmfb.c.s
 
 # target to generate assembly for a file
 jpc_qmfb.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_qmfb.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_qmfb.c.s
 .PHONY : jpc_qmfb.c.s
 
 jpc_t1cod.o: jpc_t1cod.c.o
@@ -829,7 +829,7 @@ jpc_t1cod.o: jpc_t1cod.c.o
 
 # target to build an object file
 jpc_t1cod.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1cod.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1cod.c.o
 .PHONY : jpc_t1cod.c.o
 
 jpc_t1cod.i: jpc_t1cod.c.i
@@ -837,7 +837,7 @@ jpc_t1cod.i: jpc_t1cod.c.i
 
 # target to preprocess a source file
 jpc_t1cod.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1cod.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1cod.c.i
 .PHONY : jpc_t1cod.c.i
 
 jpc_t1cod.s: jpc_t1cod.c.s
@@ -845,7 +845,7 @@ jpc_t1cod.s: jpc_t1cod.c.s
 
 # target to generate assembly for a file
 jpc_t1cod.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1cod.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1cod.c.s
 .PHONY : jpc_t1cod.c.s
 
 jpc_t1dec.o: jpc_t1dec.c.o
@@ -853,7 +853,7 @@ jpc_t1dec.o: jpc_t1dec.c.o
 
 # target to build an object file
 jpc_t1dec.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1dec.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1dec.c.o
 .PHONY : jpc_t1dec.c.o
 
 jpc_t1dec.i: jpc_t1dec.c.i
@@ -861,7 +861,7 @@ jpc_t1dec.i: jpc_t1dec.c.i
 
 # target to preprocess a source file
 jpc_t1dec.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1dec.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1dec.c.i
 .PHONY : jpc_t1dec.c.i
 
 jpc_t1dec.s: jpc_t1dec.c.s
@@ -869,7 +869,7 @@ jpc_t1dec.s: jpc_t1dec.c.s
 
 # target to generate assembly for a file
 jpc_t1dec.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1dec.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1dec.c.s
 .PHONY : jpc_t1dec.c.s
 
 jpc_t1enc.o: jpc_t1enc.c.o
@@ -877,7 +877,7 @@ jpc_t1enc.o: jpc_t1enc.c.o
 
 # target to build an object file
 jpc_t1enc.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1enc.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1enc.c.o
 .PHONY : jpc_t1enc.c.o
 
 jpc_t1enc.i: jpc_t1enc.c.i
@@ -885,7 +885,7 @@ jpc_t1enc.i: jpc_t1enc.c.i
 
 # target to preprocess a source file
 jpc_t1enc.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1enc.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1enc.c.i
 .PHONY : jpc_t1enc.c.i
 
 jpc_t1enc.s: jpc_t1enc.c.s
@@ -893,7 +893,7 @@ jpc_t1enc.s: jpc_t1enc.c.s
 
 # target to generate assembly for a file
 jpc_t1enc.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1enc.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1enc.c.s
 .PHONY : jpc_t1enc.c.s
 
 jpc_t2cod.o: jpc_t2cod.c.o
@@ -901,7 +901,7 @@ jpc_t2cod.o: jpc_t2cod.c.o
 
 # target to build an object file
 jpc_t2cod.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2cod.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2cod.c.o
 .PHONY : jpc_t2cod.c.o
 
 jpc_t2cod.i: jpc_t2cod.c.i
@@ -909,7 +909,7 @@ jpc_t2cod.i: jpc_t2cod.c.i
 
 # target to preprocess a source file
 jpc_t2cod.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2cod.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2cod.c.i
 .PHONY : jpc_t2cod.c.i
 
 jpc_t2cod.s: jpc_t2cod.c.s
@@ -917,7 +917,7 @@ jpc_t2cod.s: jpc_t2cod.c.s
 
 # target to generate assembly for a file
 jpc_t2cod.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2cod.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2cod.c.s
 .PHONY : jpc_t2cod.c.s
 
 jpc_t2dec.o: jpc_t2dec.c.o
@@ -925,7 +925,7 @@ jpc_t2dec.o: jpc_t2dec.c.o
 
 # target to build an object file
 jpc_t2dec.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2dec.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2dec.c.o
 .PHONY : jpc_t2dec.c.o
 
 jpc_t2dec.i: jpc_t2dec.c.i
@@ -933,7 +933,7 @@ jpc_t2dec.i: jpc_t2dec.c.i
 
 # target to preprocess a source file
 jpc_t2dec.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2dec.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2dec.c.i
 .PHONY : jpc_t2dec.c.i
 
 jpc_t2dec.s: jpc_t2dec.c.s
@@ -941,7 +941,7 @@ jpc_t2dec.s: jpc_t2dec.c.s
 
 # target to generate assembly for a file
 jpc_t2dec.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2dec.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2dec.c.s
 .PHONY : jpc_t2dec.c.s
 
 jpc_t2enc.o: jpc_t2enc.c.o
@@ -949,7 +949,7 @@ jpc_t2enc.o: jpc_t2enc.c.o
 
 # target to build an object file
 jpc_t2enc.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2enc.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2enc.c.o
 .PHONY : jpc_t2enc.c.o
 
 jpc_t2enc.i: jpc_t2enc.c.i
@@ -957,7 +957,7 @@ jpc_t2enc.i: jpc_t2enc.c.i
 
 # target to preprocess a source file
 jpc_t2enc.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2enc.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2enc.c.i
 .PHONY : jpc_t2enc.c.i
 
 jpc_t2enc.s: jpc_t2enc.c.s
@@ -965,7 +965,7 @@ jpc_t2enc.s: jpc_t2enc.c.s
 
 # target to generate assembly for a file
 jpc_t2enc.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2enc.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2enc.c.s
 .PHONY : jpc_t2enc.c.s
 
 jpc_tagtree.o: jpc_tagtree.c.o
@@ -973,7 +973,7 @@ jpc_tagtree.o: jpc_tagtree.c.o
 
 # target to build an object file
 jpc_tagtree.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tagtree.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tagtree.c.o
 .PHONY : jpc_tagtree.c.o
 
 jpc_tagtree.i: jpc_tagtree.c.i
@@ -981,7 +981,7 @@ jpc_tagtree.i: jpc_tagtree.c.i
 
 # target to preprocess a source file
 jpc_tagtree.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tagtree.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tagtree.c.i
 .PHONY : jpc_tagtree.c.i
 
 jpc_tagtree.s: jpc_tagtree.c.s
@@ -989,7 +989,7 @@ jpc_tagtree.s: jpc_tagtree.c.s
 
 # target to generate assembly for a file
 jpc_tagtree.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tagtree.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tagtree.c.s
 .PHONY : jpc_tagtree.c.s
 
 jpc_tsfb.o: jpc_tsfb.c.o
@@ -997,7 +997,7 @@ jpc_tsfb.o: jpc_tsfb.c.o
 
 # target to build an object file
 jpc_tsfb.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tsfb.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tsfb.c.o
 .PHONY : jpc_tsfb.c.o
 
 jpc_tsfb.i: jpc_tsfb.c.i
@@ -1005,7 +1005,7 @@ jpc_tsfb.i: jpc_tsfb.c.i
 
 # target to preprocess a source file
 jpc_tsfb.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tsfb.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tsfb.c.i
 .PHONY : jpc_tsfb.c.i
 
 jpc_tsfb.s: jpc_tsfb.c.s
@@ -1013,7 +1013,7 @@ jpc_tsfb.s: jpc_tsfb.c.s
 
 # target to generate assembly for a file
 jpc_tsfb.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tsfb.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tsfb.c.s
 .PHONY : jpc_tsfb.c.s
 
 jpc_util.o: jpc_util.c.o
@@ -1021,7 +1021,7 @@ jpc_util.o: jpc_util.c.o
 
 # target to build an object file
 jpc_util.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_util.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_util.c.o
 .PHONY : jpc_util.c.o
 
 jpc_util.i: jpc_util.c.i
@@ -1029,7 +1029,7 @@ jpc_util.i: jpc_util.c.i
 
 # target to preprocess a source file
 jpc_util.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_util.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_util.c.i
 .PHONY : jpc_util.c.i
 
 jpc_util.s: jpc_util.c.s
@@ -1037,7 +1037,7 @@ jpc_util.s: jpc_util.c.s
 
 # target to generate assembly for a file
 jpc_util.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_util.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libjasper/CMakeFiles/libjasper.dir/build.make 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_util.c.s
 .PHONY : jpc_util.c.s
 
 # Help Target
@@ -1174,6 +1174,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

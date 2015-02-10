@@ -164,23 +164,23 @@ opencv2/photo/photo_c.h
 opencv2/core/core_c.h
 ../modules/photo/include/opencv2/photo/opencv2/core/core_c.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/arrays.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/arrays.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/denoising.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/denoising.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/precomp.hpp
 opencv2/photo/photo.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/opencv2/photo/photo.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/opencv2/photo/photo.hpp
 opencv2/imgproc/imgproc.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/opencv2/imgproc/imgproc.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/opencv2/imgproc/imgproc.hpp
 fast_nlmeans_denoising_invoker.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_denoising_invoker.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_denoising_invoker.hpp
 fast_nlmeans_multi_denoising_invoker.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_multi_denoising_invoker.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_multi_denoising_invoker.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_denoising_invoker.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_denoising_invoker.hpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/precomp.hpp
 opencv2/core/core.hpp
 -
 opencv2/core/internal.hpp
@@ -190,11 +190,11 @@ opencv2/imgproc/imgproc.hpp
 limits
 -
 fast_nlmeans_denoising_invoker_commons.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_denoising_invoker_commons.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_denoising_invoker_commons.hpp
 arrays.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/arrays.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/arrays.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_denoising_invoker_commons.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_denoising_invoker_commons.hpp
 opencv2/core/core.hpp
 -
 opencv2/core/internal.hpp
@@ -202,9 +202,9 @@ opencv2/core/internal.hpp
 opencv2/imgproc/imgproc.hpp
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_multi_denoising_invoker.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_multi_denoising_invoker.hpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/precomp.hpp
 opencv2/core/core.hpp
 -
 opencv2/core/internal.hpp
@@ -214,23 +214,23 @@ opencv2/imgproc/imgproc.hpp
 limits
 -
 fast_nlmeans_denoising_invoker_commons.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_denoising_invoker_commons.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/fast_nlmeans_denoising_invoker_commons.hpp
 arrays.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/arrays.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/arrays.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/inpaint.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/inpaint.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/precomp.hpp
 opencv2/imgproc/imgproc_c.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/opencv2/imgproc/imgproc_c.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/opencv2/imgproc/imgproc_c.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/precomp.hpp
 cvconfig.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/cvconfig.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/cvconfig.h
 opencv2/photo/photo.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/opencv2/photo/photo.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/opencv2/photo/photo.hpp
 opencv2/photo/photo_tegra.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/src/opencv2/photo/photo_tegra.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/src/opencv2/photo/photo_tegra.hpp
 
 cvconfig.h
 

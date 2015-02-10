@@ -17,8 +17,8 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/bagofwords.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/bagofwords.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/bagofwords.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/blobdetector.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -38,8 +38,8 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/blobdetector.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/blobdetector.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/blobdetector.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/brief.cpp.o
@@ -58,11 +58,11 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/brief.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/brief.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/generated_16.i
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/generated_32.i
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/generated_64.i
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/brief.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/generated_16.i
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/generated_32.i
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/generated_64.i
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/brisk.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -80,9 +80,9 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/brisk.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/brisk.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/fast_score.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/brisk.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/fast_score.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/descriptors.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -100,8 +100,8 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/descriptors.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/descriptors.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/descriptors.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/detectors.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -119,8 +119,8 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/detectors.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/detectors.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/detectors.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/draw.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -138,8 +138,8 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/draw.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/draw.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/draw.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/dynamic.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -157,8 +157,8 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/dynamic.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/dynamic.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/dynamic.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/evaluation.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -176,8 +176,8 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/evaluation.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/evaluation.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/evaluation.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/fast.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -195,9 +195,9 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/fast.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/fast.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/fast_score.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/fast.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/fast_score.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/fast_score.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -215,9 +215,9 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/fast_score.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/fast_score.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/fast_score.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/fast_score.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/fast_score.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/features2d_init.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -235,9 +235,9 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/features2d_init.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/fast_score.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/features2d_init.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/fast_score.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/features2d_init.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/freak.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -255,8 +255,8 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/freak.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/freak.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/freak.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/keypoint.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -274,8 +274,8 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/keypoint.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/keypoint.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/keypoint.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/matchers.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -293,8 +293,8 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/matchers.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/matchers.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/matchers.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/mser.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -312,8 +312,8 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/mser.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/mser.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/mser.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/orb.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -331,8 +331,8 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/orb.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/orb.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/orb.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
  cvconfig.h
 modules/features2d/CMakeFiles/opencv_features2d.dir/src/stardetector.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -350,6 +350,6 @@ modules/features2d/CMakeFiles/opencv_features2d.dir/src/stardetector.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/features2d/src/stardetector.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/features2d/src/stardetector.cpp
  cvconfig.h

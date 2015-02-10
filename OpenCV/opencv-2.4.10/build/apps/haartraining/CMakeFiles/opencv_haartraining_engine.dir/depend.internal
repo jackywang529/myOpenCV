@@ -54,9 +54,9 @@ apps/haartraining/CMakeFiles/opencv_haartraining_engine.dir/cvboost.cpp.o
  ../modules/legacy/include/opencv2/legacy/compat.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvboost.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvboost.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
  cvconfig.h
 apps/haartraining/CMakeFiles/opencv_haartraining_engine.dir/cvcommon.cpp.o
  ../include/opencv/cv.h
@@ -111,8 +111,8 @@ apps/haartraining/CMakeFiles/opencv_haartraining_engine.dir/cvcommon.cpp.o
  ../modules/legacy/include/opencv2/legacy/compat.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvcommon.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvcommon.cpp
 apps/haartraining/CMakeFiles/opencv_haartraining_engine.dir/cvhaarclassifier.cpp.o
  ../include/opencv/cv.h
  ../include/opencv/cxcore.h
@@ -166,10 +166,10 @@ apps/haartraining/CMakeFiles/opencv_haartraining_engine.dir/cvhaarclassifier.cpp
  ../modules/legacy/include/opencv2/legacy/compat.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvhaarclassifier.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvhaarclassifier.cpp
 apps/haartraining/CMakeFiles/opencv_haartraining_engine.dir/cvhaartraining.cpp.o
  ../include/opencv/cv.h
  ../include/opencv/cxcore.h
@@ -226,12 +226,12 @@ apps/haartraining/CMakeFiles/opencv_haartraining_engine.dir/cvhaartraining.cpp.o
  ../modules/legacy/include/opencv2/legacy/compat.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/ioutput.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/ioutput.h
 apps/haartraining/CMakeFiles/opencv_haartraining_engine.dir/cvsamples.cpp.o
  ../include/opencv/cv.h
  ../include/opencv/cxcore.h
@@ -288,11 +288,11 @@ apps/haartraining/CMakeFiles/opencv_haartraining_engine.dir/cvsamples.cpp.o
  ../modules/legacy/include/opencv2/legacy/compat.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvsamples.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvsamples.cpp
 apps/haartraining/CMakeFiles/opencv_haartraining_engine.dir/cvsamplesoutput.cpp.o
  ../include/opencv/cv.h
  ../include/opencv/cxcore.h
@@ -349,7 +349,7 @@ apps/haartraining/CMakeFiles/opencv_haartraining_engine.dir/cvsamplesoutput.cpp.
  ../modules/legacy/include/opencv2/legacy/compat.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvsamplesoutput.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvsamplesoutput.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/ioutput.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvsamplesoutput.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvsamplesoutput.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/ioutput.h

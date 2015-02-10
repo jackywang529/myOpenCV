@@ -21,8 +21,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/adaptiveskindetector.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/adaptiveskindetector.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/adaptiveskindetector.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/ba.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -46,8 +46,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/ba.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/ba.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/ba.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/basicretinafilter.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -69,10 +69,10 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/basicretinafilter.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/bowmsctrainer.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -94,8 +94,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/bowmsctrainer.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/bowmsctrainer.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/bowmsctrainer.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/chamfermatching.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -119,8 +119,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/chamfermatching.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/chamfermatching.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/chamfermatching.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/chowliutree.cpp.o
@@ -143,8 +143,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/chowliutree.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/chowliutree.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/chowliutree.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/colormap.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -166,8 +166,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/colormap.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/colormap.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/colormap.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/colortracker.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -192,8 +192,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/colortracker.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/colortracker.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/colortracker.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/contrib_init.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -215,8 +215,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/contrib_init.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/contrib_init.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/contrib_init.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/detection_based_tracker.cpp.o
  ../modules/contrib/include/opencv2/contrib/detection_based_tracker.hpp
@@ -226,7 +226,7 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/detection_based_tracker.cpp.o
  ../modules/core/include/opencv2/core/types_c.h
  ../modules/core/include/opencv2/core/version.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/detection_based_tracker.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/detection_based_tracker.cpp
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/facerec.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
  ../modules/contrib/include/opencv2/contrib/openfabmap.hpp
@@ -247,8 +247,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/facerec.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/facerec.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/facerec.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/featuretracker.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -277,8 +277,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/featuretracker.cpp.o
  ../modules/nonfree/include/opencv2/nonfree/nonfree.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/featuretracker.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/featuretracker.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/fuzzymeanshifttracker.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -300,8 +300,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/fuzzymeanshifttracker.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/fuzzymeanshifttracker.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/fuzzymeanshifttracker.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/gencolors.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -323,8 +323,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/gencolors.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/gencolors.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/gencolors.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/hybridtracker.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -349,8 +349,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/hybridtracker.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/hybridtracker.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/hybridtracker.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/imagelogpolprojection.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -372,11 +372,11 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/imagelogpolprojection.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/imagelogpolprojection.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/imagelogpolprojection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/imagelogpolprojection.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/imagelogpolprojection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/inputoutput.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -395,7 +395,7 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/inputoutput.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/inputoutput.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/inputoutput.cpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/lda.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -417,8 +417,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/lda.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/lda.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/lda.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/logpolar_bsm.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -440,8 +440,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/logpolar_bsm.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/logpolar_bsm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/logpolar_bsm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/magnoretinafilter.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -463,11 +463,11 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/magnoretinafilter.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/magnoretinafilter.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/magnoretinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/magnoretinafilter.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/magnoretinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/octree.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -489,8 +489,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/octree.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/octree.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/octree.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/openfabmap.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -512,8 +512,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/openfabmap.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/openfabmap.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/openfabmap.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/parvoretinafilter.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -535,11 +535,11 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/parvoretinafilter.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/parvoretinafilter.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/parvoretinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/parvoretinafilter.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/parvoretinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/polyfit.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -561,8 +561,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/polyfit.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/polyfit.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/polyfit.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/retina.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -584,15 +584,15 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/retina.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/imagelogpolprojection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/magnoretinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/parvoretinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/retina.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/retinacolor.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/retinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/imagelogpolprojection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/magnoretinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/parvoretinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/retina.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/retinacolor.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/retinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/retinacolor.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -614,11 +614,11 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/retinacolor.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/retinacolor.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/retinacolor.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/retinacolor.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/retinacolor.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/retinafilter.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -640,15 +640,15 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/retinafilter.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/imagelogpolprojection.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/magnoretinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/parvoretinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/retinacolor.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/retinafilter.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/retinafilter.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/basicretinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/imagelogpolprojection.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/magnoretinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/parvoretinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/retinacolor.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/retinafilter.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/retinafilter.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/templatebuffer.hpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/rgbdodometry.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -674,8 +674,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/rgbdodometry.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/rgbdodometry.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/rgbdodometry.cpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/selfsimilarity.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -697,8 +697,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/selfsimilarity.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/selfsimilarity.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/selfsimilarity.cpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/spinimages.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -720,8 +720,8 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/spinimages.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/spinimages.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/spinimages.cpp
  cvconfig.h
 modules/contrib/CMakeFiles/opencv_contrib.dir/src/stereovar.cpp.o
  ../modules/contrib/include/opencv2/contrib/contrib.hpp
@@ -743,6 +743,6 @@ modules/contrib/CMakeFiles/opencv_contrib.dir/src/stereovar.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/contrib/src/stereovar.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/contrib/src/stereovar.cpp
  cvconfig.h

@@ -4,21 +4,21 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_C
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/png.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/png.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngerror.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngerror.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngget.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngget.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngmem.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngmem.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpread.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngpread.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngread.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngread.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngrio.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngrio.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngrtran.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngrtran.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngrutil.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngrutil.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngset.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngset.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngtrans.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngtrans.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwio.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngwio.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwrite.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngwrite.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwtran.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngwtran.c.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwutil.c" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngwutil.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/png.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/png.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngerror.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngerror.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngget.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngget.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngmem.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngmem.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngpread.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngpread.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngread.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngread.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngrio.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngrio.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngrtran.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngrtran.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngrutil.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngrutil.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngset.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngset.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngtrans.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngtrans.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwio.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngwio.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwrite.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngwrite.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwtran.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngwtran.c.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/3rdparty/libpng/pngwutil.c" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libpng/CMakeFiles/libpng.dir/pngwutil.c.o"
   )
 SET(CMAKE_C_COMPILER_ID "Clang")
 
@@ -29,7 +29,7 @@ SET(CMAKE_TARGET_DEFINITIONS
 
 # Targets to which this target links.
 SET(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/zlib/CMakeFiles/zlib.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/zlib/CMakeFiles/zlib.dir/DependInfo.cmake"
   )
 
 # The include file search paths:

@@ -1,16 +1,16 @@
 Determining if the system is big endian passed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec94181100/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec94181100.dir/build.make CMakeFiles/cmTryCompileExec94181100.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec94181100.dir/TestEndianess.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec94181100.dir/TestEndianess.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/TestEndianess.c
-Linking C executable cmTryCompileExec94181100
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec94181100.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec94181100.dir/TestEndianess.c.o  -o cmTryCompileExec94181100  
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2024977261/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2024977261.dir/build.make CMakeFiles/cmTryCompileExec2024977261.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2024977261.dir/TestEndianess.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec2024977261.dir/TestEndianess.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/TestEndianess.c
+Linking C executable cmTryCompileExec2024977261
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec2024977261.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec2024977261.dir/TestEndianess.c.o  -o cmTryCompileExec2024977261  
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
 
 TestEndianess.c:
 /* A 16 bit integer is required. */
@@ -39,67 +39,67 @@ int main(int argc, char *argv[])
 
 
 Determining size of off64_t failed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1868082836/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1868082836.dir/build.make CMakeFiles/cmTryCompileExec1868082836.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec1868082836.dir/OFF64_T.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec1868082836.dir/OFF64_T.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:19:12: error: use of undeclared identifier 'off64_t'; did you mean 'off_t'?
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1031289789/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1031289789.dir/build.make CMakeFiles/cmTryCompileExec1031289789.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1031289789.dir/OFF64_T.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec1031289789.dir/OFF64_T.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:19:12: error: use of undeclared identifier 'off64_t'; did you mean 'off_t'?
   ('0' + ((SIZE / 10000)%10)),
            ^
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:17:22: note: expanded from macro 'SIZE'
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:17:22: note: expanded from macro 'SIZE'
 #define SIZE (sizeof(off64_t))
                      ^
 /usr/include/sys/_types/_off_t.h:30:25: note: 'off_t' declared here
 typedef __darwin_off_t          off_t;
                                 ^
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:20:12: error: use of undeclared identifier 'off64_t'; did you mean 'off_t'?
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:20:12: error: use of undeclared identifier 'off64_t'; did you mean 'off_t'?
   ('0' + ((SIZE / 1000)%10)),
            ^
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:17:22: note: expanded from macro 'SIZE'
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:17:22: note: expanded from macro 'SIZE'
 #define SIZE (sizeof(off64_t))
                      ^
 /usr/include/sys/_types/_off_t.h:30:25: note: 'off_t' declared here
 typedef __darwin_off_t          off_t;
                                 ^
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:21:12: error: use of undeclared identifier 'off64_t'; did you mean 'off_t'?
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:21:12: error: use of undeclared identifier 'off64_t'; did you mean 'off_t'?
   ('0' + ((SIZE / 100)%10)),
            ^
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:17:22: note: expanded from macro 'SIZE'
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:17:22: note: expanded from macro 'SIZE'
 #define SIZE (sizeof(off64_t))
                      ^
 /usr/include/sys/_types/_off_t.h:30:25: note: 'off_t' declared here
 typedef __darwin_off_t          off_t;
                                 ^
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:22:12: error: use of undeclared identifier 'off64_t'; did you mean 'off_t'?
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:22:12: error: use of undeclared identifier 'off64_t'; did you mean 'off_t'?
   ('0' + ((SIZE / 10)%10)),
            ^
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:17:22: note: expanded from macro 'SIZE'
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:17:22: note: expanded from macro 'SIZE'
 #define SIZE (sizeof(off64_t))
                      ^
 /usr/include/sys/_types/_off_t.h:30:25: note: 'off_t' declared here
 typedef __darwin_off_t          off_t;
                                 ^
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:23:12: error: use of undeclared identifier 'off64_t'; did you mean 'off_t'?
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:23:12: error: use of undeclared identifier 'off64_t'; did you mean 'off_t'?
   ('0' +  (SIZE    % 10)),
            ^
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:17:22: note: expanded from macro 'SIZE'
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:17:22: note: expanded from macro 'SIZE'
 #define SIZE (sizeof(off64_t))
                      ^
 /usr/include/sys/_types/_off_t.h:30:25: note: 'off_t' declared here
 typedef __darwin_off_t          off_t;
                                 ^
 5 errors generated.
-CMakeFiles/cmTryCompileExec1868082836.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec1868082836.dir/OFF64_T.c.o' failed
-gmake[1]: *** [CMakeFiles/cmTryCompileExec1868082836.dir/OFF64_T.c.o] Error 1
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-Makefile:117: recipe for target 'cmTryCompileExec1868082836/fast' failed
-gmake: *** [cmTryCompileExec1868082836/fast] Error 2
+CMakeFiles/cmTryCompileExec1031289789.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec1031289789.dir/OFF64_T.c.o' failed
+gmake[1]: *** [CMakeFiles/cmTryCompileExec1031289789.dir/OFF64_T.c.o] Error 1
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec1031289789/fast' failed
+gmake: *** [cmTryCompileExec1031289789/fast] Error 2
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CheckTypeSize/OFF64_T.c:
 #include <sys/types.h>
 #include <stdint.h>
 #include <stddef.h>
@@ -143,146 +143,146 @@ int main(int argc, char *argv[])
 
 
 Determining if the include file io.h exists failed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1103028692/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1103028692.dir/build.make CMakeFiles/cmTryCompileExec1103028692.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec1103028692.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec1103028692.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'io.h' file not found
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec430114046/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec430114046.dir/build.make CMakeFiles/cmTryCompileExec430114046.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec430114046.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec430114046.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'io.h' file not found
 #include <io.h>
          ^
 1 error generated.
-CMakeFiles/cmTryCompileExec1103028692.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec1103028692.dir/CheckIncludeFile.c.o' failed
-gmake[1]: *** [CMakeFiles/cmTryCompileExec1103028692.dir/CheckIncludeFile.c.o] Error 1
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-Makefile:117: recipe for target 'cmTryCompileExec1103028692/fast' failed
-gmake: *** [cmTryCompileExec1103028692/fast] Error 2
+CMakeFiles/cmTryCompileExec430114046.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec430114046.dir/CheckIncludeFile.c.o' failed
+gmake[1]: *** [CMakeFiles/cmTryCompileExec430114046.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec430114046/fast' failed
+gmake: *** [cmTryCompileExec430114046/fast] Error 2
 
 
 Determining if the function jbg_newlen exists failed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2144143568/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2144143568.dir/build.make CMakeFiles/cmTryCompileExec2144143568.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec2144143568.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3  -DCHECK_FUNCTION_EXISTS=jbg_newlen -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec2144143568.dir/CheckFunctionExists.c.o   -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CheckFunctionExists.c"
-Linking C executable cmTryCompileExec2144143568
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec2144143568.dir/link.txt --verbose=1
-/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3  -DCHECK_FUNCTION_EXISTS=jbg_newlen -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec2144143568.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2144143568  
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec3553848752/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec3553848752.dir/build.make CMakeFiles/cmTryCompileExec3553848752.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3553848752.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3  -DCHECK_FUNCTION_EXISTS=jbg_newlen -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec3553848752.dir/CheckFunctionExists.c.o   -c "/Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CheckFunctionExists.c"
+Linking C executable cmTryCompileExec3553848752
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_link_script CMakeFiles/cmTryCompileExec3553848752.dir/link.txt --verbose=1
+/usr/bin/cc      -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3  -DCHECK_FUNCTION_EXISTS=jbg_newlen -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec3553848752.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3553848752  
 Undefined symbols for architecture x86_64:
   "_jbg_newlen", referenced from:
       _main in CheckFunctionExists.c.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
-CMakeFiles/cmTryCompileExec2144143568.dir/build.make:91: recipe for target 'cmTryCompileExec2144143568' failed
-gmake[1]: *** [cmTryCompileExec2144143568] Error 1
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-Makefile:117: recipe for target 'cmTryCompileExec2144143568/fast' failed
-gmake: *** [cmTryCompileExec2144143568/fast] Error 2
+CMakeFiles/cmTryCompileExec3553848752.dir/build.make:91: recipe for target 'cmTryCompileExec3553848752' failed
+gmake[1]: *** [cmTryCompileExec3553848752] Error 1
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec3553848752/fast' failed
+gmake: *** [cmTryCompileExec3553848752/fast] Error 2
 
 
 Determining if the include file linux/videodev.h exists failed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec437566927/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec437566927.dir/build.make CMakeFiles/cmTryCompileExec437566927.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec437566927.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec437566927.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'linux/videodev.h' file not found
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec4110567986/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec4110567986.dir/build.make CMakeFiles/cmTryCompileExec4110567986.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4110567986.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec4110567986.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'linux/videodev.h' file not found
 #include <linux/videodev.h>
          ^
 1 error generated.
-CMakeFiles/cmTryCompileExec437566927.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec437566927.dir/CheckIncludeFile.c.o' failed
-gmake[1]: *** [CMakeFiles/cmTryCompileExec437566927.dir/CheckIncludeFile.c.o] Error 1
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-Makefile:117: recipe for target 'cmTryCompileExec437566927/fast' failed
-gmake: *** [cmTryCompileExec437566927/fast] Error 2
+CMakeFiles/cmTryCompileExec4110567986.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec4110567986.dir/CheckIncludeFile.c.o' failed
+gmake[1]: *** [CMakeFiles/cmTryCompileExec4110567986.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec4110567986/fast' failed
+gmake: *** [cmTryCompileExec4110567986/fast] Error 2
 
 
 Determining if the include file linux/videodev2.h exists failed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec288065704/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec288065704.dir/build.make CMakeFiles/cmTryCompileExec288065704.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec288065704.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec288065704.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'linux/videodev2.h' file not found
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec2286693637/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec2286693637.dir/build.make CMakeFiles/cmTryCompileExec2286693637.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2286693637.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec2286693637.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'linux/videodev2.h' file not found
 #include <linux/videodev2.h>
          ^
 1 error generated.
-CMakeFiles/cmTryCompileExec288065704.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec288065704.dir/CheckIncludeFile.c.o' failed
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-gmake[1]: *** [CMakeFiles/cmTryCompileExec288065704.dir/CheckIncludeFile.c.o] Error 1
-Makefile:117: recipe for target 'cmTryCompileExec288065704/fast' failed
-gmake: *** [cmTryCompileExec288065704/fast] Error 2
+CMakeFiles/cmTryCompileExec2286693637.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec2286693637.dir/CheckIncludeFile.c.o' failed
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+gmake[1]: *** [CMakeFiles/cmTryCompileExec2286693637.dir/CheckIncludeFile.c.o] Error 1
+Makefile:117: recipe for target 'cmTryCompileExec2286693637/fast' failed
+gmake: *** [cmTryCompileExec2286693637/fast] Error 2
 
 
 Determining if the include file sys/videoio.h exists failed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec669484379/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec669484379.dir/build.make CMakeFiles/cmTryCompileExec669484379.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec669484379.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec669484379.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'sys/videoio.h' file not found
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec3934334275/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec3934334275.dir/build.make CMakeFiles/cmTryCompileExec3934334275.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3934334275.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec3934334275.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'sys/videoio.h' file not found
 #include <sys/videoio.h>
          ^
 1 error generated.
-CMakeFiles/cmTryCompileExec669484379.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec669484379.dir/CheckIncludeFile.c.o' failed
-gmake[1]: *** [CMakeFiles/cmTryCompileExec669484379.dir/CheckIncludeFile.c.o] Error 1
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-Makefile:117: recipe for target 'cmTryCompileExec669484379/fast' failed
-gmake: *** [cmTryCompileExec669484379/fast] Error 2
+CMakeFiles/cmTryCompileExec3934334275.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec3934334275.dir/CheckIncludeFile.c.o' failed
+gmake[1]: *** [CMakeFiles/cmTryCompileExec3934334275.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec3934334275/fast' failed
+gmake: *** [cmTryCompileExec3934334275/fast] Error 2
 
 
 Determining if the include file libavformat/avformat.h exists failed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec941786061/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec941786061.dir/build.make CMakeFiles/cmTryCompileExec941786061.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec941786061.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec941786061.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'libavformat/avformat.h' file not found
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec3523742437/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec3523742437.dir/build.make CMakeFiles/cmTryCompileExec3523742437.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3523742437.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec3523742437.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'libavformat/avformat.h' file not found
 #include <libavformat/avformat.h>
          ^
 1 error generated.
-CMakeFiles/cmTryCompileExec941786061.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec941786061.dir/CheckIncludeFile.c.o' failed
-gmake[1]: *** [CMakeFiles/cmTryCompileExec941786061.dir/CheckIncludeFile.c.o] Error 1
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-Makefile:117: recipe for target 'cmTryCompileExec941786061/fast' failed
-gmake: *** [cmTryCompileExec941786061/fast] Error 2
+CMakeFiles/cmTryCompileExec3523742437.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec3523742437.dir/CheckIncludeFile.c.o' failed
+gmake[1]: *** [CMakeFiles/cmTryCompileExec3523742437.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec3523742437/fast' failed
+gmake: *** [cmTryCompileExec3523742437/fast] Error 2
 
 
 Determining if the include file ffmpeg/avformat.h exists failed with the following output:
-Change Dir: /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/opt/local/bin/gmake "cmTryCompileExec745612831/fast"
-/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec745612831.dir/build.make CMakeFiles/cmTryCompileExec745612831.dir/build
-gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec745612831.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec745612831.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'ffmpeg/avformat.h' file not found
+Run Build Command:/opt/local/bin/gmake "cmTryCompileExec1650948727/fast"
+/opt/local/bin/gmake -f CMakeFiles/cmTryCompileExec1650948727.dir/build.make CMakeFiles/cmTryCompileExec1650948727.dir/build
+gmake[1]: Entering directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+"/Applications/CMake 2.8-11.app/Contents/bin/cmake" -E cmake_progress_report /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1650948727.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -fno-omit-frame-pointer -msse -msse2 -msse3   -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec1650948727.dir/CheckIncludeFile.c.o   -c /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'ffmpeg/avformat.h' file not found
 #include <ffmpeg/avformat.h>
          ^
 1 error generated.
-CMakeFiles/cmTryCompileExec745612831.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec745612831.dir/CheckIncludeFile.c.o' failed
-gmake[1]: *** [CMakeFiles/cmTryCompileExec745612831.dir/CheckIncludeFile.c.o] Error 1
-gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
-Makefile:117: recipe for target 'cmTryCompileExec745612831/fast' failed
-gmake: *** [cmTryCompileExec745612831/fast] Error 2
+CMakeFiles/cmTryCompileExec1650948727.dir/build.make:60: recipe for target 'CMakeFiles/cmTryCompileExec1650948727.dir/CheckIncludeFile.c.o' failed
+gmake[1]: Leaving directory '/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles/CMakeTmp'
+gmake[1]: *** [CMakeFiles/cmTryCompileExec1650948727.dir/CheckIncludeFile.c.o] Error 1
+Makefile:117: recipe for target 'cmTryCompileExec1650948727/fast' failed
+gmake: *** [cmTryCompileExec1650948727/fast] Error 2
 
 

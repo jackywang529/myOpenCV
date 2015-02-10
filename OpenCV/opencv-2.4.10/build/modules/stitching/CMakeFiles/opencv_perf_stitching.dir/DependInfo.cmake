@@ -4,29 +4,29 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/perf/perf_main.cpp" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/stitching/CMakeFiles/opencv_perf_stitching.dir/perf/perf_main.cpp.o"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/perf/perf_stich.cpp" "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/stitching/CMakeFiles/opencv_perf_stitching.dir/perf/perf_stich.cpp.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/perf/perf_main.cpp" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/stitching/CMakeFiles/opencv_perf_stitching.dir/perf/perf_main.cpp.o"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/perf/perf_stich.cpp" "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/stitching/CMakeFiles/opencv_perf_stitching.dir/perf/perf_stich.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "Clang")
 
 # Targets to which this target links.
 SET(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/core/CMakeFiles/opencv_core.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/flann/CMakeFiles/opencv_flann.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/imgproc/CMakeFiles/opencv_imgproc.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_highgui.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/features2d/CMakeFiles/opencv_features2d.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/calib3d/CMakeFiles/opencv_calib3d.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/ml/CMakeFiles/opencv_ml.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/video/CMakeFiles/opencv_video.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/legacy/CMakeFiles/opencv_legacy.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/objdetect/CMakeFiles/opencv_objdetect.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/photo/CMakeFiles/opencv_photo.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/gpu/CMakeFiles/opencv_gpu.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/ocl/CMakeFiles/opencv_ocl.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/nonfree/CMakeFiles/opencv_nonfree.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/stitching/CMakeFiles/opencv_stitching.dir/DependInfo.cmake"
-  "/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/ts/CMakeFiles/opencv_ts.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/core/CMakeFiles/opencv_core.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/flann/CMakeFiles/opencv_flann.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/imgproc/CMakeFiles/opencv_imgproc.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/highgui/CMakeFiles/opencv_highgui.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/features2d/CMakeFiles/opencv_features2d.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/calib3d/CMakeFiles/opencv_calib3d.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/ml/CMakeFiles/opencv_ml.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/video/CMakeFiles/opencv_video.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/legacy/CMakeFiles/opencv_legacy.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/objdetect/CMakeFiles/opencv_objdetect.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/photo/CMakeFiles/opencv_photo.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/gpu/CMakeFiles/opencv_gpu.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/ocl/CMakeFiles/opencv_ocl.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/nonfree/CMakeFiles/opencv_nonfree.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/stitching/CMakeFiles/opencv_stitching.dir/DependInfo.cmake"
+  "/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/ts/CMakeFiles/opencv_ts.dir/DependInfo.cmake"
   )
 
 # The include file search paths:

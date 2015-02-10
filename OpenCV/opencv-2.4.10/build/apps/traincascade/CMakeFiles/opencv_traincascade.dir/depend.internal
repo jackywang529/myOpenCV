@@ -58,14 +58,14 @@ apps/traincascade/CMakeFiles/opencv_traincascade.dir/HOGfeatures.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h
 apps/traincascade/CMakeFiles/opencv_traincascade.dir/boost.cpp.o
  ../include/opencv/cv.h
  ../include/opencv/cxcore.h
@@ -124,14 +124,14 @@ apps/traincascade/CMakeFiles/opencv_traincascade.dir/boost.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/boost.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/boost.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h
 apps/traincascade/CMakeFiles/opencv_traincascade.dir/cascadeclassifier.cpp.o
  ../include/opencv/cv.h
  ../include/opencv/cxcore.h
@@ -189,14 +189,14 @@ apps/traincascade/CMakeFiles/opencv_traincascade.dir/cascadeclassifier.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h
 apps/traincascade/CMakeFiles/opencv_traincascade.dir/features.cpp.o
  ../include/opencv/cv.h
  ../include/opencv/cxcore.h
@@ -254,14 +254,14 @@ apps/traincascade/CMakeFiles/opencv_traincascade.dir/features.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/features.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/features.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h
 apps/traincascade/CMakeFiles/opencv_traincascade.dir/haarfeatures.cpp.o
  ../include/opencv/cv.h
  ../include/opencv/cxcore.h
@@ -319,14 +319,14 @@ apps/traincascade/CMakeFiles/opencv_traincascade.dir/haarfeatures.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h
 apps/traincascade/CMakeFiles/opencv_traincascade.dir/imagestorage.cpp.o
  ../include/opencv/cv.h
  ../include/opencv/highgui.h
@@ -381,8 +381,8 @@ apps/traincascade/CMakeFiles/opencv_traincascade.dir/imagestorage.cpp.o
  ../modules/legacy/include/opencv2/legacy/compat.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
 apps/traincascade/CMakeFiles/opencv_traincascade.dir/lbpfeatures.cpp.o
  ../include/opencv/cv.h
  ../include/opencv/cxcore.h
@@ -440,14 +440,14 @@ apps/traincascade/CMakeFiles/opencv_traincascade.dir/lbpfeatures.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h
 apps/traincascade/CMakeFiles/opencv_traincascade.dir/traincascade.cpp.o
  ../include/opencv/cv.h
  ../include/opencv/cxcore.h
@@ -505,11 +505,11 @@ apps/traincascade/CMakeFiles/opencv_traincascade.dir/traincascade.cpp.o
  ../modules/ml/include/opencv2/ml/ml.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/traincascade.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/HOGfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/boost.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/cascadeclassifier.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/haarfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/imagestorage.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/lbpfeatures.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/traincascade.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/traincascade/traincascade_features.h

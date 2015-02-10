@@ -160,65 +160,65 @@ emmintrin.h
 
 ../modules/dynamicuda/include/opencv2/dynamicuda/dynamicuda.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/algorithm.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/algorithm.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/alloc.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/alloc.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 synchapi.h
 -
 sys/mman.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/arithm.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/arithm.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/array.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/array.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/cmdparser.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/cmdparser.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 iostream
 -
 iomanip
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/convert.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/convert.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/copy.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/copy.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/datastructs.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/datastructs.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/drawing.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/drawing.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/dxt.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/dxt.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/gl_core_3_1.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/gl_core_3_1.cpp
 string
 -
 sstream
 -
 cvconfig.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/cvconfig.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/cvconfig.h
 opencv2/core/core.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/core.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/core.hpp
 gl_core_3_1.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/gl_core_3_1.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/gl_core_3_1.hpp
 dlfcn.h
 -
 dlfcn.h
@@ -228,7 +228,7 @@ stdio.h
 GL/glx.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/gl_core_3_1.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/gl_core_3_1.hpp
 windows.h
 -
 windows.h
@@ -248,9 +248,9 @@ stdint.h
 inttypes.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/glob.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/glob.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 windows.h
 -
 dirent.h
@@ -258,11 +258,11 @@ dirent.h
 sys/stat.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/gpumat.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/gpumat.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 opencv2/core/gpumat.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/gpumat.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/gpumat.hpp
 iostream
 -
 cuda_runtime.h
@@ -280,67 +280,67 @@ dirent.h
 android/log.h
 -
 opencv2/dynamicuda/dynamicuda.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/dynamicuda/dynamicuda.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/dynamicuda/dynamicuda.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/lapack.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/lapack.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/mathfuncs.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/mathfuncs.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/matmul.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/matmul.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 ippversion.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/ippversion.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/ippversion.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/matop.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/matop.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/matrix.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/matrix.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 opencv2/core/gpumat.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/gpumat.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/gpumat.hpp
 opencv2/core/opengl_interop.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/opengl_interop.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/opengl_interop.hpp
 opencv2/core/opengl_interop_deprecated.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/opengl_interop_deprecated.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/opengl_interop_deprecated.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opengl_interop.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opengl_interop.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 opencv2/core/opengl_interop.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/opengl_interop.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/opengl_interop.hpp
 opencv2/core/gpumat.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/gpumat.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/gpumat.hpp
 gl_core_3_1.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/gl_core_3_1.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/gl_core_3_1.hpp
 cuda_runtime.h
 -
 cuda_gl_interop.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opengl_interop_deprecated.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opengl_interop_deprecated.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 opencv2/core/opengl_interop_deprecated.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/opengl_interop_deprecated.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/opengl_interop_deprecated.hpp
 opencv2/core/gpumat.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/gpumat.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/gpumat.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/out.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/out.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 iterator
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/parallel.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/parallel.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 windows.h
 -
 unistd.h
@@ -354,15 +354,15 @@ sys/sysconf.h
 sys/sysctl.h
 -
 tbb/tbb_stddef.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/tbb/tbb_stddef.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/tbb/tbb_stddef.h
 tbb/tbb.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/tbb/tbb.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/tbb/tbb.h
 tbb/task.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/tbb/task.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/tbb/task.h
 tbb/task_arena.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/tbb/task_arena.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/tbb/task_arena.h
 C=.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/C=.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/C=.h
 omp.h
 -
 dispatch/dispatch.h
@@ -372,9 +372,9 @@ pthread.h
 ppl.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/persistence.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/persistence.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 ctype.h
 -
 deque
@@ -384,19 +384,19 @@ iterator
 wchar.h
 -
 TargetConditionals.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/TargetConditionals.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/TargetConditionals.h
 zlib.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 cvconfig.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/cvconfig.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/cvconfig.h
 opencv2/core/core.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/core.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/core.hpp
 opencv2/core/core_c.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/core_c.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/core_c.h
 opencv2/core/internal.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/internal.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/internal.hpp
 assert.h
 -
 ctype.h
@@ -414,25 +414,25 @@ stdlib.h
 string.h
 -
 opencv2/core/core_tegra.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/core_tegra.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/opencv2/core/core_tegra.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/rand.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/rand.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 windows.h
 -
 emmintrin.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/emmintrin.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/emmintrin.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/stat.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/stat.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 climits
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/system.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/system.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 windows.h
 -
 synchapi.h
@@ -456,7 +456,7 @@ mach/mach.h
 mach/mach_time.h
 -
 omp.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/omp.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/omp.h
 stdarg.h
 -
 unistd.h
@@ -472,13 +472,13 @@ sys/sysctl.h
 android/log.h
 -
 version_string.inc
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/version_string.inc
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/version_string.inc
 libkern/OSAtomic.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/tables.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/tables.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/src/precomp.hpp
 
 3rdparty/zlib/zconf.h
 windows.h

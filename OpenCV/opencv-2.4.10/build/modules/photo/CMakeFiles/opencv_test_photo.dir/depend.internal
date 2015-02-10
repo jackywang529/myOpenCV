@@ -21,8 +21,8 @@ modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_denoising.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_denoising.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_denoising.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -43,8 +43,8 @@ modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_inpaint.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_inpaint.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_inpaint.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp
 modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -65,5 +65,5 @@ modules/photo/CMakeFiles/opencv_test_photo.dir/test/test_main.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_main.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_main.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/photo/test/test_precomp.hpp

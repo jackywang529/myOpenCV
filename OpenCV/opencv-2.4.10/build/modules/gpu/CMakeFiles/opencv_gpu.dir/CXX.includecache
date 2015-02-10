@@ -332,191 +332,191 @@ opencv2/video/tracking.hpp
 opencv2/video/background_segm.hpp
 ../modules/video/include/opencv2/video/opencv2/video/background_segm.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/arithm.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/arithm.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/bgfg_gmg.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/bgfg_gmg.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/bgfg_mog.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/bgfg_mog.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/bilateral_filter.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/bilateral_filter.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/blend.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/blend.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/brute_force_matcher.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/brute_force_matcher.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/calib3d.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/calib3d.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cascadeclassifier.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cascadeclassifier.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 vector
 -
 iostream
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/color.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/color.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 cvt_color_internal.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cvt_color_internal.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cvt_color_internal.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.cpp
 cu_safe_call.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cudastream.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cudastream.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 opencv2/gpu/stream_accessor.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/gpu/stream_accessor.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/gpu/stream_accessor.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.cpp
 cuvid_video_source.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.h
 cu_safe_call.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.h
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cvt_color_internal.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cvt_color_internal.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/denoising.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/denoising.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/element_operations.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/element_operations.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/error.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/error.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/fast.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/fast.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.cpp
 ffmpeg_video_source.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.h
 ../src/cap_ffmpeg_impl.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/../src/cap_ffmpeg_impl.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/../src/cap_ffmpeg_impl.hpp
 ../src/cap_ffmpeg_api.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/../src/cap_ffmpeg_api.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/../src/cap_ffmpeg_api.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.h
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 thread_wrappers.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/fgd_bgfg.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/fgd_bgfg.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 fgd_bgfg_common.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/fgd_bgfg_common.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/fgd_bgfg_common.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/filtering.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/filtering.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.cpp
 frame_queue.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 thread_wrappers.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/generalized_hough.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/generalized_hough.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/gftt.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/gftt.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/global_motion.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/global_motion.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/graphcuts.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/graphcuts.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/hog.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/hog.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/hough_circles.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/hough_circles.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/hough_lines.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/hough_lines.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/hough_segments.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/hough_segments.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/imgproc.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/imgproc.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/match_template.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/match_template.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/matrix_operations.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/matrix_operations.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/matrix_reductions.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/matrix_reductions.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/mssegmentation.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/mssegmentation.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
 NCV.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCV.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCV.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
 string
 -
 NCV.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCV.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCV.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
 NCV.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NCV.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NCV.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
 cuda_runtime.h
 -
 sstream
@@ -524,29 +524,29 @@ sstream
 iostream
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/optflowbm.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/optflowbm.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/optical_flow.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/optical_flow.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/optical_flow_farneback.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/optical_flow_farneback.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/orb.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/orb.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 cvconfig.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cvconfig.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cvconfig.h
 cstring
 -
 iostream
@@ -576,17 +576,17 @@ memory
 string
 -
 opencv2/gpu/gpu.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/gpu/gpu.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/gpu/gpu.hpp
 opencv2/imgproc/imgproc.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/imgproc/imgproc.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/imgproc/imgproc.hpp
 opencv2/imgproc/imgproc_c.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/imgproc/imgproc_c.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/imgproc/imgproc_c.h
 opencv2/calib3d/calib3d.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/calib3d/calib3d.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/calib3d/calib3d.hpp
 opencv2/core/internal.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/core/internal.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/core/internal.hpp
 opencv2/video/video.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/video/video.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/video/video.hpp
 windows.h
 -
 cuda.h
@@ -604,57 +604,57 @@ nvcuvid.h
 NVEncoderAPI.h
 -
 internal_shared.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/internal_shared.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/internal_shared.hpp
 opencv2/gpu/stream_accessor.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/gpu/stream_accessor.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/opencv2/gpu/stream_accessor.hpp
 nvidia/core/NCV.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/core/NCV.hpp
 nvidia/NPP_staging/NPP_staging.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NPP_staging/NPP_staging.hpp
 nvidia/NCVHaarObjectDetection.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVHaarObjectDetection.hpp
 nvidia/NCVBroxOpticalFlow.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/nvidia/NCVBroxOpticalFlow.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/pyramids.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/pyramids.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/pyrlk.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/pyrlk.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/remap.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/remap.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/resize.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/resize.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/speckle_filtering.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/speckle_filtering.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/split_merge.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/split_merge.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/stereobm.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/stereobm.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/stereobp.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/stereobp.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/stereocsbp.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/stereocsbp.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.cpp
 thread_wrappers.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
 windows.h
 -
 pthread.h
@@ -662,65 +662,65 @@ pthread.h
 unistd.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/thread_wrappers.h
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/tvl1flow.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/tvl1flow.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.cpp
 video_decoder.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
 frame_queue.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 cu_safe_call.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.cpp
 video_parser.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.h
 cu_safe_call.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.h
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 frame_queue.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
 video_decoder.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_reader.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_reader.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 frame_queue.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/frame_queue.h
 video_decoder.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_decoder.h
 video_parser.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_parser.h
 cuvid_video_source.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cuvid_video_source.h
 ffmpeg_video_source.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/ffmpeg_video_source.h
 cu_safe_call.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/cu_safe_call.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/video_writer.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/video_writer.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 ../src/cap_ffmpeg_api.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/../src/cap_ffmpeg_api.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/../src/cap_ffmpeg_api.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/warp.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/warp.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/gpu/src/precomp.hpp
 
 /opt/local/include/libavcodec/avcodec.h
 errno.h

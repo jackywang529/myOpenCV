@@ -684,31 +684,31 @@ opencv2/core/core.hpp
 opencv2/imgproc/imgproc.hpp
 ../modules/video/include/opencv2/video/opencv2/imgproc/imgproc.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
 opencv2/core/core.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/opencv2/core/core.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/opencv2/core/core.hpp
 opencv2/core/internal.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/opencv2/core/internal.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/opencv2/core/internal.hpp
 cxcore.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cxcore.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cxcore.h
 cv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cv.h
 cxmisc.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cxmisc.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cxmisc.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
 _cvcommon.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
 cvclassifier.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
 cstring
 -
 cstdio
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvboost.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvboost.cpp
 cvconfig.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvconfig.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvconfig.h
 malloc.h
 -
 memory.h
@@ -726,21 +726,21 @@ ctime
 climits
 -
 _cvcommon.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
 cvclassifier.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
 omp.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/omp.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/omp.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvclassifier.h
 cmath
 -
 cxcore.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cxcore.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cxcore.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvcommon.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvcommon.cpp
 _cvcommon.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
 cstring
 -
 ctime
@@ -752,17 +752,17 @@ sys/types.h
 direct.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvhaarclassifier.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvhaarclassifier.cpp
 _cvhaartraining.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.cpp
 cvhaartraining.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.h
 _cvhaartraining.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
 ioutput.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/ioutput.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/ioutput.h
 cstdio
 -
 cstdlib
@@ -774,41 +774,41 @@ climits
 ctype.h
 -
 highgui.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/highgui.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/highgui.h
 ctime
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvsamples.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvsamples.cpp
 cvhaartraining.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvhaartraining.h
 _cvhaartraining.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvhaartraining.h
 cv.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cv.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cv.h
 highgui.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/highgui.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/highgui.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvsamplesoutput.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvsamplesoutput.cpp
 cvsamplesoutput.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvsamplesoutput.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvsamplesoutput.h
 cstdio
 -
 _cvcommon.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
 highgui.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/highgui.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/highgui.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/cvsamplesoutput.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/cvsamplesoutput.h
 ioutput.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/ioutput.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/ioutput.h
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/ioutput.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/ioutput.h
 cstdio
 -
 _cvcommon.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/_cvcommon.h
 
 cvconfig.h
 

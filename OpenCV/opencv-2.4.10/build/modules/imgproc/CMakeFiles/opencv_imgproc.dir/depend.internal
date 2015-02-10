@@ -13,9 +13,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/accum.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/accum.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/accum.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/approx.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -29,9 +29,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/approx.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/approx.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/approx.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/avx/imgwarp_avx.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -45,10 +45,10 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/avx/imgwarp_avx.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/avx/../_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/avx/../precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/avx/imgwarp_avx.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/avx/imgwarp_avx.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/avx/../_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/avx/../precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/avx/imgwarp_avx.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/avx/imgwarp_avx.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/avx2/imgwarp_avx2.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -62,10 +62,10 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/avx2/imgwarp_avx2.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/avx2/../_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/avx2/../precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/avx2/imgwarp_avx2.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/avx2/imgwarp_avx2.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/avx2/../_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/avx2/../precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/avx2/imgwarp_avx2.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/avx2/imgwarp_avx2.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/canny.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -79,9 +79,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/canny.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/canny.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/canny.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/clahe.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -95,9 +95,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/clahe.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/clahe.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/clahe.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/color.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -111,9 +111,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/color.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/color.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/color.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/contours.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -127,9 +127,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/contours.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/contours.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/contours.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/convhull.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -143,9 +143,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/convhull.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/convhull.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/convhull.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/corner.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -159,9 +159,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/corner.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/corner.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/corner.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/cornersubpix.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -175,9 +175,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/cornersubpix.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/cornersubpix.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/cornersubpix.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/deriv.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -191,9 +191,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/deriv.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/deriv.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/deriv.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/distransform.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -207,9 +207,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/distransform.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/distransform.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/distransform.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/emd.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -223,9 +223,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/emd.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/emd.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/emd.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/featureselect.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -239,9 +239,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/featureselect.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/featureselect.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/featureselect.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/filter.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -255,9 +255,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/filter.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/filter.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/filter.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/floodfill.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -271,9 +271,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/floodfill.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/floodfill.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/floodfill.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/gabor.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -287,9 +287,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/gabor.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/gabor.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/gabor.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/generalized_hough.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -303,9 +303,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/generalized_hough.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/generalized_hough.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/generalized_hough.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/geometry.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -319,9 +319,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/geometry.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/geometry.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/geometry.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/grabcut.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -335,10 +335,10 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/grabcut.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/gcgraph.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/grabcut.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/gcgraph.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/grabcut.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/histogram.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -352,9 +352,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/histogram.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/histogram.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/histogram.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/hough.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -368,10 +368,10 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/hough.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_list.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/hough.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_list.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/hough.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/imgwarp.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -385,11 +385,11 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/imgwarp.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/avx/imgwarp_avx.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/avx2/imgwarp_avx2.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/imgwarp.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/avx/imgwarp_avx.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/avx2/imgwarp_avx2.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/imgwarp.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/linefit.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -403,9 +403,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/linefit.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/linefit.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/linefit.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/matchcontours.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -419,9 +419,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/matchcontours.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/matchcontours.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/matchcontours.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/moments.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -435,9 +435,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/moments.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/moments.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/moments.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/morph.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -451,9 +451,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/morph.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/morph.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/morph.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/phasecorr.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -467,9 +467,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/phasecorr.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/phasecorr.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/phasecorr.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/pyramids.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -483,9 +483,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/pyramids.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/pyramids.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/pyramids.cpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/rotcalipers.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -499,9 +499,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/rotcalipers.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/rotcalipers.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/rotcalipers.cpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/samplers.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -515,9 +515,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/samplers.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/samplers.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/samplers.cpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/segmentation.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -531,9 +531,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/segmentation.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/segmentation.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/segmentation.cpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/shapedescr.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -547,9 +547,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/shapedescr.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/shapedescr.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/shapedescr.cpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/smooth.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -563,9 +563,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/smooth.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/smooth.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/smooth.cpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/subdivision2d.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -579,9 +579,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/subdivision2d.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/subdivision2d.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/subdivision2d.cpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/sumpixels.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -595,9 +595,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/sumpixels.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/sumpixels.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/sumpixels.cpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/tables.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -611,9 +611,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/tables.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/tables.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/tables.cpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/templmatch.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -627,9 +627,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/templmatch.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/templmatch.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/templmatch.cpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/thresh.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -643,9 +643,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/thresh.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/thresh.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/thresh.cpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/undistort.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -659,9 +659,9 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/undistort.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/undistort.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/undistort.cpp
  cvconfig.h
 modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/utils.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -675,7 +675,7 @@ modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/utils.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/imgproc/src/utils.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/_geom.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/imgproc/src/utils.cpp
  cvconfig.h

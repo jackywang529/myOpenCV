@@ -344,95 +344,95 @@ opencv2/core/core.hpp
 opencv2/imgproc/imgproc.hpp
 ../modules/video/include/opencv2/video/opencv2/imgproc/imgproc.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/superres/opencl_kernels.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/superres/opencl_kernels.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/superres/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/superres/precomp.hpp
 opencl_kernels.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/superres/opencl_kernels.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/superres/opencl_kernels.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/superres/opencl_kernels.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/superres/opencl_kernels.hpp
 opencv2/ocl/private/util.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/superres/opencv2/ocl/private/util.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/superres/opencv2/ocl/private/util.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/btv_l1.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/btv_l1.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/btv_l1_gpu.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/btv_l1_gpu.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/btv_l1_ocl.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/btv_l1_ocl.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
 opencl_kernels.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencl_kernels.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencl_kernels.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/frame_source.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/frame_source.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
 opencv2/core/core.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/core/core.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/core/core.hpp
 opencv2/core/gpumat.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/core/gpumat.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/core/gpumat.hpp
 opencv2/ocl/ocl.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/ocl/ocl.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/ocl/ocl.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/optical_flow.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/optical_flow.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
 vector
 -
 limits
 -
 cvconfig.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/cvconfig.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/cvconfig.h
 opencv2/opencv_modules.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/opencv_modules.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/opencv_modules.hpp
 opencv2/core/core.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/core/core.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/core/core.hpp
 opencv2/core/gpumat.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/core/gpumat.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/core/gpumat.hpp
 opencv2/core/opengl_interop.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/core/opengl_interop.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/core/opengl_interop.hpp
 opencv2/core/internal.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/core/internal.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/core/internal.hpp
 opencv2/imgproc/imgproc.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/imgproc/imgproc.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/imgproc/imgproc.hpp
 opencv2/video/tracking.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/video/tracking.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/video/tracking.hpp
 opencv2/gpu/gpu.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/gpu/gpu.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/gpu/gpu.hpp
 opencv2/gpu/stream_accessor.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/gpu/stream_accessor.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/gpu/stream_accessor.hpp
 opencv2/ocl/private/util.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/ocl/private/util.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/ocl/private/util.hpp
 opencv2/highgui/highgui.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/highgui/highgui.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/highgui/highgui.hpp
 opencv2/superres/superres.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/superres/superres.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/superres/superres.hpp
 opencv2/superres/optical_flow.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/superres/optical_flow.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/opencv2/superres/optical_flow.hpp
 input_array_utility.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/input_array_utility.hpp
 ring_buffer.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/ring_buffer.hpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/super_resolution.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/super_resolution.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/superres/src/precomp.hpp
 
 cvconfig.h
 

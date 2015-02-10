@@ -21,9 +21,9 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/calibinit.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/calibinit.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/circlesgrid.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/calibinit.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/circlesgrid.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/calibration.cpp.o
@@ -44,8 +44,8 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/calibration.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/calibration.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/calibration.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
  cvconfig.h
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/checkchessboard.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -67,8 +67,8 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/checkchessboard.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/checkchessboard.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/checkchessboard.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/circlesgrid.cpp.o
@@ -91,9 +91,9 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/circlesgrid.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/circlesgrid.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/circlesgrid.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/circlesgrid.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/circlesgrid.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/epnp.cpp.o
@@ -114,9 +114,9 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/epnp.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/epnp.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/epnp.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/epnp.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/epnp.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
  cvconfig.h
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/fisheye.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -136,9 +136,9 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/fisheye.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/fisheye.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/fisheye.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/fisheye.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/fisheye.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
  cvconfig.h
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/fundam.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -158,9 +158,9 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/fundam.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/_modelest.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/fundam.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/_modelest.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/fundam.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
  cvconfig.h
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/modelest.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -180,9 +180,9 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/modelest.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/_modelest.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/modelest.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/_modelest.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/modelest.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
  cvconfig.h
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/p3p.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -202,10 +202,10 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/p3p.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/p3p.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/p3p.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/polynom_solver.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/p3p.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/p3p.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/polynom_solver.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
  cvconfig.h
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/polynom_solver.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -225,9 +225,9 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/polynom_solver.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/polynom_solver.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/polynom_solver.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/polynom_solver.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/polynom_solver.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
  cvconfig.h
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/posit.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -247,8 +247,8 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/posit.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/posit.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/posit.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
  cvconfig.h
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/quadsubpix.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -268,8 +268,8 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/quadsubpix.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/quadsubpix.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/quadsubpix.cpp
  cvconfig.h
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/solvepnp.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -289,10 +289,10 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/solvepnp.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/epnp.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/p3p.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/solvepnp.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/epnp.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/p3p.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/solvepnp.cpp
  cvconfig.h
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/stereobm.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -312,8 +312,8 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/stereobm.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/stereobm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/stereobm.cpp
  cvconfig.h
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/stereosgbm.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -333,8 +333,8 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/stereosgbm.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/stereosgbm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/stereosgbm.cpp
  cvconfig.h
 modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/triangulate.cpp.o
  ../modules/calib3d/include/opencv2/calib3d/calib3d.hpp
@@ -354,6 +354,6 @@ modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/triangulate.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/calib3d/src/triangulate.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/calib3d/src/triangulate.cpp
  cvconfig.h

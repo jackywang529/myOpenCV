@@ -22,8 +22,8 @@ modules/video/CMakeFiles/opencv_perf_video.dir/perf/perf_main.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/perf_main.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/perf_main.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
 modules/video/CMakeFiles/opencv_perf_video.dir/perf/perf_optflowpyrlk.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -45,8 +45,8 @@ modules/video/CMakeFiles/opencv_perf_video.dir/perf/perf_optflowpyrlk.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/perf_optflowpyrlk.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/perf_optflowpyrlk.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
 modules/video/CMakeFiles/opencv_perf_video.dir/perf/perf_tvl1optflow.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -68,5 +68,5 @@ modules/video/CMakeFiles/opencv_perf_video.dir/perf/perf_tvl1optflow.cpp.o
  ../modules/video/include/opencv2/video/background_segm.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
  ../modules/video/include/opencv2/video/video.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/video/perf/perf_tvl1optflow.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/video/perf/perf_tvl1optflow.cpp

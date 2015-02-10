@@ -14,9 +14,9 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/bitstrm.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -31,8 +31,8 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/cap.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/cap.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_ffmpeg.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -47,11 +47,11 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_ffmpeg.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/cap_ffmpeg.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/cap_ffmpeg_api.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/cap_ffmpeg_impl.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/ffmpeg_codecs.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/cap_ffmpeg.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/cap_ffmpeg_api.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/cap_ffmpeg_impl.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/ffmpeg_codecs.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
  /opt/local/include/libavcodec/avcodec.h
  /opt/local/include/libavcodec/old_codec_ids.h
  /opt/local/include/libavcodec/version.h
@@ -93,8 +93,8 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_images.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/cap_images.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/cap_images.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_qtkit.mm.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -110,8 +110,8 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/cap_qtkit.mm.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc.hpp
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/cap_qtkit.mm
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/cap_qtkit.mm
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_base.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -126,11 +126,11 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_base.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_bmp.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -145,12 +145,12 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_bmp.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_bmp.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_bmp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_bmp.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_bmp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_exr.cpp.o
  ../3rdparty/openexr/Half/half.h
@@ -225,12 +225,12 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_exr.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_exr.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_exr.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_exr.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_exr.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_imageio.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -245,12 +245,12 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_imageio.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_imageio.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_imageio.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_imageio.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_imageio.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg.cpp.o
  ../3rdparty/libjpeg/jconfig.h
@@ -270,12 +270,12 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_jpeg.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_jpeg.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_jpeg.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_jpeg.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg2000.cpp.o
  ../3rdparty/libjasper/jasper/jas_cm.h
@@ -309,12 +309,12 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_jpeg2000.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_jpeg2000.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_jpeg2000.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_jpeg2000.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_jpeg2000.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_png.cpp.o
  ../3rdparty/libpng/png.h
@@ -333,12 +333,12 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_png.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_png.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_png.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_png.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_png.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
  3rdparty/zlib/zconf.h
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_pxm.cpp.o
@@ -354,12 +354,12 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_pxm.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_pxm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_pxm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_pxm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_pxm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_sunras.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -374,12 +374,12 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_sunras.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_sunras.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_sunras.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_sunras.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_sunras.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_tiff.cpp.o
  ../3rdparty/libtiff/tiff.h
@@ -397,12 +397,12 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/grfmt_tiff.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_tiff.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_tiff.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_tiff.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_tiff.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
  3rdparty/libtiff/tif_config.h
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/loadsave.cpp.o
@@ -442,21 +442,21 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/loadsave.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_bmp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_exr.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_imageio.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_jpeg.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_jpeg2000.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_png.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_pxm.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_sunras.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_tiff.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/grfmts.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/loadsave.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/bitstrm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_base.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_bmp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_exr.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_imageio.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_jpeg.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_jpeg2000.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_png.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_pxm.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_sunras.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmt_tiff.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/grfmts.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/loadsave.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/utils.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -471,9 +471,9 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/utils.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/utils.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/utils.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/utils.hpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/window.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -490,8 +490,8 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/window.cpp.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/window.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/window.cpp
  cvconfig.h
 modules/highgui/CMakeFiles/opencv_highgui.dir/src/window_cocoa.mm.o
  ../modules/core/include/opencv2/core/core.hpp
@@ -506,6 +506,6 @@ modules/highgui/CMakeFiles/opencv_highgui.dir/src/window_cocoa.mm.o
  ../modules/highgui/include/opencv2/highgui/highgui_c.h
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/highgui/src/window_cocoa.mm
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/highgui/src/window_cocoa.mm
  cvconfig.h

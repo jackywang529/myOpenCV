@@ -42,10 +42,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "/Applications/CMake 2.8-11.app/Contents/bin/ccmake"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10
+CMAKE_SOURCE_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build
+CMAKE_BINARY_DIR = /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -104,7 +104,7 @@ list_install_components/fast: list_install_components
 # Special rule for the target package
 package: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool..."
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackConfig.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackConfig.cmake
 .PHONY : package
 
 # Special rule for the target package
@@ -114,7 +114,7 @@ package/fast: package
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool for source..."
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackSourceConfig.cmake /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CPackSourceConfig.cmake
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && "/Applications/CMake 2.8-11.app/Contents/bin/cpack" --config ./CPackSourceConfig.cmake /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -133,14 +133,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/3rdparty/libtiff/CMakeFiles/progress.marks
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libtiff/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/CMakeFiles 0
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/3rdparty/libtiff/CMakeFiles/progress.marks
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libtiff/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libtiff/clean
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libtiff/clean
 .PHONY : clean
 
 # The main clean target
@@ -149,22 +149,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libtiff/preinstall
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libtiff/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libtiff/preinstall
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libtiff/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 3rdparty/libtiff/CMakeFiles/libtiff.dir/rule:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libtiff/CMakeFiles/libtiff.dir/rule
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f CMakeFiles/Makefile2 3rdparty/libtiff/CMakeFiles/libtiff.dir/rule
 .PHONY : 3rdparty/libtiff/CMakeFiles/libtiff.dir/rule
 
 # Convenience name for target.
@@ -173,7 +173,7 @@ libtiff: 3rdparty/libtiff/CMakeFiles/libtiff.dir/rule
 
 # fast build rule for target.
 libtiff/fast:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/build
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/build
 .PHONY : libtiff/fast
 
 tif_aux.o: tif_aux.c.o
@@ -181,7 +181,7 @@ tif_aux.o: tif_aux.c.o
 
 # target to build an object file
 tif_aux.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_aux.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_aux.c.o
 .PHONY : tif_aux.c.o
 
 tif_aux.i: tif_aux.c.i
@@ -189,7 +189,7 @@ tif_aux.i: tif_aux.c.i
 
 # target to preprocess a source file
 tif_aux.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_aux.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_aux.c.i
 .PHONY : tif_aux.c.i
 
 tif_aux.s: tif_aux.c.s
@@ -197,7 +197,7 @@ tif_aux.s: tif_aux.c.s
 
 # target to generate assembly for a file
 tif_aux.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_aux.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_aux.c.s
 .PHONY : tif_aux.c.s
 
 tif_close.o: tif_close.c.o
@@ -205,7 +205,7 @@ tif_close.o: tif_close.c.o
 
 # target to build an object file
 tif_close.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_close.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_close.c.o
 .PHONY : tif_close.c.o
 
 tif_close.i: tif_close.c.i
@@ -213,7 +213,7 @@ tif_close.i: tif_close.c.i
 
 # target to preprocess a source file
 tif_close.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_close.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_close.c.i
 .PHONY : tif_close.c.i
 
 tif_close.s: tif_close.c.s
@@ -221,7 +221,7 @@ tif_close.s: tif_close.c.s
 
 # target to generate assembly for a file
 tif_close.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_close.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_close.c.s
 .PHONY : tif_close.c.s
 
 tif_codec.o: tif_codec.c.o
@@ -229,7 +229,7 @@ tif_codec.o: tif_codec.c.o
 
 # target to build an object file
 tif_codec.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_codec.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_codec.c.o
 .PHONY : tif_codec.c.o
 
 tif_codec.i: tif_codec.c.i
@@ -237,7 +237,7 @@ tif_codec.i: tif_codec.c.i
 
 # target to preprocess a source file
 tif_codec.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_codec.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_codec.c.i
 .PHONY : tif_codec.c.i
 
 tif_codec.s: tif_codec.c.s
@@ -245,7 +245,7 @@ tif_codec.s: tif_codec.c.s
 
 # target to generate assembly for a file
 tif_codec.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_codec.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_codec.c.s
 .PHONY : tif_codec.c.s
 
 tif_color.o: tif_color.c.o
@@ -253,7 +253,7 @@ tif_color.o: tif_color.c.o
 
 # target to build an object file
 tif_color.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_color.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_color.c.o
 .PHONY : tif_color.c.o
 
 tif_color.i: tif_color.c.i
@@ -261,7 +261,7 @@ tif_color.i: tif_color.c.i
 
 # target to preprocess a source file
 tif_color.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_color.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_color.c.i
 .PHONY : tif_color.c.i
 
 tif_color.s: tif_color.c.s
@@ -269,7 +269,7 @@ tif_color.s: tif_color.c.s
 
 # target to generate assembly for a file
 tif_color.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_color.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_color.c.s
 .PHONY : tif_color.c.s
 
 tif_compress.o: tif_compress.c.o
@@ -277,7 +277,7 @@ tif_compress.o: tif_compress.c.o
 
 # target to build an object file
 tif_compress.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_compress.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_compress.c.o
 .PHONY : tif_compress.c.o
 
 tif_compress.i: tif_compress.c.i
@@ -285,7 +285,7 @@ tif_compress.i: tif_compress.c.i
 
 # target to preprocess a source file
 tif_compress.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_compress.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_compress.c.i
 .PHONY : tif_compress.c.i
 
 tif_compress.s: tif_compress.c.s
@@ -293,7 +293,7 @@ tif_compress.s: tif_compress.c.s
 
 # target to generate assembly for a file
 tif_compress.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_compress.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_compress.c.s
 .PHONY : tif_compress.c.s
 
 tif_dir.o: tif_dir.c.o
@@ -301,7 +301,7 @@ tif_dir.o: tif_dir.c.o
 
 # target to build an object file
 tif_dir.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dir.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dir.c.o
 .PHONY : tif_dir.c.o
 
 tif_dir.i: tif_dir.c.i
@@ -309,7 +309,7 @@ tif_dir.i: tif_dir.c.i
 
 # target to preprocess a source file
 tif_dir.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dir.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dir.c.i
 .PHONY : tif_dir.c.i
 
 tif_dir.s: tif_dir.c.s
@@ -317,7 +317,7 @@ tif_dir.s: tif_dir.c.s
 
 # target to generate assembly for a file
 tif_dir.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dir.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dir.c.s
 .PHONY : tif_dir.c.s
 
 tif_dirinfo.o: tif_dirinfo.c.o
@@ -325,7 +325,7 @@ tif_dirinfo.o: tif_dirinfo.c.o
 
 # target to build an object file
 tif_dirinfo.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirinfo.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirinfo.c.o
 .PHONY : tif_dirinfo.c.o
 
 tif_dirinfo.i: tif_dirinfo.c.i
@@ -333,7 +333,7 @@ tif_dirinfo.i: tif_dirinfo.c.i
 
 # target to preprocess a source file
 tif_dirinfo.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirinfo.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirinfo.c.i
 .PHONY : tif_dirinfo.c.i
 
 tif_dirinfo.s: tif_dirinfo.c.s
@@ -341,7 +341,7 @@ tif_dirinfo.s: tif_dirinfo.c.s
 
 # target to generate assembly for a file
 tif_dirinfo.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirinfo.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirinfo.c.s
 .PHONY : tif_dirinfo.c.s
 
 tif_dirread.o: tif_dirread.c.o
@@ -349,7 +349,7 @@ tif_dirread.o: tif_dirread.c.o
 
 # target to build an object file
 tif_dirread.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirread.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirread.c.o
 .PHONY : tif_dirread.c.o
 
 tif_dirread.i: tif_dirread.c.i
@@ -357,7 +357,7 @@ tif_dirread.i: tif_dirread.c.i
 
 # target to preprocess a source file
 tif_dirread.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirread.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirread.c.i
 .PHONY : tif_dirread.c.i
 
 tif_dirread.s: tif_dirread.c.s
@@ -365,7 +365,7 @@ tif_dirread.s: tif_dirread.c.s
 
 # target to generate assembly for a file
 tif_dirread.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirread.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirread.c.s
 .PHONY : tif_dirread.c.s
 
 tif_dirwrite.o: tif_dirwrite.c.o
@@ -373,7 +373,7 @@ tif_dirwrite.o: tif_dirwrite.c.o
 
 # target to build an object file
 tif_dirwrite.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirwrite.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirwrite.c.o
 .PHONY : tif_dirwrite.c.o
 
 tif_dirwrite.i: tif_dirwrite.c.i
@@ -381,7 +381,7 @@ tif_dirwrite.i: tif_dirwrite.c.i
 
 # target to preprocess a source file
 tif_dirwrite.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirwrite.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirwrite.c.i
 .PHONY : tif_dirwrite.c.i
 
 tif_dirwrite.s: tif_dirwrite.c.s
@@ -389,7 +389,7 @@ tif_dirwrite.s: tif_dirwrite.c.s
 
 # target to generate assembly for a file
 tif_dirwrite.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirwrite.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirwrite.c.s
 .PHONY : tif_dirwrite.c.s
 
 tif_dumpmode.o: tif_dumpmode.c.o
@@ -397,7 +397,7 @@ tif_dumpmode.o: tif_dumpmode.c.o
 
 # target to build an object file
 tif_dumpmode.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dumpmode.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dumpmode.c.o
 .PHONY : tif_dumpmode.c.o
 
 tif_dumpmode.i: tif_dumpmode.c.i
@@ -405,7 +405,7 @@ tif_dumpmode.i: tif_dumpmode.c.i
 
 # target to preprocess a source file
 tif_dumpmode.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dumpmode.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dumpmode.c.i
 .PHONY : tif_dumpmode.c.i
 
 tif_dumpmode.s: tif_dumpmode.c.s
@@ -413,7 +413,7 @@ tif_dumpmode.s: tif_dumpmode.c.s
 
 # target to generate assembly for a file
 tif_dumpmode.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dumpmode.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dumpmode.c.s
 .PHONY : tif_dumpmode.c.s
 
 tif_error.o: tif_error.c.o
@@ -421,7 +421,7 @@ tif_error.o: tif_error.c.o
 
 # target to build an object file
 tif_error.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_error.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_error.c.o
 .PHONY : tif_error.c.o
 
 tif_error.i: tif_error.c.i
@@ -429,7 +429,7 @@ tif_error.i: tif_error.c.i
 
 # target to preprocess a source file
 tif_error.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_error.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_error.c.i
 .PHONY : tif_error.c.i
 
 tif_error.s: tif_error.c.s
@@ -437,7 +437,7 @@ tif_error.s: tif_error.c.s
 
 # target to generate assembly for a file
 tif_error.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_error.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_error.c.s
 .PHONY : tif_error.c.s
 
 tif_extension.o: tif_extension.c.o
@@ -445,7 +445,7 @@ tif_extension.o: tif_extension.c.o
 
 # target to build an object file
 tif_extension.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_extension.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_extension.c.o
 .PHONY : tif_extension.c.o
 
 tif_extension.i: tif_extension.c.i
@@ -453,7 +453,7 @@ tif_extension.i: tif_extension.c.i
 
 # target to preprocess a source file
 tif_extension.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_extension.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_extension.c.i
 .PHONY : tif_extension.c.i
 
 tif_extension.s: tif_extension.c.s
@@ -461,7 +461,7 @@ tif_extension.s: tif_extension.c.s
 
 # target to generate assembly for a file
 tif_extension.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_extension.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_extension.c.s
 .PHONY : tif_extension.c.s
 
 tif_fax3.o: tif_fax3.c.o
@@ -469,7 +469,7 @@ tif_fax3.o: tif_fax3.c.o
 
 # target to build an object file
 tif_fax3.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3.c.o
 .PHONY : tif_fax3.c.o
 
 tif_fax3.i: tif_fax3.c.i
@@ -477,7 +477,7 @@ tif_fax3.i: tif_fax3.c.i
 
 # target to preprocess a source file
 tif_fax3.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3.c.i
 .PHONY : tif_fax3.c.i
 
 tif_fax3.s: tif_fax3.c.s
@@ -485,7 +485,7 @@ tif_fax3.s: tif_fax3.c.s
 
 # target to generate assembly for a file
 tif_fax3.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3.c.s
 .PHONY : tif_fax3.c.s
 
 tif_fax3sm.o: tif_fax3sm.c.o
@@ -493,7 +493,7 @@ tif_fax3sm.o: tif_fax3sm.c.o
 
 # target to build an object file
 tif_fax3sm.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3sm.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3sm.c.o
 .PHONY : tif_fax3sm.c.o
 
 tif_fax3sm.i: tif_fax3sm.c.i
@@ -501,7 +501,7 @@ tif_fax3sm.i: tif_fax3sm.c.i
 
 # target to preprocess a source file
 tif_fax3sm.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3sm.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3sm.c.i
 .PHONY : tif_fax3sm.c.i
 
 tif_fax3sm.s: tif_fax3sm.c.s
@@ -509,7 +509,7 @@ tif_fax3sm.s: tif_fax3sm.c.s
 
 # target to generate assembly for a file
 tif_fax3sm.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3sm.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3sm.c.s
 .PHONY : tif_fax3sm.c.s
 
 tif_flush.o: tif_flush.c.o
@@ -517,7 +517,7 @@ tif_flush.o: tif_flush.c.o
 
 # target to build an object file
 tif_flush.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_flush.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_flush.c.o
 .PHONY : tif_flush.c.o
 
 tif_flush.i: tif_flush.c.i
@@ -525,7 +525,7 @@ tif_flush.i: tif_flush.c.i
 
 # target to preprocess a source file
 tif_flush.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_flush.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_flush.c.i
 .PHONY : tif_flush.c.i
 
 tif_flush.s: tif_flush.c.s
@@ -533,7 +533,7 @@ tif_flush.s: tif_flush.c.s
 
 # target to generate assembly for a file
 tif_flush.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_flush.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_flush.c.s
 .PHONY : tif_flush.c.s
 
 tif_getimage.o: tif_getimage.c.o
@@ -541,7 +541,7 @@ tif_getimage.o: tif_getimage.c.o
 
 # target to build an object file
 tif_getimage.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_getimage.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_getimage.c.o
 .PHONY : tif_getimage.c.o
 
 tif_getimage.i: tif_getimage.c.i
@@ -549,7 +549,7 @@ tif_getimage.i: tif_getimage.c.i
 
 # target to preprocess a source file
 tif_getimage.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_getimage.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_getimage.c.i
 .PHONY : tif_getimage.c.i
 
 tif_getimage.s: tif_getimage.c.s
@@ -557,7 +557,7 @@ tif_getimage.s: tif_getimage.c.s
 
 # target to generate assembly for a file
 tif_getimage.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_getimage.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_getimage.c.s
 .PHONY : tif_getimage.c.s
 
 tif_jbig.o: tif_jbig.c.o
@@ -565,7 +565,7 @@ tif_jbig.o: tif_jbig.c.o
 
 # target to build an object file
 tif_jbig.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jbig.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jbig.c.o
 .PHONY : tif_jbig.c.o
 
 tif_jbig.i: tif_jbig.c.i
@@ -573,7 +573,7 @@ tif_jbig.i: tif_jbig.c.i
 
 # target to preprocess a source file
 tif_jbig.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jbig.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jbig.c.i
 .PHONY : tif_jbig.c.i
 
 tif_jbig.s: tif_jbig.c.s
@@ -581,7 +581,7 @@ tif_jbig.s: tif_jbig.c.s
 
 # target to generate assembly for a file
 tif_jbig.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jbig.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jbig.c.s
 .PHONY : tif_jbig.c.s
 
 tif_jpeg.o: tif_jpeg.c.o
@@ -589,7 +589,7 @@ tif_jpeg.o: tif_jpeg.c.o
 
 # target to build an object file
 tif_jpeg.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg.c.o
 .PHONY : tif_jpeg.c.o
 
 tif_jpeg.i: tif_jpeg.c.i
@@ -597,7 +597,7 @@ tif_jpeg.i: tif_jpeg.c.i
 
 # target to preprocess a source file
 tif_jpeg.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg.c.i
 .PHONY : tif_jpeg.c.i
 
 tif_jpeg.s: tif_jpeg.c.s
@@ -605,7 +605,7 @@ tif_jpeg.s: tif_jpeg.c.s
 
 # target to generate assembly for a file
 tif_jpeg.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg.c.s
 .PHONY : tif_jpeg.c.s
 
 tif_jpeg_12.o: tif_jpeg_12.c.o
@@ -613,7 +613,7 @@ tif_jpeg_12.o: tif_jpeg_12.c.o
 
 # target to build an object file
 tif_jpeg_12.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg_12.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg_12.c.o
 .PHONY : tif_jpeg_12.c.o
 
 tif_jpeg_12.i: tif_jpeg_12.c.i
@@ -621,7 +621,7 @@ tif_jpeg_12.i: tif_jpeg_12.c.i
 
 # target to preprocess a source file
 tif_jpeg_12.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg_12.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg_12.c.i
 .PHONY : tif_jpeg_12.c.i
 
 tif_jpeg_12.s: tif_jpeg_12.c.s
@@ -629,7 +629,7 @@ tif_jpeg_12.s: tif_jpeg_12.c.s
 
 # target to generate assembly for a file
 tif_jpeg_12.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg_12.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg_12.c.s
 .PHONY : tif_jpeg_12.c.s
 
 tif_luv.o: tif_luv.c.o
@@ -637,7 +637,7 @@ tif_luv.o: tif_luv.c.o
 
 # target to build an object file
 tif_luv.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_luv.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_luv.c.o
 .PHONY : tif_luv.c.o
 
 tif_luv.i: tif_luv.c.i
@@ -645,7 +645,7 @@ tif_luv.i: tif_luv.c.i
 
 # target to preprocess a source file
 tif_luv.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_luv.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_luv.c.i
 .PHONY : tif_luv.c.i
 
 tif_luv.s: tif_luv.c.s
@@ -653,7 +653,7 @@ tif_luv.s: tif_luv.c.s
 
 # target to generate assembly for a file
 tif_luv.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_luv.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_luv.c.s
 .PHONY : tif_luv.c.s
 
 tif_lzma.o: tif_lzma.c.o
@@ -661,7 +661,7 @@ tif_lzma.o: tif_lzma.c.o
 
 # target to build an object file
 tif_lzma.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzma.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzma.c.o
 .PHONY : tif_lzma.c.o
 
 tif_lzma.i: tif_lzma.c.i
@@ -669,7 +669,7 @@ tif_lzma.i: tif_lzma.c.i
 
 # target to preprocess a source file
 tif_lzma.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzma.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzma.c.i
 .PHONY : tif_lzma.c.i
 
 tif_lzma.s: tif_lzma.c.s
@@ -677,7 +677,7 @@ tif_lzma.s: tif_lzma.c.s
 
 # target to generate assembly for a file
 tif_lzma.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzma.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzma.c.s
 .PHONY : tif_lzma.c.s
 
 tif_lzw.o: tif_lzw.c.o
@@ -685,7 +685,7 @@ tif_lzw.o: tif_lzw.c.o
 
 # target to build an object file
 tif_lzw.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzw.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzw.c.o
 .PHONY : tif_lzw.c.o
 
 tif_lzw.i: tif_lzw.c.i
@@ -693,7 +693,7 @@ tif_lzw.i: tif_lzw.c.i
 
 # target to preprocess a source file
 tif_lzw.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzw.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzw.c.i
 .PHONY : tif_lzw.c.i
 
 tif_lzw.s: tif_lzw.c.s
@@ -701,7 +701,7 @@ tif_lzw.s: tif_lzw.c.s
 
 # target to generate assembly for a file
 tif_lzw.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzw.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzw.c.s
 .PHONY : tif_lzw.c.s
 
 tif_next.o: tif_next.c.o
@@ -709,7 +709,7 @@ tif_next.o: tif_next.c.o
 
 # target to build an object file
 tif_next.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_next.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_next.c.o
 .PHONY : tif_next.c.o
 
 tif_next.i: tif_next.c.i
@@ -717,7 +717,7 @@ tif_next.i: tif_next.c.i
 
 # target to preprocess a source file
 tif_next.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_next.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_next.c.i
 .PHONY : tif_next.c.i
 
 tif_next.s: tif_next.c.s
@@ -725,7 +725,7 @@ tif_next.s: tif_next.c.s
 
 # target to generate assembly for a file
 tif_next.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_next.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_next.c.s
 .PHONY : tif_next.c.s
 
 tif_ojpeg.o: tif_ojpeg.c.o
@@ -733,7 +733,7 @@ tif_ojpeg.o: tif_ojpeg.c.o
 
 # target to build an object file
 tif_ojpeg.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_ojpeg.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_ojpeg.c.o
 .PHONY : tif_ojpeg.c.o
 
 tif_ojpeg.i: tif_ojpeg.c.i
@@ -741,7 +741,7 @@ tif_ojpeg.i: tif_ojpeg.c.i
 
 # target to preprocess a source file
 tif_ojpeg.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_ojpeg.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_ojpeg.c.i
 .PHONY : tif_ojpeg.c.i
 
 tif_ojpeg.s: tif_ojpeg.c.s
@@ -749,7 +749,7 @@ tif_ojpeg.s: tif_ojpeg.c.s
 
 # target to generate assembly for a file
 tif_ojpeg.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_ojpeg.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_ojpeg.c.s
 .PHONY : tif_ojpeg.c.s
 
 tif_open.o: tif_open.c.o
@@ -757,7 +757,7 @@ tif_open.o: tif_open.c.o
 
 # target to build an object file
 tif_open.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_open.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_open.c.o
 .PHONY : tif_open.c.o
 
 tif_open.i: tif_open.c.i
@@ -765,7 +765,7 @@ tif_open.i: tif_open.c.i
 
 # target to preprocess a source file
 tif_open.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_open.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_open.c.i
 .PHONY : tif_open.c.i
 
 tif_open.s: tif_open.c.s
@@ -773,7 +773,7 @@ tif_open.s: tif_open.c.s
 
 # target to generate assembly for a file
 tif_open.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_open.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_open.c.s
 .PHONY : tif_open.c.s
 
 tif_packbits.o: tif_packbits.c.o
@@ -781,7 +781,7 @@ tif_packbits.o: tif_packbits.c.o
 
 # target to build an object file
 tif_packbits.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_packbits.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_packbits.c.o
 .PHONY : tif_packbits.c.o
 
 tif_packbits.i: tif_packbits.c.i
@@ -789,7 +789,7 @@ tif_packbits.i: tif_packbits.c.i
 
 # target to preprocess a source file
 tif_packbits.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_packbits.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_packbits.c.i
 .PHONY : tif_packbits.c.i
 
 tif_packbits.s: tif_packbits.c.s
@@ -797,7 +797,7 @@ tif_packbits.s: tif_packbits.c.s
 
 # target to generate assembly for a file
 tif_packbits.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_packbits.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_packbits.c.s
 .PHONY : tif_packbits.c.s
 
 tif_pixarlog.o: tif_pixarlog.c.o
@@ -805,7 +805,7 @@ tif_pixarlog.o: tif_pixarlog.c.o
 
 # target to build an object file
 tif_pixarlog.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_pixarlog.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_pixarlog.c.o
 .PHONY : tif_pixarlog.c.o
 
 tif_pixarlog.i: tif_pixarlog.c.i
@@ -813,7 +813,7 @@ tif_pixarlog.i: tif_pixarlog.c.i
 
 # target to preprocess a source file
 tif_pixarlog.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_pixarlog.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_pixarlog.c.i
 .PHONY : tif_pixarlog.c.i
 
 tif_pixarlog.s: tif_pixarlog.c.s
@@ -821,7 +821,7 @@ tif_pixarlog.s: tif_pixarlog.c.s
 
 # target to generate assembly for a file
 tif_pixarlog.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_pixarlog.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_pixarlog.c.s
 .PHONY : tif_pixarlog.c.s
 
 tif_predict.o: tif_predict.c.o
@@ -829,7 +829,7 @@ tif_predict.o: tif_predict.c.o
 
 # target to build an object file
 tif_predict.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_predict.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_predict.c.o
 .PHONY : tif_predict.c.o
 
 tif_predict.i: tif_predict.c.i
@@ -837,7 +837,7 @@ tif_predict.i: tif_predict.c.i
 
 # target to preprocess a source file
 tif_predict.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_predict.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_predict.c.i
 .PHONY : tif_predict.c.i
 
 tif_predict.s: tif_predict.c.s
@@ -845,7 +845,7 @@ tif_predict.s: tif_predict.c.s
 
 # target to generate assembly for a file
 tif_predict.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_predict.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_predict.c.s
 .PHONY : tif_predict.c.s
 
 tif_print.o: tif_print.c.o
@@ -853,7 +853,7 @@ tif_print.o: tif_print.c.o
 
 # target to build an object file
 tif_print.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_print.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_print.c.o
 .PHONY : tif_print.c.o
 
 tif_print.i: tif_print.c.i
@@ -861,7 +861,7 @@ tif_print.i: tif_print.c.i
 
 # target to preprocess a source file
 tif_print.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_print.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_print.c.i
 .PHONY : tif_print.c.i
 
 tif_print.s: tif_print.c.s
@@ -869,7 +869,7 @@ tif_print.s: tif_print.c.s
 
 # target to generate assembly for a file
 tif_print.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_print.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_print.c.s
 .PHONY : tif_print.c.s
 
 tif_read.o: tif_read.c.o
@@ -877,7 +877,7 @@ tif_read.o: tif_read.c.o
 
 # target to build an object file
 tif_read.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_read.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_read.c.o
 .PHONY : tif_read.c.o
 
 tif_read.i: tif_read.c.i
@@ -885,7 +885,7 @@ tif_read.i: tif_read.c.i
 
 # target to preprocess a source file
 tif_read.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_read.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_read.c.i
 .PHONY : tif_read.c.i
 
 tif_read.s: tif_read.c.s
@@ -893,7 +893,7 @@ tif_read.s: tif_read.c.s
 
 # target to generate assembly for a file
 tif_read.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_read.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_read.c.s
 .PHONY : tif_read.c.s
 
 tif_stream.o: tif_stream.cxx.o
@@ -901,7 +901,7 @@ tif_stream.o: tif_stream.cxx.o
 
 # target to build an object file
 tif_stream.cxx.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_stream.cxx.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_stream.cxx.o
 .PHONY : tif_stream.cxx.o
 
 tif_stream.i: tif_stream.cxx.i
@@ -909,7 +909,7 @@ tif_stream.i: tif_stream.cxx.i
 
 # target to preprocess a source file
 tif_stream.cxx.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_stream.cxx.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_stream.cxx.i
 .PHONY : tif_stream.cxx.i
 
 tif_stream.s: tif_stream.cxx.s
@@ -917,7 +917,7 @@ tif_stream.s: tif_stream.cxx.s
 
 # target to generate assembly for a file
 tif_stream.cxx.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_stream.cxx.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_stream.cxx.s
 .PHONY : tif_stream.cxx.s
 
 tif_strip.o: tif_strip.c.o
@@ -925,7 +925,7 @@ tif_strip.o: tif_strip.c.o
 
 # target to build an object file
 tif_strip.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_strip.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_strip.c.o
 .PHONY : tif_strip.c.o
 
 tif_strip.i: tif_strip.c.i
@@ -933,7 +933,7 @@ tif_strip.i: tif_strip.c.i
 
 # target to preprocess a source file
 tif_strip.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_strip.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_strip.c.i
 .PHONY : tif_strip.c.i
 
 tif_strip.s: tif_strip.c.s
@@ -941,7 +941,7 @@ tif_strip.s: tif_strip.c.s
 
 # target to generate assembly for a file
 tif_strip.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_strip.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_strip.c.s
 .PHONY : tif_strip.c.s
 
 tif_swab.o: tif_swab.c.o
@@ -949,7 +949,7 @@ tif_swab.o: tif_swab.c.o
 
 # target to build an object file
 tif_swab.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_swab.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_swab.c.o
 .PHONY : tif_swab.c.o
 
 tif_swab.i: tif_swab.c.i
@@ -957,7 +957,7 @@ tif_swab.i: tif_swab.c.i
 
 # target to preprocess a source file
 tif_swab.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_swab.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_swab.c.i
 .PHONY : tif_swab.c.i
 
 tif_swab.s: tif_swab.c.s
@@ -965,7 +965,7 @@ tif_swab.s: tif_swab.c.s
 
 # target to generate assembly for a file
 tif_swab.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_swab.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_swab.c.s
 .PHONY : tif_swab.c.s
 
 tif_thunder.o: tif_thunder.c.o
@@ -973,7 +973,7 @@ tif_thunder.o: tif_thunder.c.o
 
 # target to build an object file
 tif_thunder.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_thunder.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_thunder.c.o
 .PHONY : tif_thunder.c.o
 
 tif_thunder.i: tif_thunder.c.i
@@ -981,7 +981,7 @@ tif_thunder.i: tif_thunder.c.i
 
 # target to preprocess a source file
 tif_thunder.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_thunder.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_thunder.c.i
 .PHONY : tif_thunder.c.i
 
 tif_thunder.s: tif_thunder.c.s
@@ -989,7 +989,7 @@ tif_thunder.s: tif_thunder.c.s
 
 # target to generate assembly for a file
 tif_thunder.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_thunder.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_thunder.c.s
 .PHONY : tif_thunder.c.s
 
 tif_tile.o: tif_tile.c.o
@@ -997,7 +997,7 @@ tif_tile.o: tif_tile.c.o
 
 # target to build an object file
 tif_tile.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_tile.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_tile.c.o
 .PHONY : tif_tile.c.o
 
 tif_tile.i: tif_tile.c.i
@@ -1005,7 +1005,7 @@ tif_tile.i: tif_tile.c.i
 
 # target to preprocess a source file
 tif_tile.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_tile.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_tile.c.i
 .PHONY : tif_tile.c.i
 
 tif_tile.s: tif_tile.c.s
@@ -1013,7 +1013,7 @@ tif_tile.s: tif_tile.c.s
 
 # target to generate assembly for a file
 tif_tile.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_tile.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_tile.c.s
 .PHONY : tif_tile.c.s
 
 tif_unix.o: tif_unix.c.o
@@ -1021,7 +1021,7 @@ tif_unix.o: tif_unix.c.o
 
 # target to build an object file
 tif_unix.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_unix.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_unix.c.o
 .PHONY : tif_unix.c.o
 
 tif_unix.i: tif_unix.c.i
@@ -1029,7 +1029,7 @@ tif_unix.i: tif_unix.c.i
 
 # target to preprocess a source file
 tif_unix.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_unix.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_unix.c.i
 .PHONY : tif_unix.c.i
 
 tif_unix.s: tif_unix.c.s
@@ -1037,7 +1037,7 @@ tif_unix.s: tif_unix.c.s
 
 # target to generate assembly for a file
 tif_unix.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_unix.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_unix.c.s
 .PHONY : tif_unix.c.s
 
 tif_version.o: tif_version.c.o
@@ -1045,7 +1045,7 @@ tif_version.o: tif_version.c.o
 
 # target to build an object file
 tif_version.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_version.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_version.c.o
 .PHONY : tif_version.c.o
 
 tif_version.i: tif_version.c.i
@@ -1053,7 +1053,7 @@ tif_version.i: tif_version.c.i
 
 # target to preprocess a source file
 tif_version.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_version.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_version.c.i
 .PHONY : tif_version.c.i
 
 tif_version.s: tif_version.c.s
@@ -1061,7 +1061,7 @@ tif_version.s: tif_version.c.s
 
 # target to generate assembly for a file
 tif_version.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_version.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_version.c.s
 .PHONY : tif_version.c.s
 
 tif_warning.o: tif_warning.c.o
@@ -1069,7 +1069,7 @@ tif_warning.o: tif_warning.c.o
 
 # target to build an object file
 tif_warning.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_warning.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_warning.c.o
 .PHONY : tif_warning.c.o
 
 tif_warning.i: tif_warning.c.i
@@ -1077,7 +1077,7 @@ tif_warning.i: tif_warning.c.i
 
 # target to preprocess a source file
 tif_warning.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_warning.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_warning.c.i
 .PHONY : tif_warning.c.i
 
 tif_warning.s: tif_warning.c.s
@@ -1085,7 +1085,7 @@ tif_warning.s: tif_warning.c.s
 
 # target to generate assembly for a file
 tif_warning.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_warning.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_warning.c.s
 .PHONY : tif_warning.c.s
 
 tif_write.o: tif_write.c.o
@@ -1093,7 +1093,7 @@ tif_write.o: tif_write.c.o
 
 # target to build an object file
 tif_write.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_write.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_write.c.o
 .PHONY : tif_write.c.o
 
 tif_write.i: tif_write.c.i
@@ -1101,7 +1101,7 @@ tif_write.i: tif_write.c.i
 
 # target to preprocess a source file
 tif_write.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_write.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_write.c.i
 .PHONY : tif_write.c.i
 
 tif_write.s: tif_write.c.s
@@ -1109,7 +1109,7 @@ tif_write.s: tif_write.c.s
 
 # target to generate assembly for a file
 tif_write.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_write.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_write.c.s
 .PHONY : tif_write.c.s
 
 tif_zip.o: tif_zip.c.o
@@ -1117,7 +1117,7 @@ tif_zip.o: tif_zip.c.o
 
 # target to build an object file
 tif_zip.c.o:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_zip.c.o
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_zip.c.o
 .PHONY : tif_zip.c.o
 
 tif_zip.i: tif_zip.c.i
@@ -1125,7 +1125,7 @@ tif_zip.i: tif_zip.c.i
 
 # target to preprocess a source file
 tif_zip.c.i:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_zip.c.i
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_zip.c.i
 .PHONY : tif_zip.c.i
 
 tif_zip.s: tif_zip.c.s
@@ -1133,7 +1133,7 @@ tif_zip.s: tif_zip.c.s
 
 # target to generate assembly for a file
 tif_zip.c.s:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_zip.c.s
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(MAKE) -f 3rdparty/libtiff/CMakeFiles/libtiff.dir/build.make 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_zip.c.s
 .PHONY : tif_zip.c.s
 
 # Help Target
@@ -1282,6 +1282,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

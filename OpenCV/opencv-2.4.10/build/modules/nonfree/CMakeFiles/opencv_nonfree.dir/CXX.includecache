@@ -304,67 +304,67 @@ opencv2/ocl/ocl.hpp
 opencv2/ocl/cl_runtime/cl_runtime.hpp
 ../modules/ocl/include/opencv2/ocl/private/opencv2/ocl/cl_runtime/cl_runtime.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/nonfree/opencl_kernels.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/nonfree/opencl_kernels.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/nonfree/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/nonfree/precomp.hpp
 opencl_kernels.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/nonfree/opencl_kernels.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/nonfree/opencl_kernels.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/nonfree/opencl_kernels.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/nonfree/opencl_kernels.hpp
 opencv2/ocl/private/util.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/build/modules/nonfree/opencv2/ocl/private/util.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/build/modules/nonfree/opencv2/ocl/private/util.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/nonfree_init.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/nonfree_init.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/precomp.hpp
 cvconfig.h
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/cvconfig.h
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/cvconfig.h
 opencv2/opencv_modules.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/opencv_modules.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/opencv_modules.hpp
 opencv2/nonfree/nonfree.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/nonfree/nonfree.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/nonfree/nonfree.hpp
 opencv2/imgproc/imgproc.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/imgproc/imgproc.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/imgproc/imgproc.hpp
 opencv2/core/internal.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/core/internal.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/core/internal.hpp
 opencv2/nonfree/gpu.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/nonfree/gpu.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/nonfree/gpu.hpp
 opencv2/gpu/stream_accessor.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/gpu/stream_accessor.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/gpu/stream_accessor.hpp
 opencv2/gpu/device/common.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/gpu/device/common.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/gpu/device/common.hpp
 opencv2/nonfree/ocl.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/nonfree/ocl.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/nonfree/ocl.hpp
 opencv2/ocl/private/util.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/ocl/private/util.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/opencv2/ocl/private/util.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/sift.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/sift.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/precomp.hpp
 iostream
 -
 stdarg.h
 -
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/surf.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/surf.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/surf_gpu.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/surf_gpu.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/precomp.hpp
 
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/surf_ocl.cpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/surf_ocl.cpp
 precomp.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/precomp.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/precomp.hpp
 cstdio
 -
 sstream
 -
 opencl_kernels.hpp
-/Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/nonfree/src/opencl_kernels.hpp
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/nonfree/src/opencl_kernels.hpp
 
 cvconfig.h
 

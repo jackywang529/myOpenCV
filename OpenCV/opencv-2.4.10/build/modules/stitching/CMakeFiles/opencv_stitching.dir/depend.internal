@@ -36,9 +36,9 @@ modules/stitching/CMakeFiles/opencv_stitching.dir/src/autocalib.cpp.o
  ../modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
  ../modules/stitching/include/opencv2/stitching/stitcher.hpp
  ../modules/stitching/include/opencv2/stitching/warpers.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/autocalib.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/autocalib.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/stitching/CMakeFiles/opencv_stitching.dir/src/blenders.cpp.o
@@ -76,9 +76,9 @@ modules/stitching/CMakeFiles/opencv_stitching.dir/src/blenders.cpp.o
  ../modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
  ../modules/stitching/include/opencv2/stitching/stitcher.hpp
  ../modules/stitching/include/opencv2/stitching/warpers.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/blenders.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/blenders.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/stitching/CMakeFiles/opencv_stitching.dir/src/camera.cpp.o
@@ -116,9 +116,9 @@ modules/stitching/CMakeFiles/opencv_stitching.dir/src/camera.cpp.o
  ../modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
  ../modules/stitching/include/opencv2/stitching/stitcher.hpp
  ../modules/stitching/include/opencv2/stitching/warpers.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/camera.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/camera.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/stitching/CMakeFiles/opencv_stitching.dir/src/exposure_compensate.cpp.o
@@ -156,9 +156,9 @@ modules/stitching/CMakeFiles/opencv_stitching.dir/src/exposure_compensate.cpp.o
  ../modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
  ../modules/stitching/include/opencv2/stitching/stitcher.hpp
  ../modules/stitching/include/opencv2/stitching/warpers.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/exposure_compensate.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/exposure_compensate.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/stitching/CMakeFiles/opencv_stitching.dir/src/matchers.cpp.o
@@ -198,9 +198,9 @@ modules/stitching/CMakeFiles/opencv_stitching.dir/src/matchers.cpp.o
  ../modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
  ../modules/stitching/include/opencv2/stitching/stitcher.hpp
  ../modules/stitching/include/opencv2/stitching/warpers.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/matchers.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/matchers.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/stitching/CMakeFiles/opencv_stitching.dir/src/motion_estimators.cpp.o
@@ -238,9 +238,9 @@ modules/stitching/CMakeFiles/opencv_stitching.dir/src/motion_estimators.cpp.o
  ../modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
  ../modules/stitching/include/opencv2/stitching/stitcher.hpp
  ../modules/stitching/include/opencv2/stitching/warpers.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/motion_estimators.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/motion_estimators.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/stitching/CMakeFiles/opencv_stitching.dir/src/seam_finders.cpp.o
@@ -278,9 +278,9 @@ modules/stitching/CMakeFiles/opencv_stitching.dir/src/seam_finders.cpp.o
  ../modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
  ../modules/stitching/include/opencv2/stitching/stitcher.hpp
  ../modules/stitching/include/opencv2/stitching/warpers.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/seam_finders.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/seam_finders.cpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/stitching/CMakeFiles/opencv_stitching.dir/src/stitcher.cpp.o
@@ -318,9 +318,9 @@ modules/stitching/CMakeFiles/opencv_stitching.dir/src/stitcher.cpp.o
  ../modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
  ../modules/stitching/include/opencv2/stitching/stitcher.hpp
  ../modules/stitching/include/opencv2/stitching/warpers.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/stitcher.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/stitcher.cpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/stitching/CMakeFiles/opencv_stitching.dir/src/util.cpp.o
@@ -358,9 +358,9 @@ modules/stitching/CMakeFiles/opencv_stitching.dir/src/util.cpp.o
  ../modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
  ../modules/stitching/include/opencv2/stitching/stitcher.hpp
  ../modules/stitching/include/opencv2/stitching/warpers.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/util.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/util.cpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/stitching/CMakeFiles/opencv_stitching.dir/src/warpers.cpp.o
@@ -398,8 +398,8 @@ modules/stitching/CMakeFiles/opencv_stitching.dir/src/warpers.cpp.o
  ../modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
  ../modules/stitching/include/opencv2/stitching/stitcher.hpp
  ../modules/stitching/include/opencv2/stitching/warpers.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/stitching/src/warpers.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/../../imgproc/src/gcgraph.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/stitching/src/warpers.cpp
  cvconfig.h
  opencv2/opencv_modules.hpp

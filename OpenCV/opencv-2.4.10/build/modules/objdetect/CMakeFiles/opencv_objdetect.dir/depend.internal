@@ -16,9 +16,9 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/cascadedetect.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/cascadedetect.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/cascadedetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/cascadedetect.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/cascadedetect.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/datamatrix.cpp.o
@@ -36,8 +36,8 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/datamatrix.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/datamatrix.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/datamatrix.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/distancetransform.cpp.o
@@ -55,11 +55,11 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/distancetransform.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_distancetransform.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/distancetransform.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_distancetransform.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/distancetransform.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/featurepyramid.cpp.o
@@ -77,13 +77,13 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/featurepyramid.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_latentsvm.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_resizeimg.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_routine.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/featurepyramid.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_latentsvm.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_resizeimg.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_routine.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/featurepyramid.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/fft.cpp.o
@@ -101,11 +101,11 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/fft.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_fft.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/fft.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_fft.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/fft.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/haar.cpp.o
@@ -123,8 +123,8 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/haar.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/haar.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/haar.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/hog.cpp.o
@@ -142,8 +142,8 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/hog.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/hog.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/hog.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/latentsvm.cpp.o
@@ -161,16 +161,16 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/latentsvm.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_latentsvm.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_distancetransform.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_fft.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_matching.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_routine.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_tbbversion.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/latentsvm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_latentsvm.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_distancetransform.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_fft.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_matching.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_routine.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_tbbversion.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/latentsvm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/latentsvmdetector.cpp.o
@@ -188,17 +188,17 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/latentsvmdetector.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_latentsvm.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_distancetransform.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_fft.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_matching.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_routine.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_tbbversion.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvmparser.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/latentsvmdetector.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_latentsvm.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_distancetransform.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_fft.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_matching.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_routine.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_tbbversion.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvmparser.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/latentsvmdetector.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/linemod.cpp.o
@@ -216,9 +216,9 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/linemod.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/linemod.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/normal_lut.i
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/linemod.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/normal_lut.i
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/lsvmparser.cpp.o
@@ -236,11 +236,11 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/lsvmparser.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvmparser.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/lsvmparser.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvmparser.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/lsvmparser.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/lsvmtbbversion.cpp.o
@@ -258,16 +258,16 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/lsvmtbbversion.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_latentsvm.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_distancetransform.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_fft.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_matching.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_routine.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_tbbversion.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/lsvmtbbversion.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_latentsvm.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_distancetransform.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_fft.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_matching.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_routine.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_tbbversion.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/lsvmtbbversion.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/matching.cpp.o
@@ -285,16 +285,16 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/matching.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_latentsvm.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_distancetransform.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_fft.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_matching.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_routine.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_tbbversion.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/matching.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_latentsvm.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_distancetransform.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_fft.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_matching.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_routine.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_tbbversion.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/matching.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/objdetect_init.cpp.o
@@ -312,8 +312,8 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/objdetect_init.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/objdetect_init.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/objdetect_init.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/resizeimg.cpp.o
@@ -331,10 +331,10 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/resizeimg.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_resizeimg.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/resizeimg.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_resizeimg.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/resizeimg.cpp
  cvconfig.h
  opencv2/opencv_modules.hpp
 modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/routine.cpp.o
@@ -352,10 +352,10 @@ modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/routine.cpp.o
  ../modules/imgproc/include/opencv2/imgproc/imgproc_c.h
  ../modules/imgproc/include/opencv2/imgproc/types_c.h
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_routine.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/objdetect/src/routine.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_error.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_routine.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/_lsvm_types.h
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/objdetect/src/routine.cpp
  cvconfig.h
  opencv2/opencv_modules.hpp

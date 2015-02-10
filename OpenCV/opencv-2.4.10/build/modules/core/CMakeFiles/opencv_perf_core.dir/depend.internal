@@ -17,8 +17,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_abs.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_abs.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_abs.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_addWeighted.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -35,8 +35,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_addWeighted.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_addWeighted.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_addWeighted.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_arithm.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -53,8 +53,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_arithm.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_arithm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_arithm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_bitwise.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -71,8 +71,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_bitwise.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_bitwise.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_bitwise.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_compare.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -89,8 +89,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_compare.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_compare.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_compare.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_convertTo.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -107,8 +107,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_convertTo.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_convertTo.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_convertTo.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_dft.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -125,8 +125,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_dft.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_dft.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_dft.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_dot.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -143,8 +143,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_dot.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_dot.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_dot.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_inRange.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -161,8 +161,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_inRange.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_inRange.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_inRange.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_main.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -179,8 +179,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_main.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_main.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_main.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_mat.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -197,8 +197,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_mat.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_mat.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_mat.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_math.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -215,8 +215,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_math.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_math.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_math.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_merge.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -233,8 +233,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_merge.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_merge.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_merge.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_minmaxloc.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -251,8 +251,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_minmaxloc.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_minmaxloc.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_minmaxloc.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_norm.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -269,8 +269,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_norm.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_norm.cpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_norm.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_reduce.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -287,8 +287,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_reduce.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_reduce.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_reduce.cpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_split.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -305,8 +305,8 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_split.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_split.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_split.cpp
 modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_stat.cpp.o
  ../modules/core/include/opencv2/core/core.hpp
  ../modules/core/include/opencv2/core/core_c.h
@@ -323,5 +323,5 @@ modules/core/CMakeFiles/opencv_perf_core.dir/perf/perf_stat.cpp.o
  ../modules/ts/include/opencv2/ts/ts.hpp
  ../modules/ts/include/opencv2/ts/ts_gtest.h
  ../modules/ts/include/opencv2/ts/ts_perf.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/modules/core/perf/perf_stat.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_precomp.hpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/modules/core/perf/perf_stat.cpp

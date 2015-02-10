@@ -55,4 +55,4 @@ apps/haartraining/CMakeFiles/opencv_performance.dir/performance.cpp.o
  ../modules/legacy/include/opencv2/legacy/compat.hpp
  ../modules/objdetect/include/opencv2/objdetect/objdetect.hpp
  ../modules/video/include/opencv2/video/tracking.hpp
- /Users/jackywang/Desktop/231a/project/OpenCV/opencv-2.4.10/apps/haartraining/performance.cpp
+ /Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/opencv-2.4.10/apps/haartraining/performance.cpp
