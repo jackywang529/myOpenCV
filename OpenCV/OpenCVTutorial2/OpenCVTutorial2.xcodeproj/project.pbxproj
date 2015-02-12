@@ -11,7 +11,15 @@
 		C7203ABF1A8992630000C35A /* libopencv_imgproc.2.4.10.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C7203ABC1A8992630000C35A /* libopencv_imgproc.2.4.10.dylib */; };
 		C7203AC01A8992630000C35A /* libopencv_highgui.2.4.10.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C7203ABD1A8992630000C35A /* libopencv_highgui.2.4.10.dylib */; };
 		C7203AC11A8992630000C35A /* libopencv_core.2.4.10.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C7203ABE1A8992630000C35A /* libopencv_core.2.4.10.dylib */; };
-		C7203ACC1A89AC8F0000C35A /* FrameDifferenceBGS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7203ACB1A89AC8F0000C35A /* FrameDifferenceBGS.cpp */; };
+		C76F3E431A8ABC1A00360C1D /* WeightedMovingVarianceBGS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C76F3E3E1A8ABC1A00360C1D /* WeightedMovingVarianceBGS.cpp */; };
+		C76F3E441A8ABC1A00360C1D /* WeightedMovingMeanBGS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C76F3E401A8ABC1A00360C1D /* WeightedMovingMeanBGS.cpp */; };
+		C76F3E451A8ABC1A00360C1D /* FrameDifferenceBGS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C76F3E421A8ABC1A00360C1D /* FrameDifferenceBGS.cpp */; };
+		C76F3E4B1A8ABE3300360C1D /* AdaptiveSelectiveBackgroundLearning.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C76F3E481A8ABE3300360C1D /* AdaptiveSelectiveBackgroundLearning.cpp */; };
+		C76F3E4C1A8ABE3300360C1D /* AdaptiveBackgroundLearning.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C76F3E4A1A8ABE3300360C1D /* AdaptiveBackgroundLearning.cpp */; };
+		C78EAD531A8ADE00002041D2 /* bgs_convert.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C78EAD511A8ADE00002041D2 /* bgs_convert.cpp */; };
+		C7F5218A1A8CABBF00818370 /* stdafx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7F521861A8CABBF00818370 /* stdafx.cpp */; };
+		C7F5218B1A8CABBF00818370 /* ObjectExtractor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7F521881A8CABBF00818370 /* ObjectExtractor.cpp */; };
+		C7F5218C1A8CABBF00818370 /* ConsoleApplication1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7F521891A8CABBF00818370 /* ConsoleApplication1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,8 +40,23 @@
 		C7203ABC1A8992630000C35A /* libopencv_imgproc.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_imgproc.2.4.10.dylib; path = "../opencv-2.4.10/build/lib/libopencv_imgproc.2.4.10.dylib"; sourceTree = "<group>"; };
 		C7203ABD1A8992630000C35A /* libopencv_highgui.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_highgui.2.4.10.dylib; path = "../opencv-2.4.10/build/lib/libopencv_highgui.2.4.10.dylib"; sourceTree = "<group>"; };
 		C7203ABE1A8992630000C35A /* libopencv_core.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_core.2.4.10.dylib; path = "../opencv-2.4.10/build/lib/libopencv_core.2.4.10.dylib"; sourceTree = "<group>"; };
-		C7203ACA1A89AC8F0000C35A /* FrameDifferenceBGS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FrameDifferenceBGS.h; path = package_bgs/FrameDifferenceBGS.h; sourceTree = SOURCE_ROOT; };
-		C7203ACB1A89AC8F0000C35A /* FrameDifferenceBGS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = FrameDifferenceBGS.cpp; path = package_bgs/FrameDifferenceBGS.cpp; sourceTree = SOURCE_ROOT; };
+		C76F3E3D1A8ABC1A00360C1D /* WeightedMovingVarianceBGS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WeightedMovingVarianceBGS.h; path = ../../externals/bgslibrary/package_bgs/WeightedMovingVarianceBGS.h; sourceTree = "<group>"; };
+		C76F3E3E1A8ABC1A00360C1D /* WeightedMovingVarianceBGS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = WeightedMovingVarianceBGS.cpp; path = ../../externals/bgslibrary/package_bgs/WeightedMovingVarianceBGS.cpp; sourceTree = "<group>"; };
+		C76F3E3F1A8ABC1A00360C1D /* WeightedMovingMeanBGS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WeightedMovingMeanBGS.h; path = ../../externals/bgslibrary/package_bgs/WeightedMovingMeanBGS.h; sourceTree = "<group>"; };
+		C76F3E401A8ABC1A00360C1D /* WeightedMovingMeanBGS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = WeightedMovingMeanBGS.cpp; path = ../../externals/bgslibrary/package_bgs/WeightedMovingMeanBGS.cpp; sourceTree = "<group>"; };
+		C76F3E411A8ABC1A00360C1D /* FrameDifferenceBGS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FrameDifferenceBGS.h; path = ../../externals/bgslibrary/package_bgs/FrameDifferenceBGS.h; sourceTree = "<group>"; };
+		C76F3E421A8ABC1A00360C1D /* FrameDifferenceBGS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = FrameDifferenceBGS.cpp; path = ../../externals/bgslibrary/package_bgs/FrameDifferenceBGS.cpp; sourceTree = "<group>"; };
+		C76F3E471A8ABE3300360C1D /* AdaptiveSelectiveBackgroundLearning.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AdaptiveSelectiveBackgroundLearning.h; path = ../../externals/bgslibrary/package_bgs/AdaptiveSelectiveBackgroundLearning.h; sourceTree = "<group>"; };
+		C76F3E481A8ABE3300360C1D /* AdaptiveSelectiveBackgroundLearning.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AdaptiveSelectiveBackgroundLearning.cpp; path = ../../externals/bgslibrary/package_bgs/AdaptiveSelectiveBackgroundLearning.cpp; sourceTree = "<group>"; };
+		C76F3E491A8ABE3300360C1D /* AdaptiveBackgroundLearning.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AdaptiveBackgroundLearning.h; path = ../../externals/bgslibrary/package_bgs/AdaptiveBackgroundLearning.h; sourceTree = "<group>"; };
+		C76F3E4A1A8ABE3300360C1D /* AdaptiveBackgroundLearning.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AdaptiveBackgroundLearning.cpp; path = ../../externals/bgslibrary/package_bgs/AdaptiveBackgroundLearning.cpp; sourceTree = "<group>"; };
+		C78EAD511A8ADE00002041D2 /* bgs_convert.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = bgs_convert.cpp; sourceTree = "<group>"; };
+		C78EAD521A8ADE00002041D2 /* bgs_convert.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bgs_convert.h; sourceTree = "<group>"; };
+		C7F521851A8CABBF00818370 /* stdafx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stdafx.h; sourceTree = "<group>"; };
+		C7F521861A8CABBF00818370 /* stdafx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = stdafx.cpp; sourceTree = "<group>"; };
+		C7F521871A8CABBF00818370 /* ObjectExtractor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjectExtractor.h; sourceTree = "<group>"; };
+		C7F521881A8CABBF00818370 /* ObjectExtractor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ObjectExtractor.cpp; sourceTree = "<group>"; };
+		C7F521891A8CABBF00818370 /* ConsoleApplication1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ConsoleApplication1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +81,13 @@
 				C7203ABE1A8992630000C35A /* libopencv_core.2.4.10.dylib */,
 				C7203AB41A8992070000C35A /* OpenCVTutorial2 */,
 				C7203AB31A8992070000C35A /* Products */,
+				C7203AB21A8992070000C35A /* OpenCVTutorial2 */,
 			);
 			sourceTree = "<group>";
 		};
 		C7203AB31A8992070000C35A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C7203AB21A8992070000C35A /* OpenCVTutorial2 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -72,11 +95,34 @@
 		C7203AB41A8992070000C35A /* OpenCVTutorial2 */ = {
 			isa = PBXGroup;
 			children = (
-				C7203ACA1A89AC8F0000C35A /* FrameDifferenceBGS.h */,
-				C7203ACB1A89AC8F0000C35A /* FrameDifferenceBGS.cpp */,
+				C76F3E461A8ABC3E00360C1D /* bgs */,
 				C7203AB51A8992070000C35A /* main.cpp */,
+				C78EAD511A8ADE00002041D2 /* bgs_convert.cpp */,
+				C78EAD521A8ADE00002041D2 /* bgs_convert.h */,
+				C7F521851A8CABBF00818370 /* stdafx.h */,
+				C7F521861A8CABBF00818370 /* stdafx.cpp */,
+				C7F521871A8CABBF00818370 /* ObjectExtractor.h */,
+				C7F521881A8CABBF00818370 /* ObjectExtractor.cpp */,
+				C7F521891A8CABBF00818370 /* ConsoleApplication1.cpp */,
 			);
 			path = OpenCVTutorial2;
+			sourceTree = "<group>";
+		};
+		C76F3E461A8ABC3E00360C1D /* bgs */ = {
+			isa = PBXGroup;
+			children = (
+				C76F3E471A8ABE3300360C1D /* AdaptiveSelectiveBackgroundLearning.h */,
+				C76F3E481A8ABE3300360C1D /* AdaptiveSelectiveBackgroundLearning.cpp */,
+				C76F3E491A8ABE3300360C1D /* AdaptiveBackgroundLearning.h */,
+				C76F3E4A1A8ABE3300360C1D /* AdaptiveBackgroundLearning.cpp */,
+				C76F3E3D1A8ABC1A00360C1D /* WeightedMovingVarianceBGS.h */,
+				C76F3E3E1A8ABC1A00360C1D /* WeightedMovingVarianceBGS.cpp */,
+				C76F3E3F1A8ABC1A00360C1D /* WeightedMovingMeanBGS.h */,
+				C76F3E401A8ABC1A00360C1D /* WeightedMovingMeanBGS.cpp */,
+				C76F3E411A8ABC1A00360C1D /* FrameDifferenceBGS.h */,
+				C76F3E421A8ABC1A00360C1D /* FrameDifferenceBGS.cpp */,
+			);
+			name = bgs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,8 +181,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C76F3E451A8ABC1A00360C1D /* FrameDifferenceBGS.cpp in Sources */,
+				C76F3E4B1A8ABE3300360C1D /* AdaptiveSelectiveBackgroundLearning.cpp in Sources */,
+				C78EAD531A8ADE00002041D2 /* bgs_convert.cpp in Sources */,
+				C7F5218B1A8CABBF00818370 /* ObjectExtractor.cpp in Sources */,
+				C7F5218C1A8CABBF00818370 /* ConsoleApplication1.cpp in Sources */,
+				C76F3E441A8ABC1A00360C1D /* WeightedMovingMeanBGS.cpp in Sources */,
 				C7203AB61A8992070000C35A /* main.cpp in Sources */,
-				C7203ACC1A89AC8F0000C35A /* FrameDifferenceBGS.cpp in Sources */,
+				C7F5218A1A8CABBF00818370 /* stdafx.cpp in Sources */,
+				C76F3E431A8ABC1A00360C1D /* WeightedMovingVarianceBGS.cpp in Sources */,
+				C76F3E4C1A8ABE3300360C1D /* AdaptiveBackgroundLearning.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +320,7 @@
 				C7203ABB1A8992070000C35A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -22,7 +22,7 @@
 		<key>C55CACB1455628CEE939F95BDC9D38A5DBA4EE3A</key>
 		<string>../../../..</string>
 		<key>E875C2C25AA3F9AC22368E7EB0EE3E894473831C</key>
-		<string>../../../..OpenCV/externals/bgslibrary/</string>
+		<string>../../../..OpenCV/externals/bgslibrary</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/jackywang529/myOpenCV.git</string>
