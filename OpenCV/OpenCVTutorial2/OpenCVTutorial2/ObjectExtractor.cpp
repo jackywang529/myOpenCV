@@ -41,9 +41,9 @@ vector<Rect> ObjectExtractor::cluster(Mat frame){
 		samples.at<float>(i, 0) = whitePoints[i][0];
 		samples.at<float>(i, 1) = whitePoints[i][1];
 	}
-
+    if (whitePoints.size() < 50) return vector<Rect>();
 	// Perform k-means
-	int clusterCount = 6;
+	int clusterCount = 4;
 	Mat clusterAssignments;
 	int attempts = 2;
 	Mat centers;

@@ -17,6 +17,8 @@
 		C76F3E4B1A8ABE3300360C1D /* AdaptiveSelectiveBackgroundLearning.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C76F3E481A8ABE3300360C1D /* AdaptiveSelectiveBackgroundLearning.cpp */; };
 		C76F3E4C1A8ABE3300360C1D /* AdaptiveBackgroundLearning.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C76F3E4A1A8ABE3300360C1D /* AdaptiveBackgroundLearning.cpp */; };
 		C78EAD531A8ADE00002041D2 /* bgs_convert.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C78EAD511A8ADE00002041D2 /* bgs_convert.cpp */; };
+		C7E0A9E11A909412005134E6 /* StaticFrameDifferenceBGS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7E0A9DF1A909412005134E6 /* StaticFrameDifferenceBGS.cpp */; };
+		C7E0A9E41A909439005134E6 /* GMG.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7E0A9E21A909439005134E6 /* GMG.cpp */; };
 		C7F5218A1A8CABBF00818370 /* stdafx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7F521861A8CABBF00818370 /* stdafx.cpp */; };
 		C7F5218B1A8CABBF00818370 /* ObjectExtractor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7F521881A8CABBF00818370 /* ObjectExtractor.cpp */; };
 		C7F5218C1A8CABBF00818370 /* ConsoleApplication1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7F521891A8CABBF00818370 /* ConsoleApplication1.cpp */; };
@@ -52,6 +54,10 @@
 		C76F3E4A1A8ABE3300360C1D /* AdaptiveBackgroundLearning.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AdaptiveBackgroundLearning.cpp; path = ../../externals/bgslibrary/package_bgs/AdaptiveBackgroundLearning.cpp; sourceTree = "<group>"; };
 		C78EAD511A8ADE00002041D2 /* bgs_convert.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = bgs_convert.cpp; sourceTree = "<group>"; };
 		C78EAD521A8ADE00002041D2 /* bgs_convert.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bgs_convert.h; sourceTree = "<group>"; };
+		C7E0A9DF1A909412005134E6 /* StaticFrameDifferenceBGS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = StaticFrameDifferenceBGS.cpp; path = ../../../../bgslibrary/package_bgs/StaticFrameDifferenceBGS.cpp; sourceTree = "<group>"; };
+		C7E0A9E01A909412005134E6 /* StaticFrameDifferenceBGS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = StaticFrameDifferenceBGS.h; path = ../../../../bgslibrary/package_bgs/StaticFrameDifferenceBGS.h; sourceTree = "<group>"; };
+		C7E0A9E21A909439005134E6 /* GMG.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = GMG.cpp; path = ../../externals/bgslibrary/package_bgs/GMG.cpp; sourceTree = "<group>"; };
+		C7E0A9E31A909439005134E6 /* GMG.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GMG.h; path = ../../externals/bgslibrary/package_bgs/GMG.h; sourceTree = "<group>"; };
 		C7F521851A8CABBF00818370 /* stdafx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stdafx.h; sourceTree = "<group>"; };
 		C7F521861A8CABBF00818370 /* stdafx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = stdafx.cpp; sourceTree = "<group>"; };
 		C7F521871A8CABBF00818370 /* ObjectExtractor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjectExtractor.h; sourceTree = "<group>"; };
@@ -111,6 +117,10 @@
 		C76F3E461A8ABC3E00360C1D /* bgs */ = {
 			isa = PBXGroup;
 			children = (
+				C7E0A9E21A909439005134E6 /* GMG.cpp */,
+				C7E0A9E31A909439005134E6 /* GMG.h */,
+				C7E0A9DF1A909412005134E6 /* StaticFrameDifferenceBGS.cpp */,
+				C7E0A9E01A909412005134E6 /* StaticFrameDifferenceBGS.h */,
 				C76F3E471A8ABE3300360C1D /* AdaptiveSelectiveBackgroundLearning.h */,
 				C76F3E481A8ABE3300360C1D /* AdaptiveSelectiveBackgroundLearning.cpp */,
 				C76F3E491A8ABE3300360C1D /* AdaptiveBackgroundLearning.h */,
@@ -181,8 +191,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7E0A9E11A909412005134E6 /* StaticFrameDifferenceBGS.cpp in Sources */,
 				C76F3E451A8ABC1A00360C1D /* FrameDifferenceBGS.cpp in Sources */,
 				C76F3E4B1A8ABE3300360C1D /* AdaptiveSelectiveBackgroundLearning.cpp in Sources */,
+				C7E0A9E41A909439005134E6 /* GMG.cpp in Sources */,
 				C78EAD531A8ADE00002041D2 /* bgs_convert.cpp in Sources */,
 				C7F5218B1A8CABBF00818370 /* ObjectExtractor.cpp in Sources */,
 				C7F5218C1A8CABBF00818370 /* ConsoleApplication1.cpp in Sources */,

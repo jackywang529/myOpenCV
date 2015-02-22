@@ -1,0 +1,1 @@
+/Users/jackywang/Desktop/231a/project/myOpenCV/OpenCV/cmakeTest-build/CMakeFiles/cmakeTest.dir

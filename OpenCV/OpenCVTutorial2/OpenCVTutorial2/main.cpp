@@ -16,34 +16,48 @@ using namespace cv;
 // Helper function prototypes
 string getPathFromDataset(string dataType, int imgNum);
 string getDigitString(int numDigits, int num);
+void TestBGSVideoConvert();
 
 int main (int argc, char *argv[]) {
+    TestBGSVideoConvert();
+    /*
     string videoName = "WeightedMovingMean.avi";
     VideoCapture cap(videoName); // open the default camera
     if (!cap.isOpened()) {
         std::cout << "video not opened\n";
     }
     
+    string originalVideoName = "train.avi";
+    VideoCapture origCap(originalVideoName);
+    if (!origCap.isOpened()) {
+        std::cout << "original video not opened\n";
+    }
+    
     Mat frame;
+    Mat origFrame;
     ObjectExtractor extractor;
     while(1) {
         cap >> frame;
-        cvtColor(frame,frame,CV_RGB2GRAY);
-        
+        origCap >> origFrame;
         if (!frame.data) {
             break;
         }
+        
+        cvtColor(frame,frame,CV_RGB2GRAY);
         
         vector<Rect> boxes = extractor.extractBoxes(frame);
         for (Rect box : boxes){
             std::cout << box << endl;
             rectangle(frame, box, Scalar(255, 255, 255));
+            rectangle(origFrame, box, Scalar(255, 255, 255));
         }
-        imshow("Object Detection", frame);
+        imshow("BGS Detection", frame);
+        imshow("Original Detection", origFrame);
         
         if (cvWaitKey(1) >= 0)
             break;
     }
+     */
     return 0;
 }
 
@@ -52,7 +66,7 @@ void TestBGSVideoConvert() {
     bgs_convert *convert = new bgs_convert("AdaptiveSelectiveBackgroundLearning");
     
     // Test video convert
-    VideoCapture result = convert->convert_video(capture, "AdaptiveSelectiveBackgroundLearning.avi");
+    VideoCapture result = convert->convert_video(capture, "test.avi");
     Mat vidTest;
     while(1) {
         result >> vidTest;
